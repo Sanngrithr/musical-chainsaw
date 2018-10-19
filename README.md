@@ -1,2 +1,4 @@
 # musical-chainsaw
-Intro to Deep Learning
+Introduction to Deep Learning
+
+Scripts created in the Practicals and Homework
