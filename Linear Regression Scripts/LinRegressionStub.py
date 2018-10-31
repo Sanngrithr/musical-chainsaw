@@ -43,6 +43,7 @@ print('target training shape: ', y_train.shape)
 
 #here again slice, add column of ones
 X_test = X_[401:,:]
+X_test = np.c_[np.ones(105), X_test]
 print('test data shape: ', X_test.shape)
 y_test = y_[401:]
 
@@ -59,12 +60,12 @@ tf.reset_default_graph()
 #the input X, y is taken into account in the computational graph via a placeholder
 
 #define placeholder for computational graph of shape [400,14] and type tf.float32
-X = tf.Variable(X_train.shape, name="training_data", dtype=tf.float32)
+X = tf.placeholder(tf.float32, shape=(400,14))
 #X = tf.convert_to_tensor(X_train)
 print(X)
 
 #define placeholder for target y with shape [400]
-y = tf.Variable(y_train.shape, name="predictions", dtype=tf.float32)
+y = tf.placeholder(tf.float32, shape=(400,))
 print(y)
 
 #the parameters that need to be learned are defined by means of variables
@@ -92,11 +93,11 @@ print('theta_hat iterative: ', t_hat)
 print('theta_hat normal equations: ', opt) 
      
 #fill test target and predicted target
-plt.scatter(y, y_hat)
+plt.scatter(y_train, y_pred)
 plt.xlabel("Prices: $y_i$")
 plt.ylabel("Predicted prices: $\hat{y}_i$")
 plt.title("Prices vs Predicted prices: $y_i$ vs $\hat{y}_i$")
-
+plt.show()
 
 
 
