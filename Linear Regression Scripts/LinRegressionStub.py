@@ -70,7 +70,7 @@ print(y)
 
 #the parameters that need to be learned are defined by means of variables
 #define theta variable 
-theta_hat= tf.Variable(opt, name="optimum_values", dtype=tf.float32)
+theta_hat= tf.Variable(np.random.rand(14,), name="optimum_values", dtype=tf.float32)
 print(theta_hat)
 y_hat = tf.tensordot(X,theta_hat,1)
 
