@@ -47,7 +47,7 @@ opt = np.dot(np.linalg.inv(np.dot(X_train.T, X_train)), np.dot(X_train.T, y_trai
 print(opt)
 
 #######################end of a) b) c)
-######start d)###################################
+######start f)###################################
 
 tf.reset_default_graph()
 
@@ -56,7 +56,7 @@ X = tf.placeholder(tf.float32, shape=(400,14))
 y = tf.placeholder(tf.float32, shape=(400,))
 
 #define theta hat variable 
-theta_hat= tf.Variable(np.random.rand(14,), name="optimum_values", dtype=tf.float32)
+theta_hat= tf.Variable(np.random.rand(14,), dtype=tf.float32)
 
 #calculate y_hat
 y_hat = tf.tensordot(X,theta_hat,1)
@@ -65,7 +65,7 @@ y_hat = tf.tensordot(X,theta_hat,1)
 error_vec = tf.subtract(y, y_hat)
 
 #calculate gradient vector
-#gradient_vec = tf.tensordot(error_vec, X, 1)????????????????????????????????????
+gradient_vec = tf.tensordot(tf.transpose(X),error_vec,1)##Noch nicht richtig! Möglicherweise Fehler an anderer Stelle?
 
 #update theta_hat
 alpha = 0.0001
