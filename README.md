@@ -10,3 +10,5 @@ Scripts created in the Practicals and Homework are uploaded here.
 [Tensorflow Stanford](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 
 <https://www.tensorflow.org/guide/tensors>
+
+[Youtube Tensorflow](www.youtube.com/watch?v=xFGktP4IXhc)
