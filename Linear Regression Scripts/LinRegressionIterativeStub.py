@@ -62,10 +62,10 @@ theta_hat= tf.Variable(np.random.rand(14,), dtype=tf.float32)
 y_hat = tf.tensordot(X,theta_hat,1)
 
 #calculate error vector e (y - y_hat)
-error_vec = tf.subtract(y, y_hat)
+error_vec = tf.subtract(y_hat, y)
 
 #calculate gradient vector
-gradient_vec = tf.tensordot(tf.transpose(X),error_vec,1)##Noch nicht richtig! Möglicherweise Fehler an anderer Stelle?
+gradient_vec = tf.tensordot(tf.transpose(-X),error_vec,1)##Noch nicht richtig! Möglicherweise Fehler an anderer Stelle?
 
 #update theta_hat
 alpha = 0.0001
