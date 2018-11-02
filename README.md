@@ -11,4 +11,4 @@ Scripts created in the Practicals and Homework are uploaded here.
 
 <https://www.tensorflow.org/guide/tensors>
 
-[Youtube Tensorflow](www.youtube.com/watch?v=xFGktP4IXhc)
+[Youtube Tensorflow](www.youtube.com/watch?v=xFGktP4lXhc)
