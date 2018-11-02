@@ -7,12 +7,10 @@ Created on Thu Jan 18 09:45:36 2018
 
 import numpy as np
 import sklearn
-
 import seaborn as sns
 import tensorflow as tf
 sns.set_style("whitegrid")
 sns.set_context("poster")
-
 
 from sklearn.datasets import load_boston
 boston = load_boston()
@@ -23,18 +21,21 @@ print(boston.data.shape)
 #print(boston.DESCR)
 X_ = boston.data
 y_ = boston.target
+
 #normalize features, features are in cols so take mean over each col-> axis = 0
 mu = np.mean(X_,axis=0)#take mean over each col
 sigma = np.std(X_,axis=0)
 X_ = (X_ - mu)/sigma
+
 #split X_ and y_ into training and test
 #discomment and fill
 X_train = X_[:400,:]
 y_train = y_[:400]
+
 #add column of ones in the first column
 #check numpy ones and hstack
 X_train = np.c_[np.ones(400), X_train]
-print('data training shape: ', X_train.shape)
+print('data training shape: ', X_train.shape)#check to see if the shape is correct
 print('target training shape: ', y_train.shape)
 
 #here again slice, add column of ones
@@ -65,7 +66,7 @@ y_hat = tf.tensordot(X,theta_hat,1)
 error_vec = tf.subtract(y_hat, y)
 
 #calculate gradient vector
-gradient_vec = tf.tensordot(tf.transpose(-X),error_vec,1)##Noch nicht richtig! Möglicherweise Fehler an anderer Stelle?
+gradient_vec = tf.tensordot(tf.transpose(-X),error_vec,1)
 
 #update theta_hat
 alpha = 0.0001
