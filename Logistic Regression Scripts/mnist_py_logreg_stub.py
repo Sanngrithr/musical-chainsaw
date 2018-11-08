@@ -94,7 +94,7 @@ for step in range(0, gdc_steps):
     print("Loss at step " + str(step) + ": " + str(loss))
     
     # compute the error term, i.e. the difference between labels and estimated labels y_hat, see equation 24 in the slides 
-    error_term = np.dot(np.transpose(z - y),X)
+    error_term = np.dot(np.transpose(y_hat - y),X)
     #print(error_term.size)
     
     # compute the gradient. as our data matrix X is currently layed out as X_j_i, we got to transpose it
