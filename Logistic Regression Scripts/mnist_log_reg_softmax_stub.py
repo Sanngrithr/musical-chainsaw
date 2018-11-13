@@ -32,9 +32,9 @@ print(img_input, labels)
 
 #define the parameters variable (we use W instead of thetas) of shape 784x2 of type tf.float32
 #use initializer = tf.contrib.layers.xavier_initializer()
-W = tf.get_variable(TO DO)
+W = tf.get_variable('W',shape=(784,2),initializer=tf.contrib.layers.xavier_initializer())
 #define bias variable of shape 2, type float, initializer = tf.constant_initializer(0.0001)
-b = tf.get_variable(TO DO)
+b = tf.get_variable('b',2, initializer=tf.constant_initializer(0.0001))
 
 #compute Input * Parameters + bias (see slide 22 (bias term omitted there))
 #==============================================================================
@@ -46,18 +46,19 @@ b = tf.get_variable(TO DO)
 #              0.9 0.6
 #              0.1 0.4]
 #==============================================================================
-logits = 
+logits = tf.tensordot(img_input,W,1) + b
 # checkout tf.losses.sparse_softmax_cross_entropy
-cross_entropy = 
+cross_entropy = tf.losses.sparse_softmax_cross_entropy(labels, logits)
 
 #compute the prediction by looking if the index of the maximum in the logits equals the label
 #checkout tf.argmax, tf.equal and you also need to convert the index from float to tf.int32
-correct_prediction = 
+correct_prediction = tf.cast(tf.equal(tf.argmax(logits,1, output_type=tf.int32),labels), tf.int32)
+
 #compute the accuracy by computing the mean of the correct_prediction
 #checkout tf.reduce_mean
-accuracy = 
+accuracy = tf.reduce_mean(correct_prediction)
 #use the minimize function of the in-built Gradient descent optimizer with a learning rate that you need to find out what would work
-opt = 
+opt = tf.train.GradientDescentOptimizer(0.00001).minimize(cross_entropy)
 
 ############test dataset####################################################
 mask_0_t = mnist.test.labels == 0
@@ -76,9 +77,9 @@ img_input_t, labels_t = iterator_t.get_next()
 #need to put input in format(batchsize, dimension), alternatively one can use dataset_t = dataset_t.batch(1) BEFORE one shot iterator
 img_input_t = tf.expand_dims(img_input_t,0)
 print(img_input_t, labels_t)
-logits_t = 
-correct_prediction_t = 
-accuracy_t = 
+logits_t = tf.tensordot(img_input_t,W,1)
+correct_prediction_t = tf.cast(tf.equal(tf.argmax(logits_t,1,output_type=tf.int32),labels_t), tf.int32)
+accuracy_t = tf.reduce_mean(correct_prediction_t)
 
 j = 0
 total_acc = 0.0
@@ -89,7 +90,8 @@ with tf.Session() as sess:
     #run training
     for i in range(10):
         ce, acc, _ = sess.run([cross_entropy, accuracy, opt])
-        print(ce, acc)
+        print("cross-entropy, accuracy")
+        print(ce,acc)
     #run test, we used a one shot iterator therefor no initialization is needed
     try:
         while True:
@@ -100,5 +102,6 @@ with tf.Session() as sess:
         pass
     all_ = sess.run(all0_1)
     print(all_.shape)
+print("Total Accuracy: ")
 print(total_acc/j)
 sess.close()   
