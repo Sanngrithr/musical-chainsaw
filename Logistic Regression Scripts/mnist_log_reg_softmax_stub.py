@@ -25,7 +25,7 @@ all0_1_labels = tf.cast(tf.concat([labels_0, labels_1], 0), tf.int32)
 #import Data with tf.data.Dataset.from_tensor_slices
 dataset = tf.data.Dataset.from_tensor_slices((all0_1,all0_1_labels))
 # Shuffle, repeat, and batch the examples.
-dataset = dataset.shuffle(12000).repeat(10).batch(10)
+dataset = dataset.shuffle(12000).repeat(10).batch(20)
 iterator = dataset.make_initializable_iterator()
 img_input, labels = iterator.get_next()
 print(img_input, labels)
@@ -58,7 +58,7 @@ correct_prediction = tf.cast(tf.equal(tf.argmax(logits,1, output_type=tf.int32),
 #checkout tf.reduce_mean
 accuracy = tf.reduce_mean(correct_prediction)
 #use the minimize function of the in-built Gradient descent optimizer with a learning rate that you need to find out what would work
-opt = tf.train.GradientDescentOptimizer(0.00001).minimize(cross_entropy)
+opt = tf.train.GradientDescentOptimizer(0.015).minimize(cross_entropy) #best learning rate so far: 0.015
 
 ############test dataset####################################################
 mask_0_t = mnist.test.labels == 0
@@ -88,7 +88,7 @@ with tf.Session() as sess:
     #iterator should be initialized
     sess.run(iterator.initializer)
     #run training
-    for i in range(10):
+    for i in range(20):
         ce, acc, _ = sess.run([cross_entropy, accuracy, opt])
         print("cross-entropy, accuracy")
         print(ce,acc)
