@@ -19,8 +19,8 @@ from sklearn.datasets import load_boston
 boston = load_boston()
 print(boston.keys())
 print(boston.data.shape)
-#print(boston.feature_names)
-#print(boston.DESCR)
+print(boston.feature_names)
+print(boston.DESCR)
 
 X_ = boston.data
 y_ = boston.target
@@ -93,7 +93,7 @@ print('theta_hat iterative: ', t_hat)
 print('theta_hat normal equations: ', opt) 
      
 #fill test target and predicted target
-plt.scatter(y_train, y_pred)
+plt.scatter(y_pred, y_pred)
 plt.xlabel("Prices: $y_i$")
 plt.ylabel("Predicted prices: $\hat{y}_i$")
 plt.title("Prices vs Predicted prices: $y_i$ vs $\hat{y}_i$")
