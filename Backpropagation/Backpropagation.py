@@ -44,6 +44,7 @@ def hiddenLayerError(W, z, delta):
 def gradientWeights(a,delta):
     return np.dot(delta, a.transpose())
 
+# Function is here fo the sake of completion, but is actually useless
 #def gradientBias(delta):
 #    return delta
 
@@ -87,11 +88,3 @@ print(delta3)
 print('___________')
 print('b1')
 print(delta2)
-
-
-
-
-
-
-
-
