@@ -6,6 +6,10 @@ Created on Fri Mar  2 20:19:06 2018
 """
 import tensorflow as tf
 
+
+#Wrapper functions for cleaner code. 
+#Taken from https://github.com/tensorflow/tensorflow/blob/r1.2/tensorflow/examples/tutorials/mnist/mnist_deep.py
+#slightly modified
 def conv2d(x, W, b,strides):
   """conv2d returns a 2d convolution layer with full stride."""
   return tf.nn.relu(tf.nn.conv2d(x, W, strides=[1, strides, strides, 1], padding='SAME') + b)
@@ -27,7 +31,7 @@ def bias_variable(shape):
   """bias_variable generates a bias variable of a given shape."""
   initial = tf.constant(0.1, shape=shape)
   return tf.Variable(initial)
-
+#Wrapper functions end here
 
 
 def build_model(input_data, label, train_mode, keep_prob, learning_rate, batch_size):
@@ -71,14 +75,24 @@ def build_model(input_data, label, train_mode, keep_prob, learning_rate, batch_s
 
     #Fully connected layers fc1 and fc2
     #Maybe the activation function needs to be used again, not entirely sure though
-    fc1 = tf.matmul(h_pool2_vec,W1_fc) + b1_fc
-    fc2 = tf.matmul(fc1, W2_fc) + b2_fc
+    h_fc1 = tf.nn.relu(tf.matmul(h_pool2_vec,W1_fc) + b1_fc)
+
+    #### Implement dropout-layer here (TODO) ####
     
-    loss = tf.losses.sparse_cross_entropy(label, fc2)
-  
-    correct_prediction = tf.cast(tf.equal(tf.argmax(fc2, 1, output_type=tf.int32),labels), tf.int32)
-    acc = tf.reduce_mean(correct_prediction)
-        
+    #Our final Predictions after the last layer
+    y_fc2 = tf.matmul(fc1, W2_fc) + b2_fc
+
+    #Do we need to use softmax after the final layer?
+    #This just calculates the cross entropy error
+    loss = tf.losses.sparse_softmax_cross_entropy(label, y_fc2)
+
+    #calculate the accuracy
+    correct_prediction = tf.cast(tf.equal(tf.argmax(y_fc2, 1, output_type=tf.int32),label), tf.float32)
+    accuracy = tf.reduce_mean(correct_prediction)
+
+    
+    
+    ###our code is finished here###
     
     global_step = tf.Variable(0, dtype=tf.int32, trainable=False, name='global_step')
     if train_mode:
@@ -86,7 +100,7 @@ def build_model(input_data, label, train_mode, keep_prob, learning_rate, batch_s
         optimizer = tf.train.AdamOptimizer(learning_rate).minimize(loss, global_step)    
         #optimizer = tf.train.RMSPropOptimizer(lr,decay=1e-6).minimize(loss, global_step)
         tf.summary.scalar('loss', loss)
-    tf.summary.scalar('accuracy', acc)
+    tf.summary.scalar('accuracy', accuracy)#changed acc --> accuracy
     tf.summary.histogram('histogram loss', loss)
     summary_op = tf.summary.merge_all()
     if train_mode:

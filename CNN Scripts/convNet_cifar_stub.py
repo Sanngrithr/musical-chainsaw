@@ -23,7 +23,7 @@ x_test = x_test.astype(np.float32)
 y_test = y_test.astype(np.int32)
 mode =0 # 1=eval, 0 = train,
 epochs = 10#
-checkpoints_path = './checkpoints'
+checkpoints_path = './checkpoints'h
 num_iter = np.int(x_train.shape[0]/batch_size)*epochs
 print('iter: ', num_iter)
 #imgs_placeholder = tf.placeholder(x_train.dtype, x_train.shape)
@@ -45,7 +45,7 @@ if (mode == 0):
      # conv, bias, relu
      
     #tf.reset_default_graph()
-    optimizer, global_step, loss, accuracy, summary_op, _ = build_model(next_element, next_label, True, keep_prob, lr, batch_size)
+    optimizer, global_step, loss, accuracy, summary_op = build_model(next_element, next_label, True, keep_prob, lr, batch_size)
     saver = tf.train.Saver()
 
     train_sess = tf.Session()
