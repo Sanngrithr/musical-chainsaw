@@ -49,7 +49,7 @@ def build_model(input_data, label, train_mode, keep_prob, learning_rate, batch_s
 
     #Create a pooling layer
     h_pool1 = max_pool_2x2(h_conv2)#shape: (?,16,16,32)
-    print(h_pool2.shape)
+    print(h_pool1.shape)
 
     #Thrid convolution
     h_conv3 = conv2d(h_pool1, W3, b3, 1)#shape: (?,16,16,64)
@@ -71,11 +71,13 @@ def build_model(input_data, label, train_mode, keep_prob, learning_rate, batch_s
 
     #Fully connected layers fc1 and fc2
     #Maybe the activation function needs to be used again, not entirely sure though
-    fc1 = tf.matmul(h_pool2_vec,W1_fc)
-    fc2 = tf.matmul(fc1, W2_fc)
-
+    fc1 = tf.matmul(h_pool2_vec,W1_fc) + b1_fc
+    fc2 = tf.matmul(fc1, W2_fc) + b2_fc
     
-
+    loss = tf.losses.sparse_cross_entropy(label, fc2)
+  
+    correct_prediction = tf.cast(tf.equal(tf.argmax(fc2, 1, output_type=tf.int32),labels), tf.int32)
+    acc = tf.reduce_mean(correct_prediction)
         
     
     global_step = tf.Variable(0, dtype=tf.int32, trainable=False, name='global_step')
