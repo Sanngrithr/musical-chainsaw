@@ -23,12 +23,12 @@ x_test = x_test.astype(np.float32)
 y_test = y_test.astype(np.int32)
 mode =0 # 1=eval, 0 = train,
 epochs = 10#
-checkpoints_path = './checkpoints'h
+checkpoints_path = './checkpoints'
+batch_size = 10
 num_iter = np.int(x_train.shape[0]/batch_size)*epochs
 print('iter: ', num_iter)
 #imgs_placeholder = tf.placeholder(x_train.dtype, x_train.shape)
 #labels_placeholder = tf.placeholder(y_train.dtype, y_train.shape)
-batch_size = 10
 lr = 0.01
 keep_prob = 1 #keep
 

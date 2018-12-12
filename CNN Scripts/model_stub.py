@@ -80,7 +80,7 @@ def build_model(input_data, label, train_mode, keep_prob, learning_rate, batch_s
     #### Implement dropout-layer here (TODO) ####
     
     #Our final Predictions after the last layer
-    y_fc2 = tf.matmul(fc1, W2_fc) + b2_fc
+    y_fc2 = tf.matmul(h_fc1, W2_fc) + b2_fc
 
     #Do we need to use softmax after the final layer?
     #This just calculates the cross entropy error
