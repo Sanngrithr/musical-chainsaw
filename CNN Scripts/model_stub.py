@@ -77,10 +77,10 @@ def build_model(input_data, label, train_mode, keep_prob, learning_rate, batch_s
     #Maybe the activation function needs to be used again, not entirely sure though
     h_fc1 = tf.nn.relu(tf.matmul(h_pool2_vec,W1_fc) + b1_fc)
 
-    #### Implement dropout-layer here (TODO) ####
+    #h_fc1_drop = tf.nn.dropout(h_fc1, keep_prob)
     
     #Our final Predictions after the last layer
-    y_fc2 = tf.matmul(h_fc1, W2_fc) + b2_fc
+    y_fc2 = tf.matmul(h_fc1_drop, W2_fc) + b2_fc
 
     #Do we need to use softmax after the final layer?
     #This just calculates the cross entropy error
