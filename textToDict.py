@@ -1,17 +1,19 @@
 import os
-
-eng_index = 0
-ger_index = 0
-
-#dictionaries with all key value pairs(contains duplicate values, unique keys)
-english_dict = {}
-german_dict = {}
-
-#final dictionaries without duplicates
-eng_dict_clean = {}
-ger_dict_clean = {}
+import numpy as np
 
 def _create_dictionary(src_foldername):
+    
+    eng_index = 0
+    ger_index = 0
+
+    #dictionaries with all key value pairs(contains duplicate values, unique keys)
+    english_dict = {}
+    german_dict = {}
+
+    #final dictionaries without duplicates
+    eng_dict_clean = {}
+    ger_dict_clean = {}
+    
     for filename in os.listdir(src_foldername):
         file = open(src_foldername + '/' + filename)
         #con file structure:
@@ -66,6 +68,13 @@ def _create_dictionary(src_foldername):
         if value not in ger_dict_clean.values():
             ger_dict_clean[key] = value
 
+    #special tags for encoding and decoding in the nmt need to be added
+    eng_dict_clean[eng_index] = '<s>'
+    eng_dict_clean[eng_index + 1] = '</s>'
+    eng_dict_clean[eng_index + 2] = '<space>'
+    ger_dict_clean[ger_index] = '<s>'
+    ger_dict_clean[ger_index + 1] = '</s>'
+    ger_dict_clean[ger_index + 2] = '<space>'
 
     #create inverse dictionaries
     english_inv_dict = {value:key for key,value in eng_dict_clean.items()}
@@ -74,7 +83,58 @@ def _create_dictionary(src_foldername):
     return eng_dict_clean, english_inv_dict, ger_dict_clean, german_inv_dict
 
 
-##use string.lower() to turn a given string into lower case characters##
 
-###dict.update(dict2)
-###Adds dictionary dict2's key-values pairs to dict
+def _create_sentence_data(src_foldername, max_sentence_length, eng_inv_dict, ger_inv_dict):
+    #Returns sentences translated to indices as numpy array
+
+    
+    eng_sentence_list = []
+    ger_sentence_list = []
+    eng_indices = []
+    ger_indices = []
+    
+    for filename in os.listdir(src_foldername):
+
+        #reset the sentence containers
+        eng_indices = []
+        ger_indices = []
+
+        if 'con' in filename:
+            
+            file = open(src_foldername + '/' + filename)
+            #operations to split the strings read from the file and clean them up
+            lines = file.readlines()
+            eng1 = lines[2]
+            ger1 = lines[3]
+            engwords = eng1.split()
+            gerwords = ger1.split()
+            engwords.remove('transl_eng')
+            gerwords.remove('transl_deu')
+          
+            #remove punctuation
+            engwords[len(engwords)-1] = engwords[len(engwords)-1][0:engwords[len(engwords)-1].count('')-2]
+            gerwords[len(gerwords)-1] = gerwords[len(gerwords)-1][0:gerwords[len(gerwords)-1].count('')-2]
+
+            #Turn words into indices
+            for word in engwords:
+                eng_indices.append(eng_inv_dict[word.lower()])
+
+            
+            for word in gerwords:
+                ger_indices.append(ger_inv_dict[word.lower()])
+
+            #add the index for padding to the list
+            while len(eng_indices) < max_sentence_length :
+                eng_indices.append(eng_inv_dict['<space>'])
+            
+            while len(ger_indices) < max_sentence_length :
+                ger_indices.append(ger_inv_dict['<space>'])
+                
+            #bundle all sentences to a matrix(numpy array)
+            eng_sentence_list.append(eng_indices)
+            ger_sentence_list.append(ger_indices)
+
+    return np.asarray(eng_sentence_list), np.asarray(ger_sentence_list)
+
+
+        
