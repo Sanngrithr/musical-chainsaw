@@ -13,6 +13,22 @@ def _create_dictionary(src_foldername):
     #final dictionaries without duplicates
     eng_dict_clean = {}
     ger_dict_clean = {}
+
+    #special tags for encoding and decoding in the nmt need to be added
+    eng_dict_clean[eng_index] = '<s>'
+    eng_index = eng_index +1
+    eng_dict_clean[eng_index] = '</s>'
+    eng_index = eng_index +1
+    eng_dict_clean[eng_index] = '<space>'
+    eng_index = eng_index +1
+    
+    ger_dict_clean[ger_index] = '<s>'
+    ger_index = ger_index + 1
+    ger_dict_clean[ger_index] = '</s>'
+    ger_index = ger_index + 1
+    ger_dict_clean[ger_index] = '<space>'
+    ger_index = ger_index + 1
+    
     
     for filename in os.listdir(src_foldername):
         file = open(src_foldername + '/' + filename)
@@ -68,14 +84,6 @@ def _create_dictionary(src_foldername):
         if value not in ger_dict_clean.values():
             ger_dict_clean[key] = value
 
-    #special tags for encoding and decoding in the nmt need to be added
-    eng_dict_clean[eng_index] = '<s>'
-    eng_dict_clean[eng_index + 1] = '</s>'
-    eng_dict_clean[eng_index + 2] = '<space>'
-    ger_dict_clean[ger_index] = '<s>'
-    ger_dict_clean[ger_index + 1] = '</s>'
-    ger_dict_clean[ger_index + 2] = '<space>'
-
     #create inverse dictionaries
     english_inv_dict = {value:key for key,value in eng_dict_clean.items()}
     german_inv_dict = {value:key for key,value in ger_dict_clean.items()}
@@ -84,7 +92,7 @@ def _create_dictionary(src_foldername):
 
 
 
-def _create_sentence_data(src_foldername, max_sentence_length, eng_inv_dict, ger_inv_dict):
+def _embed_sentence_data(src_foldername, max_sentence_length, eng_inv_dict, ger_inv_dict):
     #Returns sentences translated to indices as numpy array
 
     
