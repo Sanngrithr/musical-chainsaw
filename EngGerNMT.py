@@ -11,6 +11,7 @@ import textToDict
 #general variables
 batch_size_training = 1
 num_units = 64
+learning_rate = 0.001
 
 #turn our data into dictionaries to use as inputs
 eng_dict, eng_inv, ger_dict, ger_inv = textToDict._create_dictionary('text2text')
@@ -19,6 +20,7 @@ inputData, outputData = textToDict._embed_sentence_data('text2text', 20, eng_inv
 encoder_inputs = tf.placeholder(tf.int32, shape = [batch_size_training, None], name='enc_in')
 decoder_inputs = tf.placeholder(tf.int32, shape = [batch_size_training, None], name='dec_in')
 decoder_outputs = tf.placeholder(tf.int32, shape = [batch_size_training, None], name='dec_out')
+#target_weights = tf.ones(decoder_outputs.shape)
 
 #encoder
 encoder_cell = tf.nn.rnn_cell.BasicLSTMCell(num_units)
@@ -43,12 +45,23 @@ logits = outputs.rnn_output
 
 #loss
 cross_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(labels=decoder_outputs, logits=logits)
+train_loss = (tf.reduce_sum(cross_entropy)) #* #target_weights) /
+    #batch_size_training)
+
 
 #gradient optimization
+params = tf.trainable_variables()
+gradients = tf.gradients(train_loss, params)
+clipped_gradients, _ = tf.clip_by_global_norm(
+    gradients, 5.0)
 
+optimizer = tf.train.AdamOptimizer(learning_rate)
+update_step = optimizer.apply_gradients(
+    zip(clipped_gradients, params))
 
 
 #Inference (generate Translations)
 
-sess = tf.Session()
-sess.run(tf.global_variables_initializer)
+
+with tf.Session() as sess:
+    sess.run(tf.global_variables_initializer, feed_dict={encoder_inputs:inputData, decoder_inputs:encoder_outputs, decoder_outputs:outputData})
