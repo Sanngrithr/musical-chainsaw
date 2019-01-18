@@ -127,6 +127,8 @@ def _embed_sentence_data(src_foldername, max_sentence_length, eng_inv_dict, ger_
             for word in engwords:
                 eng_indices.append(eng_inv_dict[word.lower()])
 
+            end_indices.append(eng_inv_dict['</s>'])
+            ger_indices.append(ger_inv_dict['<s>'])
             
             for word in gerwords:
                 ger_indices.append(ger_inv_dict[word.lower()])
