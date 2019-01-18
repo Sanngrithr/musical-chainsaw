@@ -11,6 +11,7 @@ import textToDict
 #general variables
 batch_size_training = 1
 num_units = 64
+epochs = 10
 learning_rate = 0.001
 
 #turn our data into dictionaries to use as inputs
@@ -27,7 +28,7 @@ encoder_cell = tf.nn.rnn_cell.BasicLSTMCell(num_units)
 
 encoder_outputs, encoder_state = tf.nn.dynamic_rnn(
     encoder_cell, encoder_inputs,
-    sequence_length=20, time_major=False)
+    sequence_length=decoder_inputs.shape, time_major=False) #still wrong...
 
 
 #decoder
@@ -64,4 +65,7 @@ update_step = optimizer.apply_gradients(
 
 
 with tf.Session() as sess:
-    sess.run(tf.global_variables_initializer, feed_dict={encoder_inputs:inputData, decoder_inputs:encoder_outputs, decoder_outputs:outputData})
+    print('start training...')
+    for i in range(epochs):
+        index = np.random.choice(200, batch_size_training)
+        _, loss_val = sess.run([optimizer, train_loss], feed_dict={encoder_inputs:inputData[index], decoder_inputs:encoder_outputs, decoder_outputs:outputData[index]})
