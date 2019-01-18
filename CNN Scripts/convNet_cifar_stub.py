@@ -29,7 +29,7 @@ num_iter = np.int(x_train.shape[0]/batch_size)*epochs
 print('iter: ', num_iter)
 #imgs_placeholder = tf.placeholder(x_train.dtype, x_train.shape)
 #labels_placeholder = tf.placeholder(y_train.dtype, y_train.shape)
-lr = 0.0005
+lr = 0.001
 keep_prob = 0.5 #keep
 
 tf.reset_default_graph()
