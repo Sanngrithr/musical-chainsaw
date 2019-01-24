@@ -1,0 +1,4 @@
+annot_eng	NEW+YEAR MY FAMILY CAPITAL+CITY X-right HAVE-BEEN
+annot_deu	NEU+JAHR MEIN FAMILIE HAUPT+STADT X-rechts GEWESEN
+transl_eng	My family was in the capital on New Year's Day.
+transl_deu	An Neujahr war meine Familie in der Hauptstadt.

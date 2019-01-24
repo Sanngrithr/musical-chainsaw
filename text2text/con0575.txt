@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU FINALLY EUROPE+MAP-big you-GIVE-i
+annot_deu	BITTE DU ENDLICH EUROPA+KARTE-gross du-GEBEN-ich
+transl_eng	Please pass me the map of Europe now!
+transl_deu	Bitte gib mir endlich die Europakarte!

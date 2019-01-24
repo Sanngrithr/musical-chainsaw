@@ -1,0 +1,4 @@
+annot_eng	TODAY I TRAVEL+OFFICE COME-there TWO HOTEL+ROOM BOOK
+annot_deu	HEUTE ICH REISEN+BÜRO KOMMEN-dahin ZWEI HOTEL+ZIMMER BUCHEN
+transl_eng	Today I will go to the travel agency in order to book two hotel rooms.
+transl_deu	Heute gehe ich ins Reisebüro, um zwei Hotelzimmer zu buchen.

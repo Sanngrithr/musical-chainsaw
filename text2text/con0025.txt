@@ -1,0 +1,4 @@
+annot_eng	SALAD FRESH THERE-you?
+annot_deu	SALAT FRISCH DA-du?
+transl_eng	Do you have fresh lettuce?
+transl_deu	Hast du frischen Salat?

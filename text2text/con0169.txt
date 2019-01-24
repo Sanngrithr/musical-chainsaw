@@ -1,0 +1,4 @@
+annot_eng	CHILD X-right RAIN SNOW LIKE
+annot_deu	KIND X-rechts REGEN SCHNEE MÖGEN
+transl_eng	The child likes it when it is showing.
+transl_deu	Das Kind mag es, wenn es schneit.

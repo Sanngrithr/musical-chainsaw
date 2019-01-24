@@ -1,0 +1,4 @@
+annot_eng	RAIN X-right NOW PROBLEM-i BECAUSE I UMBRELLA NOT-HAVE
+annot_deu	REGEN X-rechts JETZT PROBLEM-ich GRUND ICH SCHIRM NICHT-HABEN
+transl_eng	It is raining and that is a problem as I do not have an umbrella.
+transl_deu	Es regnet und das ist jetzt ein Problem, weil ich keinen Regenschirm habe.

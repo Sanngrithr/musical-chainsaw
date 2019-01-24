@@ -1,0 +1,4 @@
+annot_eng	TYPICAL I MONEY i-LEND-you
+annot_deu	TYPISCH ICH GELD ich-LEIHEN-du
+transl_eng	It is typical of me to lend you some money.
+transl_deu	Es ist typisch, dass ich dir Geld leihe.

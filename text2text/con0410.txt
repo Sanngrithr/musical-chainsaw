@@ -1,0 +1,4 @@
+annot_eng	TYPICAL I RAIN+UMBRELLA i-LEND-you
+annot_deu	TYPISCH ICH REGEN+SCHIRM ich-LEIHEN-du
+transl_eng	It is typical of me to lend you an umbrella.
+transl_deu	Es ist typisch, dass ich dir einen Regenschirm leihe.

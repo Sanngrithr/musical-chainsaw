@@ -1,0 +1,4 @@
+annot_eng	I CREAM FORGET
+annot_deu	ICH SAHNE VERGESSEN
+transl_eng	I forgot the cream.
+transl_deu	Ich habe die Sahne vergessen.

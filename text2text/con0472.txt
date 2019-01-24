@@ -1,0 +1,4 @@
+annot_eng	YOUR GRANDPA X-right NEWSPAPER OLD COLLECT WHY?
+annot_deu	DEIN OPA X-rechts ZEITUNG ALT SAMMELN WARUM?
+transl_eng	Why does your grandpa collect old news papers?
+transl_deu	Warum sammelt dein Opa alte Zeitungen?

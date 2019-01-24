@@ -1,0 +1,4 @@
+annot_eng	MY NEIGHBOUR X-right he-TELL-i AT-i WHY MY WASH-clothes+ENGINE BROKEN
+annot_deu	MEIN NACHBAR X-rechts er-ERZÄHLEN-ich AUF-ich WARUM MEIN WASCHEN-kleidung+MOTOR KAPUTT
+transl_eng	My neighbour is explaining to me why my washing machine is broken.
+transl_deu	Mein Nachbar erzählt mir, warum meine Waschmaschine kaputt ist.

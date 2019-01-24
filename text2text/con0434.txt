@@ -1,0 +1,4 @@
+annot_eng	BAKE+INDIVIDUAL X-right NAME WHAT?
+annot_deu	BACKEN+PERSON X-rechts NAME WAS?
+transl_eng	What is the baker called?
+transl_deu	Wie heisst der Bäcker?

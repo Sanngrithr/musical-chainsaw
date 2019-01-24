@@ -1,0 +1,4 @@
+annot_eng	MY FATHER BALCONY X-right COMFORTABLE BARBECUE ALLOW
+annot_deu	MEIN VATER BALKON X-rechts GEMÜTLICH GRILLEN ERLAUBEN
+transl_eng	My father allows us to barbecue comfortably on the balcony.
+transl_deu	Mein Vater erlaubt es, auf dem Balkon gemütlich zu grillen.

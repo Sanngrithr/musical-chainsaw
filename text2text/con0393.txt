@@ -1,0 +1,4 @@
+annot_eng	ANIMALS+SHOP X-middle FISH AND SPIDER i-OFFER-you THERE-you
+annot_deu	TIERE+GESCHÄFT X-mitte FISCH UND SPINNE ich-ANBIETEN-du DA-du
+transl_eng	The pet shop is offering you fish and spiders.
+transl_deu	Das Tiergeschäft bietet dir Fische und Spinnen an.

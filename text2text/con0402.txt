@@ -1,0 +1,4 @@
+annot_eng	NOW i-TELL-you YOU JUICE HOW-MUCH BUY HAVE-TO
+annot_deu	JETZT ich-ERZÄHLEN-du DU SAFT WIEVIEL KAUFEN SOLLEN
+transl_eng	I will tell you now how much juice you should buy.
+transl_deu	Ich sage dir jetzt, wieviel Saft du kaufen sollst.

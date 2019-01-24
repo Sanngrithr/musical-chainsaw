@@ -1,0 +1,4 @@
+annot_eng	DIRECTOR+INDIVIDUAL X-right he-TELL-i AT-i I SALARY GET-sth WHEN
+annot_deu	DIREKTOR+PERSON X-rechts er-ERZÄHLEN-ich AUF-ich ICH LOHN BEKOMMEN-was WANN
+transl_eng	The manager is telling me when I will be getting the salary.
+transl_deu	Der Direktor erzählt mir, wann ich den Lohn bekomme.

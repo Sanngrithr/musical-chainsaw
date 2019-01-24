@@ -1,0 +1,2 @@
+annot_eng	VEGETABLES
+annot_deu	GEMÜSE

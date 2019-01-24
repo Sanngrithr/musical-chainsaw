@@ -1,0 +1,4 @@
+annot_eng	NOW i-TELL-you YESTERDAY I DEAF-PEOPLE+CENTRE HAVE-BEEN
+annot_deu	JETZT ich-ERZÄHLEN-du GESTERN ICH GEHÖRLOS+ZENTRUM GEWESEN
+transl_eng	I am telling you now that I have been to the Centre for the Deaf yesterday.
+transl_deu	Ich erzähle dir jetzt, dass ich gestern im Gehörlosenzentrum war.

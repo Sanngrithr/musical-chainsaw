@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND X-right DOLL OLD COLLECT
+annot_deu	MEIN FREUND X-rechts PUPPE ALT SAMMELN
+transl_eng	My friend collects old dolls.
+transl_deu	Mein Freund sammelt alte Puppen.

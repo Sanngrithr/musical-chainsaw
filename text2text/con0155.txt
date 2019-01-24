@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND X-right BOOK READ
+annot_deu	MEIN FREUND X-rechts BUCH LESEN
+transl_eng	My friend is reading a book.
+transl_deu	Mein Freund liest ein Buch.

@@ -1,0 +1,4 @@
+annot_eng	MY FATHER AT-i RECOMMEND WHAT HOUSE X-right WITH-what BALCONY NICE
+annot_deu	MEIN VATER AUF-ich EMPFEHLEN WAS HAUS X-rechts MIT-was BALKON SCHÖN
+transl_eng	My father recommends the house with the nice balcony to me.
+transl_deu	Mein Vater empfiehlt mir das Haus mit dem schönen Balkon.

@@ -1,0 +1,4 @@
+annot_eng	BOY X-right WATER DRINK
+annot_deu	JUNGE X-rechts WASSER TRINKEN
+transl_eng	The boy is drinking water.
+transl_deu	Der Junge trinkt Wasser.

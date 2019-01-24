@@ -1,0 +1,4 @@
+annot_eng	FARMER X-right ONE BASKET WITH-what EGGS he-PRESENT-i
+annot_deu	BAUER X-rechts EIN KORB MIT-was EIER er-SCHENKEN-ich
+transl_eng	The farmer is giving me a basket with eggs as a present.
+transl_deu	Der Bauer schenkt mir einen Korb mit Eiern.

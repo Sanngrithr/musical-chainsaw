@@ -1,0 +1,2 @@
+annot_eng	ACCIDENT
+annot_deu	UNFALL

@@ -1,0 +1,4 @@
+annot_eng	HOTEL+DIRECTOR+INDIVIDUAL X-right he-TELL-i AT-i ALL ROOM ALREADY RESERVE
+annot_deu	HOTEL+DIREKTOR+PERSON X-rechts er-ERZÄHLEN-ich AUF-ich ALLE ZIMMER SCHON RESERVIEREN
+transl_eng	The hotel manager is telling me that all hotel rooms are already reserved.  
+transl_deu	Der Hoteldirektor erzählt mir, dass alle Hotelzimmer schon reserviert sind.

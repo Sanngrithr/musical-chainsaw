@@ -1,0 +1,2 @@
+annot_eng	DELICIOUS
+annot_deu	LECKER

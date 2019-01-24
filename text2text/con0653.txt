@@ -1,0 +1,4 @@
+annot_eng	I UNFORTUNATELY FORGET WHAT RENT+CONTRACT COPY
+annot_deu	ICH LEIDER VERGESSEN WAS MIETE+VERTRAG KOPIEREN
+transl_eng	Unfortunally I forgot to copy the rental agreement.
+transl_deu	Ich habe leider vergessen, den Mietvertrag zu kopieren.

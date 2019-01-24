@@ -1,0 +1,4 @@
+annot_eng	MY NEIGHBOUR DAILY WITH-what CAR FIRM X-right COMMUTE
+annot_deu	MEIN NACHBAR TÄGLICH MIT-was AUTO FIRMA X-rechts PENDELN
+transl_eng	My neighbour commutes to the factory by car daily.
+transl_deu	Mein Nachbar pendelt täglich mit dem Auto zur Firma.

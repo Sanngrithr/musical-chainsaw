@@ -1,0 +1,4 @@
+annot_eng	IN-THE-MORNING I RARELY PERFUME USE
+annot_deu	MORGENS ICH SELTEN PARFÜM BENUTZEN
+transl_eng	I rarely use perfume in the morning.
+transl_deu	Morgens benutze ich selten Parfüm.

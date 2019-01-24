@@ -1,0 +1,4 @@
+annot_eng	WE-all HUNGER
+annot_deu	WIR-alle HUNGER
+transl_eng	We are hungry.
+transl_deu	Wir sind hungrig.

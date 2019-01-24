@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU GRANDPA BANK-money COME-there i-TAKE-he X-right NINE FORM PICK-UP-sth
+annot_deu	BITTE DU OPA BANK-geld KOMMEN-dahin ich-BRINGEN-er X-rechts NEUN FORMULAR ABHOLEN-was
+transl_eng	Please take grandpa to the bank so he can get the nine forms.
+transl_deu	Bitte bringe Opa zur Bank, um die neun Formulare abzuholen.

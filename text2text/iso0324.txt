@@ -1,0 +1,2 @@
+annot_eng	APPLICATION
+annot_deu	BEWERBUNG

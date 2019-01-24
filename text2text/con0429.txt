@@ -1,0 +1,4 @@
+annot_eng	MY SISTER BLOUSE SEW WANT
+annot_deu	MEIN SCHWESTER BLUSE NÄHEN WOLLEN
+transl_eng	My sister would like to sew a blouse.
+transl_deu	Meine Schwester will eine Bluse nähen.

@@ -1,0 +1,4 @@
+annot_eng	CIVIL-SERVANT+INDIVIDUAL X-middle POST COME-to BECAUSE X-right FOUR PARCEL PICK-UP-sth
+annot_deu	BEAMTER+PERSON X-mitte POST KOMMEN-nach GRUND X-rechts VIER PAKET ABHOLEN-was
+transl_eng	The civil servant is going to the post office in order to pick up four parcels.
+transl_deu	Der Beamte geht zur Post, um vier Pakete abzuholen.

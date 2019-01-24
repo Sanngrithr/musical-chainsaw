@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY POST+CIVIL-SERVANT+INDIVIDUAL X-right FINALLY PARCEL he-GIVE-i
+annot_deu	GESTERN POST+BEAMTER+PERSON X-rechts ENDLICH PAKET er-GEBEN-ich
+transl_eng	The postman finally delivered the parcel yesterday.
+transl_deu	Gestern brachte mir der Postbeamte endlich das Paket.

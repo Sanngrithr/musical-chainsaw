@@ -1,0 +1,4 @@
+annot_eng	RESTAURANT X-right MY HUSBAND X-right WORK
+annot_deu	RESTAURANT X-rechts MEIN EHEMANN X-rechts ARBEITEN
+transl_eng	My husband works in a restaurant.
+transl_deu	Mein Ehemann arbeitet im Restaurant.

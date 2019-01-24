@@ -1,0 +1,2 @@
+annot_eng	FAX|FAX|UNDER
+annot_deu	FAX|FAXEN|UNTER

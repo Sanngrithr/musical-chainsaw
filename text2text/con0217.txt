@@ -1,0 +1,4 @@
+annot_eng	YOU-all WATER DRINK
+annot_deu	IHR-alle WASSER TRINKEN
+transl_eng	You are drinking water.
+transl_deu	Ihr trinkt Wasser.

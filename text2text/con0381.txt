@@ -1,0 +1,4 @@
+annot_eng	I CAPITAL+CITY HAVE-BEEN BECAUSE THERAPY X-right
+annot_deu	ICH HAUPT+STADT GEWESEN GRUND THERAPIE X-rechts
+transl_eng	I went to the capital to take a therapy.
+transl_deu	Ich war in der Hauptstadt eine Therapie machen.

@@ -1,0 +1,2 @@
+annot_eng	EXCUSE-ME|CREAM
+annot_deu	ENTSCHULDIGUNG|SALBE

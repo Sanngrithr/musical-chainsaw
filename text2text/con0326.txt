@@ -1,0 +1,4 @@
+annot_eng	PLEASE FISH+FOOD X-right he-GIVE-i
+annot_deu	BITTE FISCH+FUTTER X-rechts er-GEBEN-ich
+transl_eng	Please pass me the fish food!
+transl_deu	Bitte gib mir das Fischfutter!

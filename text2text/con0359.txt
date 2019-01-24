@@ -1,0 +1,4 @@
+annot_eng	EARLY+PIECE DELICIOUS THERE-IS WHAT BREAD-ROLLS WITH-what JAM AND HONEY
+annot_deu	FRÜH+STÜCK LECKER ES-GIBT WAS BRÖTCHEN MIT-was MARMELADE UND HONIG
+transl_eng	Breakfast is delicious, there are bread rolls with jam and honey.
+transl_deu	Das Frühstück ist lecker, es gibt Brötchen mit Marmelade und Honig.

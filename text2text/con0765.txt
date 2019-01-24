@@ -1,0 +1,4 @@
+annot_eng	I FURIOUS BECAUSE TRAIN TO COLOGNE ALWAYS DELAY
+annot_deu	ICH WÜTEND GRUND ZUG NACH KÖLN IMMER VERSPÄTUNG
+transl_eng	I am furious because the train to Cologne is always delayed.
+transl_deu	Ich bin wütend, weil der Zug nach Köln immer Verspätung hat.

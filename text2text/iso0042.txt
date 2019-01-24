@@ -1,0 +1,2 @@
+annot_eng	FRIEND
+annot_deu	FREUND

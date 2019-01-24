@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU TELEVISION REMOTE-CONTROL you-GIVE-i
+annot_deu	BITTE DU FERNSEHER FERNBEDIENUNG du-GEBEN-ich
+transl_eng	Please pass me the remote control for the television!
+transl_deu	Bitte gib mir die Fernbedienung für den Fernseher!

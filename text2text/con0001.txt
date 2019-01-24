@@ -1,0 +1,4 @@
+annot_eng	CINEMA START WHEN?
+annot_deu	KINO ANFANGEN WANN?
+transl_eng	When does the film start?
+transl_deu	Wann fängt das Kino an?

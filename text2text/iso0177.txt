@@ -1,0 +1,2 @@
+annot_eng	IRON
+annot_deu	BÜGELN

@@ -1,0 +1,4 @@
+annot_eng	I ICE-CREAM BUY MUST BECAUSE MY SON he-VISIT-i
+annot_deu	ICH EIS KAUFEN MÜSSEN GRUND MEIN SOHN er-BESUCHEN-ich
+transl_eng	I have to buy some ice cream because my son is coming for a visit.
+transl_deu	Ich muss Eis kaufen, weil mich mein Sohn besuchen wird.

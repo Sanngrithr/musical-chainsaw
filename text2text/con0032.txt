@@ -1,0 +1,4 @@
+annot_eng	TODAY EXCELLENT+MARKET X-right APPLES AND BANANAS THERE-you
+annot_deu	HEUTE SUPER+MARKT X-rechts ÄPFEL UND BANANEN DA-du
+transl_eng	Today they have got apples and bananas in the supermarket.
+transl_deu	Heute gibt es im Supermarkt Äpfel und Bananen.

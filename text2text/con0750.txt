@@ -1,0 +1,4 @@
+annot_eng	YOUR BROTHER-IN-LAW WINTER+HOLIDAY SOON BACK?
+annot_deu	DEIN SCHWAGER WINTER+URLAUB BALD ZURÜCK?
+transl_eng	Will your brother-in-law return from his winter holiday soon?
+transl_deu	Ist dein Schwager bald aus dem Winterurlaub zurück?

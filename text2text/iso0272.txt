@@ -1,0 +1,2 @@
+annot_eng	SAVE|COLLECT
+annot_deu	SPAREN|SAMMELN

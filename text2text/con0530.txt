@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY I EARLY GET-UP BECAUSE COURT-justice+APPOINTMENT IMPORTANT THERE-i
+annot_deu	GESTERN ICH FRÜH AUFSTEHEN GRUND GERICHT-justiz+TERMIN WICHTIG DA-ich
+transl_eng	Yesterday I got up early because I had an important hearing.
+transl_deu	Gestern stand ich früh auf, weil ich einen wichtigen Gerichtstermin hatte.

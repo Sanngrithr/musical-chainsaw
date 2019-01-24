@@ -1,0 +1,4 @@
+annot_eng	IN COLOGNE BANK-money X-right TOILET MISSING
+annot_deu	IM KÖLN BANK-geld X-rechts TOILETTE FEHLEN
+transl_eng	There are toilets missing in the Cologne Bank.
+transl_deu	In der Kölner Bank fehlen Toiletten.

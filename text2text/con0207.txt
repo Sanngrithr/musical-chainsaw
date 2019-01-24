@@ -1,0 +1,4 @@
+annot_eng	MAN X-right PHONE A-LOT-OF
+annot_deu	MANN X-rechts TELEFONIEREN VIEL
+transl_eng	The man phones a lot.
+transl_deu	Der Mann telefoniert viel.

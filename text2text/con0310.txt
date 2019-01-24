@@ -1,0 +1,4 @@
+annot_eng	YOU COLD-sickness TEA HOT WITH-what HONEY I RECOMMEND AT-you
+annot_deu	DU ERKÄLTUNG TEE HEISS MIT-was HONIG ICH EMPFEHLEN AUF-du
+transl_eng	I recommend you to drink hot tea with honey for your cold.
+transl_deu	Gegen deine Erkältung empfehle ich dir heissen Tee mit Honig.

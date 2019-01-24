@@ -1,0 +1,4 @@
+annot_eng	TODAY i-TELL-you WHY MY CHEMIST'S+INDIVIDUAL X-right DIED
+annot_deu	HEUTE ich-ERZÄHLEN-du WARUM MEIN APOTHEKE+PERSON X-rechts GESTORBEN
+transl_eng	I will tell you today why my chemist has died.
+transl_deu	Heute erzähle ich dir, warum mein Apotheker gestorben ist.

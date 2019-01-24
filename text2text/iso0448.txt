@@ -1,0 +1,2 @@
+annot_eng	TENT|CAMPING
+annot_deu	ZELT|CAMPING

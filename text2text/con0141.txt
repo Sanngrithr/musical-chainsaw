@@ -1,0 +1,4 @@
+annot_eng	WAITER X-right WITH-what CAR COME-here
+annot_deu	KELLNER X-rechts MIT-was AUTO KOMMEN-hier
+transl_eng	The waiter will come here by car.
+transl_deu	Der Kellner kommt mit dem Auto hierher.

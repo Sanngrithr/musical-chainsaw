@@ -1,0 +1,4 @@
+annot_eng	I CLOTHING X-right DIRTY WASH-clothes YOU IRON
+annot_deu	ICH KLEIDUNG X-rechts SCHMUTZIG WASCHEN-kleidung DU BÜGELN
+transl_eng	I wash the laundry and you iron it.
+transl_deu	Ich wasche die schmutzige Kleidung und du bügelst sie.

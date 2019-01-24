@@ -1,0 +1,4 @@
+annot_eng	ALL CHILDREN SCHOOL GO-to NOT-WANT
+annot_deu	ALLE KINDER SCHULE GEHEN-nach NICHT-WOLLEN
+transl_eng	All children disklike going to school.
+transl_deu	Alle Kinder wollen nicht in die Schule gehen.

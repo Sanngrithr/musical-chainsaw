@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY I STOMACH+PAIN NOT-HAVE
+annot_deu	GESTERN ICH BAUCH+SCHMERZEN NICHT-HABEN
+transl_eng	Yesterday I did not have stomachache.
+transl_deu	Gestern hatte ich keine Bauchschmerzen.

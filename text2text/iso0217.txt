@@ -1,0 +1,2 @@
+annot_eng	HONEY
+annot_deu	HONIG

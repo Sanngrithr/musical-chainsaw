@@ -1,0 +1,4 @@
+annot_eng	BAKE+INDIVIDUAL X-right CHILDREN NO
+annot_deu	BACKEN+PERSON X-rechts KINDER KEIN
+transl_eng	The baker does not have children.
+transl_deu	Der Bäcker hat keine Kinder.

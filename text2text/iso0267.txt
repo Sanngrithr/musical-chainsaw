@@ -1,0 +1,2 @@
+annot_eng	BOWL|BASKET
+annot_deu	SCHÜSSEL|KORB

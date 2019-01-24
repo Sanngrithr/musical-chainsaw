@@ -1,0 +1,4 @@
+annot_eng	CHOIR X-left MAYBE BREAK NEED
+annot_deu	CHOR X-links VIELLEICHT PAUSE BRAUCHEN
+transl_eng	The choir might need a break.
+transl_deu	Der Chor braucht vielleicht eine Pause.

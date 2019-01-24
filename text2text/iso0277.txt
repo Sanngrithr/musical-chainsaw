@@ -1,0 +1,2 @@
+annot_eng	PLATE
+annot_deu	TELLER

@@ -1,0 +1,4 @@
+annot_eng	INSTITUTE X-middle TELEPHONE NEW THERE-you
+annot_deu	INSTITUT X-mitte TELEFON NEU DA-du
+transl_eng	The institute has got a new telephone.
+transl_deu	Das Institut hat ein neues Telefon.

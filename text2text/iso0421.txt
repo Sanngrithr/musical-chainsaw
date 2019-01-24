@@ -1,0 +1,2 @@
+annot_eng	DANCE|DANCE
+annot_deu	TANZEN|TANZ

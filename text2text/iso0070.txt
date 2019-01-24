@@ -1,0 +1,2 @@
+annot_eng	WAITER
+annot_deu	KELLNER

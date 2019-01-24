@@ -1,0 +1,2 @@
+annot_eng	he-SHOW-i
+annot_deu	er-ZEIGEN-ich

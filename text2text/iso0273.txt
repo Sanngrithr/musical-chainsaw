@@ -1,0 +1,2 @@
+annot_eng	SPIDER
+annot_deu	SPINNE

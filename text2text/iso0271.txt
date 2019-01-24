@@ -1,0 +1,2 @@
+annot_eng	SUN
+annot_deu	SONNE

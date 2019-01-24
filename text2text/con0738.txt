@@ -1,0 +1,4 @@
+annot_eng	MY NEIGHBOUR DEAF X-right FILM WITHOUT-sth SUBTITLE UNDERSTAND CANNOT
+annot_deu	MEIN NACHBAR GEHÖRLOS X-rechts FILM OHNE-was UNTERTITEL VERSTEHEN NICHT-KÖNNEN
+transl_eng	My deaf neighbour cannot understand films without subtitles.
+transl_deu	Mein gehörloser Nachbar kann Filme ohne Untertitel nicht verstehen.

@@ -1,0 +1,4 @@
+annot_eng	MY BIG-high+PARENTS MONTHLY PENSION GET-sth
+annot_deu	MEIN GROSS-hoch+ELTERN MONATLICH RENTE BEKOMMEN-was
+transl_eng	My grandparents get a monthly pension.
+transl_deu	Meine Grosseltern bekommen monatlich eine Rente.

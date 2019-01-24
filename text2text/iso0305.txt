@@ -1,0 +1,2 @@
+annot_eng	10|TEN
+annot_deu	10|ZEHN

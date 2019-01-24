@@ -1,0 +1,4 @@
+annot_eng	YOU TRAINING+DOCUMENTS X-right COPY NOT-NEED
+annot_deu	DU AUSBILDUNG+UNTERLAGEN X-rechts KOPIEREN NICHT-BRAUCHEN
+transl_eng	You do not need to copy the documents for the vocational training.
+transl_deu	Du brauchst die Ausbildungsunterlagen nicht zu kopieren.

@@ -1,0 +1,2 @@
+annot_eng	IDENTITY-CARD
+annot_deu	AUSWEIS

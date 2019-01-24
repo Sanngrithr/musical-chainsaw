@@ -1,0 +1,4 @@
+annot_eng	TODAY CLUB X-right DECIDE WHAT TENNIS+BALL-round NEW BUY HOW-MUCH
+annot_deu	HEUTE VEREIN X-rechts ENTSCHEIDEN WAS TENNIS+BALL-kugel NEU KAUFEN WIEVIEL
+transl_eng	Today the club decides how many tennis balls will be bought.
+transl_deu	Heute entscheidet der Verein, wie viele neue Tennisbälle gekauft werden.

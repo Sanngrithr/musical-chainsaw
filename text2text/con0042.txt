@@ -1,0 +1,4 @@
+annot_eng	YOUR FRIEND X-right he-ANSWER-i MUST
+annot_deu	DEIN FREUND X-rechts er-ANTWORTEN-ich MÜSSEN
+transl_eng	Your friend has to answer me.
+transl_deu	Dein Freund muss mir antworten.

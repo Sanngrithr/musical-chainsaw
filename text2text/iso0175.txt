@@ -1,0 +1,2 @@
+annot_eng	GLASSES-eyes
+annot_deu	BRILLE

@@ -1,0 +1,4 @@
+annot_eng	WHEN HOLIDAY THERE-you WE-all FINALLY SEA DRIVE CAN
+annot_deu	WENN FERIEN DA-du WIR-alle ENDLICH MEER FAHREN KÖNNEN
+transl_eng	As soon as your holidays start we can finally all go to the seaside.
+transl_deu	Wenn du Ferien hast, können wir alle endlich ans Meer fahren.

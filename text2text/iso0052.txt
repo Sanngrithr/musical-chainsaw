@@ -1,0 +1,2 @@
+annot_eng	GLASSES-drink
+annot_deu	GLÄSER

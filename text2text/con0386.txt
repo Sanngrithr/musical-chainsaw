@@ -1,0 +1,4 @@
+annot_eng	MY FATHER SEVEN FISH BARBECUE WANT
+annot_deu	MEIN VATER SIEBEN FISCH GRILLEN WOLLEN
+transl_eng	My father would like to barbecue seven fish.
+transl_deu	Mein Vater will sieben Fische grillen.

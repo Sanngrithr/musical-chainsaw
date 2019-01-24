@@ -1,0 +1,4 @@
+annot_eng	THE-DAY-BEFORE-YESTERDAY FARMER X-right he-VISIT-i VEGETABLES he-GET-i
+annot_deu	VORGESTERN BAUER X-rechts er-BESUCHEN-ich GEMÜSE er-BEKOMMEN-ich
+transl_eng	The day before yesterday the farmer payed me a visit and brought some vegetables. 
+transl_deu	Vorgestern besuchte mich der Bauer und brachte mir Gemüse.

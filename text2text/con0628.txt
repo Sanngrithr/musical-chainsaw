@@ -1,0 +1,4 @@
+annot_eng	EVERY-DAY I AT-you i-EXPLAIN-you WHEN OUTSIDE RAIN YOU RUN NOT-HAVE-TO
+annot_deu	JEDEN-TAG ICH AUF-du ich-ERKLÄREN-du WENN DRAUSSEN REGEN DU LAUFEN NICHT-SOLLEN
+transl_eng	Every day I tell you not to run when it is raining outside.
+transl_deu	Ich erkläre dir jeden Tag, dass du nicht laufen sollst, wenn es draussen regnet.

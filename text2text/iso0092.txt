@@ -1,0 +1,2 @@
+annot_eng	TOMORROW
+annot_deu	MORGEN-nTag

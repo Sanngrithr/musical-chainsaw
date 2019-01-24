@@ -1,0 +1,4 @@
+annot_eng	YOU TENNIS+CLUB X-right HOW-LONG BACK-THEN ALREADY START WHEN?
+annot_deu	DU TENNIS+VEREIN X-rechts WIE-LANG DAMALS SCHON ANFANGEN WANN?
+transl_eng	How long have you been member of the tennis club?
+transl_deu	Wie lange bist du schon im Tennisverein?

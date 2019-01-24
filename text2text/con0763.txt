@@ -1,0 +1,4 @@
+annot_eng	HOLLAND X-middle THERE-IS MANY CAMPING+PLACE BIG-wide
+annot_deu	HOLLAND X-mitte ES-GIBT VIELE CAMPING+PLATZ GROSS-breit
+transl_eng	There are a number of big campsites in Holland.
+transl_deu	In Holland gibt es viele grosse Campingplätze.

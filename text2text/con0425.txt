@@ -1,0 +1,4 @@
+annot_eng	MY PARENTS COLOGNE X-right SHOP WITH-what TOILET RENT
+annot_deu	MEIN ELTERN KÖLN X-rechts GESCHÄFT MIT-was TOILETTE MIETEN
+transl_eng	My parents rent a shop with a toilet in Cologne.
+transl_deu	Meine Eltern mieten in Köln ein Geschäft mit Toilette.

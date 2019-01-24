@@ -1,0 +1,4 @@
+annot_eng	IRON+TABLE NEW THERE-i
+annot_deu	BÜGELN+TISCH NEU DA-ich
+transl_eng	I have got a new ironing board.
+transl_deu	Ich habe einen neuen Bügeltisch.

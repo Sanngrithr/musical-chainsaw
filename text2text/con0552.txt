@@ -1,0 +1,4 @@
+annot_eng	HOTEL X-right LEISURE-TIME+OFFER EXCELLENT THERE-he
+annot_deu	HOTEL X-rechts FREIZEIT+ANGEBOT SUPER DA-er
+transl_eng	The hotel has got excellent leisure time facilities. 
+transl_deu	Das Hotel hat ein super Freizeitangebot.

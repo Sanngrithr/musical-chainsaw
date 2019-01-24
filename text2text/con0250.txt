@@ -1,0 +1,4 @@
+annot_eng	GLASSES-drink X-left EXPENSIVE
+annot_deu	GLÄSER X-links TEUER
+transl_eng	The glasses are expensive.
+transl_deu	Die Gläser sind teuer.

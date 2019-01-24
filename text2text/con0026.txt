@@ -1,0 +1,4 @@
+annot_eng	APPLES FRESH THERE-you?
+annot_deu	ÄPFEL FRISCH DA-du?
+transl_eng	Do you have fresh apples?
+transl_deu	Hast du frische Äpfel?

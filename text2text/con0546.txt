@@ -1,0 +1,4 @@
+annot_eng	MY COLLEAGUES COMMON HOLIDAY+HOUSE BIG-wide ALREADY BOOK
+annot_deu	MEIN KOLLEGEN GEMEINSAM FERIEN+HAUS GROSS-breit SCHON BUCHEN
+transl_eng	My colleagues have already booked a big summer residence together.
+transl_deu	Meine Kollegen haben schon gemeinsam ein grosses Ferienhaus gebucht.

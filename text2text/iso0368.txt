@@ -1,0 +1,2 @@
+annot_eng	i-GIVE-you
+annot_deu	ich-GEBEN-du

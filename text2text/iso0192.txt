@@ -1,0 +1,2 @@
+annot_eng	he-PRESENT-i
+annot_deu	er-SCHENKEN-ich

@@ -1,0 +1,4 @@
+annot_eng	SUMMER+HOLIDAY X-middle ALL COURSE+PARTICIPANT COMMON COME-there SEA GO-ON-A-JOURNEY
+annot_deu	SOMMER+FERIEN X-mitte ALLE KURS+TEILNEHMER GEMEINSAM KOMMEN-dahin MEER VERREISEN
+transl_eng	All course participants will go to the seaside together during the summer holidays.
+transl_deu	In den Sommerferien verreisen alle Kursteilnehmer gemeinsam ans Meer.

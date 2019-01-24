@@ -1,0 +1,4 @@
+annot_eng	I MYSELF-i ICE-CREAM DO NOT-ALLOWED
+annot_deu	ICH SELBST-ich EIS MACHEN NICHT-DÜRFEN
+transl_eng	I am not allowed to make ice cream myself.
+transl_deu	Ich darf selbst kein Eis machen.

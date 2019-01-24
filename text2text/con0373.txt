@@ -1,0 +1,4 @@
+annot_eng	I HAPPY BECAUSE WEATHER NICE SUN WITHOUT-sth CLOUDS
+annot_deu	ICH FREUEN GRUND WETTER SCHÖN SONNE OHNE-was WOLKEN
+transl_eng	I am very happy about the nice weather as it is sunny and cloudless.
+transl_deu	Ich erfreue mich am schönen Wetter, denn es ist sonnig und wolkenlos.

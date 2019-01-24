@@ -1,0 +1,4 @@
+annot_eng	I HOUSE COMFORTABLE WITH-what GARDEN THERE-i
+annot_deu	ICH HAUS GEMÜTLICH MIT-was GARTEN DA-ich
+transl_eng	I have got a comfortable house with a garden.
+transl_deu	Ich habe ein gemütliches Haus mit Garten.

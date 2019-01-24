@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU BUY+CONTRACT X-left COPY
+annot_deu	BITTE DU KAUFEN+VERTRAG X-links KOPIEREN
+transl_eng	Please copy the sale contract.
+transl_deu	Kopiere bitte den Kaufvertrag!

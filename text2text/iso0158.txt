@@ -1,0 +1,2 @@
+annot_eng	AFFRAID
+annot_deu	ANGST

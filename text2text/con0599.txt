@@ -1,0 +1,4 @@
+annot_eng	MY BIG-high+FATHER X-right MAYBE WECKER-licht he-LEND-i
+annot_deu	MEIN GROSS-hoch+VATER X-rechts VIELLEICHT WECKER-licht er-LEIHEN-ich
+transl_eng	My grandfather might lend me an alarm clock with flashlight.
+transl_deu	Mein Grossvater leiht mir vielleicht einen Blitzlicht-Wecker.

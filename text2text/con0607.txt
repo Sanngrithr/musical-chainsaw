@@ -1,0 +1,4 @@
+annot_eng	YOUR BOSS X-right FAX SIGN THEN BACK he-SEND-i HAVE-TO
+annot_deu	DEIN CHEF X-rechts FAX UNTERSCHREIBEN DANN ZURÜCK er-SCHICKEN-ich SOLLEN
+transl_eng	Your boss has to sign the fax and then send it back to me.
+transl_deu	Dein Chef soll das Fax unterschreiben und dann mir zurückschicken.

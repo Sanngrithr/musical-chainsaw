@@ -1,0 +1,2 @@
+annot_eng	NOW
+annot_deu	JETZT

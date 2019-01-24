@@ -1,0 +1,4 @@
+annot_eng	PROFESSION+TRAINING X-right YOU LITTLE SALARY GET-sth
+annot_deu	BERUF+AUSBILDUNG X-rechts DU WENIG LOHN BEKOMMEN-was
+transl_eng	During the vocational training you will earn little money.
+transl_deu	Während der Berufsausbildung bekommst du wenig Lohn.

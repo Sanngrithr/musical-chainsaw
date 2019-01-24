@@ -1,0 +1,2 @@
+annot_eng	TELEVISION
+annot_deu	FERNSEHER

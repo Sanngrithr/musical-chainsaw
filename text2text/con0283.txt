@@ -1,0 +1,4 @@
+annot_eng	I ONE CAKE BAKE WITH-what JAM DELICIOUS
+annot_deu	ICH EIN KUCHEN BACKEN MIT-was MARMELADE LECKER
+transl_eng	I am baking a cake with delicious jam.
+transl_deu	Ich backe einen Kuchen mit leckerer Marmelade.

@@ -1,0 +1,4 @@
+annot_eng	ENGLAND X-right SIGN+LANGUAGE I neg-UNDERSTAND NOT
+annot_deu	ENGLAND X-rechts GEBÄRDEN+SPRACHE ICH neg-VERSTEHEN NICHT
+transl_eng	I do not understand British Sign Language.
+transl_deu	Englische Gebärdensprache verstehe ich nicht.

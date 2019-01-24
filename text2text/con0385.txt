@@ -1,0 +1,4 @@
+annot_eng	WE-both FEEL-LIKE MEAT COMFORTABLE BARBECUE
+annot_deu	WIR-beide LUST FLEISCH GEMÜTLICH GRILLEN
+transl_eng	We feel like comfortably barbecuing meat.
+transl_deu	Wir haben Lust, gemütlich Fleisch zu grillen.

@@ -1,0 +1,2 @@
+annot_eng	SHIRT|BLOUSE
+annot_deu	HEMD|BLUSE

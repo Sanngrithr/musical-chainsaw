@@ -1,0 +1,4 @@
+annot_eng	LAST-time WEEK CONFERENCE+DOCUMENTS i-GIVE-you X-middle YOU NEED STILL?
+annot_deu	LETZTEN-zeit WOCHE KONFERENZ+UNTERLAGEN ich-GEBEN-du X-mitte DU BRAUCHEN NOCH?
+transl_eng	Do you still need the documents of the conference I gave you last week?
+transl_deu	Brauchst du noch die Konferenzunterlagen, die ich dir letzte Woche gegeben habe?

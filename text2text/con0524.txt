@@ -1,0 +1,4 @@
+annot_eng	TODAY FINAL+PARTY WITH-what BIG-wide CHOIR NICE HAVE-BEEN
+annot_deu	HEUTE ABSCHLUSS+FEIER MIT-was GROSS-breit CHOR SCHÖN GEWESEN
+transl_eng	The final ceremony with the big choir was nice today.
+transl_deu	Die heutige Abschlussfeier mit dem grossen Chor war schön.

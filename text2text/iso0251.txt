@@ -1,0 +1,2 @@
+annot_eng	NOT-WANT
+annot_deu	NICHT-WOLLEN

@@ -1,0 +1,4 @@
+annot_eng	CINEMA X-middle WAY X-middle WE-all SEE WHAT X-middle FLOWERS NICE
+annot_deu	KINO X-mitte WEG X-mitte WIR-alle SEHEN WAS X-mitte BLUMEN SCHÖN
+transl_eng	We saw beautiful flowers on the way to the cinema.
+transl_deu	Auf dem Weg zum Kino haben wir schöne Blumen gesehen.

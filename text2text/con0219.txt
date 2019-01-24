@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY I SPARKLING-WINE DRINK
+annot_deu	GESTERN ICH SEKT TRINKEN
+transl_eng	Yesterday I drank sparkling wine.
+transl_deu	Gestern habe ich Sekt getrunken.

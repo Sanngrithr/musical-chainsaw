@@ -1,0 +1,4 @@
+annot_eng	TODAY WE-all COMPUTER EXPENSIVE BUY
+annot_deu	HEUTE WIR-alle COMPUTER TEUER KAUFEN
+transl_eng	Today we will buy an expensive computer.
+transl_deu	Heute kaufen wir einen teuren Computer.

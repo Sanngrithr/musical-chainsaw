@@ -1,0 +1,4 @@
+annot_eng	TODAY EVENING CINEMA COME-there
+annot_deu	HEUTE ABEND KINO KOMMEN-dahin
+transl_eng	Tonight I will come to the cinema.
+transl_deu	Heute Abend werde ich ins Kino kommen.

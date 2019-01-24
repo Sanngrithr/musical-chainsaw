@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY I HOUSE+MASTER NEW X-right MEET
+annot_deu	GESTERN ICH HAUS+MEISTER NEU X-rechts KENNENLERNEN
+transl_eng	I met the new caretaker yesterday.
+transl_deu	Gestern habe ich den neuen Hausmeister kennengelernt.

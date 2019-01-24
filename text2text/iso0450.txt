@@ -1,0 +1,2 @@
+annot_eng	TOGETHER|COMMON
+annot_deu	ZUSAMMEN|GEMEINSAM

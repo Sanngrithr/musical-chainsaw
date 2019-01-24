@@ -1,0 +1,4 @@
+annot_eng	I REGULARLY RIDE PRACTICE BECAUSE SOON RIDE+TOURNAMENT START
+annot_deu	ICH REGELMÄSSIG REITEN ÜBEN GRUND BALD REITEN+TURNIER ANFANGEN
+transl_eng	I practice horse riding regularly because the horse show will be starting soon.
+transl_deu	Ich übe regelmässig reiten, weil bald das Reitturnier anfängt.

@@ -1,0 +1,2 @@
+annot_eng	CANNOT
+annot_deu	NICHT-KÖNNEN

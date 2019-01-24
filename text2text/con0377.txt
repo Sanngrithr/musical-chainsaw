@@ -1,0 +1,4 @@
+annot_eng	BACK-THEN MY GRANDPA CAPITAL+CITY X-right BORN
+annot_deu	DAMALS MEIN OPA HAUPT+STADT X-rechts GEBOREN
+transl_eng	My grandpa was born in the capital.
+transl_deu	Mein Opa ist damals in der Hauptstadt geboren.

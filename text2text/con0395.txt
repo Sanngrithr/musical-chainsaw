@@ -1,0 +1,4 @@
+annot_eng	TODAY OFFER he-GET-i WHAT BANK-money HAMBURG X-right I WORK
+annot_deu	HEUTE ANGEBOT er-BEKOMMEN-ich WAS BANK-geld HAMBURG X-rechts ICH ARBEITEN
+transl_eng	Today I got the offer to work for a bank in Hamburg.
+transl_deu	Heute habe ich das Angebot bekommen, in einer Bank in Hamburg zu arbeiten.

@@ -1,0 +1,4 @@
+annot_eng	CIVIL-SERVANT+INDIVIDUALS X-middle PENSION+INSURANCE PAY NOT-NEED
+annot_deu	BEAMTER+PERSONEN X-mitte RENTE+VERSICHERUNG BEZAHLEN NICHT-BRAUCHEN
+transl_eng	Civil servants do not have to pay for pension insurance.
+transl_deu	Beamten brauchen nicht, in die Rentenversicherung einzuzahlen.

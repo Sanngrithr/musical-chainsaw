@@ -1,0 +1,2 @@
+annot_eng	FLIGHT|FLY-left
+annot_deu	FLUG|FLIEGEN-links

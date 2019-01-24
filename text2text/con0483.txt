@@ -1,0 +1,4 @@
+annot_eng	MY CHILD X-right TYPICAL FORM LOSE-things
+annot_deu	MEIN KIND X-rechts TYPISCH FORMULAR VERLIEREN-sachen
+transl_eng	It is typical of my child to lose the form.
+transl_deu	Es ist typisch für mein Kind, dass es das Formular verliert.

@@ -1,0 +1,4 @@
+annot_eng	WEEK+END I WITH-what MY FRIEND DANCE COME-to
+annot_deu	WOCHE+ENDE ICH MIT-was MEIN FREUND TANZEN KOMMEN-nach
+transl_eng	I will go dancing with my friend at the weekend.
+transl_deu	Am Wochenende gehe ich mit meinem Freund tanzen.

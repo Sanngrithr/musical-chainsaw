@@ -1,0 +1,4 @@
+annot_eng	MY HAIRDRESSER+INDIVIDUAL X-right OFTEN-frequently DISCUSS ABOUT-what POLITICS
+annot_deu	MEIN FRISEUR+PERSON X-rechts OFT-häufig DISKUTIEREN ÜBER-was POLITIK
+transl_eng	My hairdresser often discusses politics.
+transl_deu	Mein Friseur diskutiert oft über Politik.

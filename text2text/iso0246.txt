@@ -1,0 +1,2 @@
+annot_eng	SEW
+annot_deu	NÄHEN

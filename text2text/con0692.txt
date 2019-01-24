@@ -1,0 +1,4 @@
+annot_eng	ENGLAND X-right WE-both ALREADY TRAVEL THERE-finger
+annot_deu	ENGLAND X-rechts WIR-beide SCHON REISEN DAHIN-finger
+transl_eng	We have both been to England already.
+transl_deu	Wir sind beide schon nach England gereist.

@@ -1,0 +1,4 @@
+annot_eng	THIS-time MONDAY INSTITUTE X-right MY BOSS GO-to
+annot_deu	DIESEN-zeit MONTAG INSTITUT X-rechts MEIN CHEF GEHEN-nach
+transl_eng	My boss will go to the institute on Monday.
+transl_deu	Am Montag geht mein Chef ins Institut.

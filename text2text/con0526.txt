@@ -1,0 +1,4 @@
+annot_eng	IN-THE-MORNING I OFTEN-frequently DO-NOT-FEEL-LIKE EARLY GET-UP
+annot_deu	MORGENS ICH OFT-häufig KEINE-LUST FRÜH AUFSTEHEN
+transl_eng	In the morning I often do not feel like getting up early.
+transl_deu	Morgens habe ich oft keine Lust früh aufzustehen.

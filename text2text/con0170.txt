@@ -1,0 +1,4 @@
+annot_eng	BANANAS BAD X-right I neg-LIKE
+annot_deu	BANANEN SCHLECHT X-rechts ICH neg-MÖGEN
+transl_eng	I do not like bad bananas.
+transl_deu	Ich mag keine schlechten Bananen.

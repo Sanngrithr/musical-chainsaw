@@ -1,0 +1,4 @@
+annot_eng	I WISH WHAT WEATHER NICE WITHOUT-sth CLOUDS AND FOG
+annot_deu	ICH WÜNSCHEN WAS WETTER SCHÖN OHNE-was WOLKEN UND NEBEL
+transl_eng	I wish for nice weather without clouds and fog.
+transl_deu	Ich wünsche mir schönes Wetter, ohne Wolken und Nebel.

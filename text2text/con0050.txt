@@ -1,0 +1,4 @@
+annot_eng	WOMAN X-right he-HELP-i CAN
+annot_deu	FRAU X-rechts er-HELFEN-ich KÖNNEN
+transl_eng	The woman can help me.
+transl_deu	Die Frau kann mir helfen.

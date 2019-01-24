@@ -1,0 +1,2 @@
+annot_eng	NOT-ALLOWED
+annot_deu	NICHT-DÜRFEN

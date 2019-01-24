@@ -1,0 +1,4 @@
+annot_eng	WAITER X-middle I i-ASK-you
+annot_deu	KELLNER X-mitte ICH ich-FRAGEN-du
+transl_eng	I am asking the waiter.
+transl_deu	Ich frage den Kellner.

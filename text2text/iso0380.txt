@@ -1,0 +1,2 @@
+annot_eng	RUN|JOG
+annot_deu	LAUFEN|JOGGEN

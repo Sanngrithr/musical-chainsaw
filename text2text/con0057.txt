@@ -1,0 +1,4 @@
+annot_eng	THIS-time SATURDAY CHURCH X-middle TEACHER X-right he-COME-middle
+annot_deu	DIESEN-zeit SAMSTAG KIRCHE X-mitte LEHRER X-rechts er-KOMMEN-mitte
+transl_eng	The teacher will come to church on Saturday.
+transl_deu	Der Lehrer kommt am Samstag zur Kirche.

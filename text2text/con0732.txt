@@ -1,0 +1,4 @@
+annot_eng	I TRAIN MISS NOT-ALLOWED BECAUSE APPOINTMENT IMPORTANT THERE-i
+annot_deu	ICH ZUG VERPASSEN NICHT-DÜRFEN GRUND TERMIN WICHTIG DA-ich
+transl_eng	I must not miss the train because I have got an important meeting.
+transl_deu	Ich darf den Zug nicht verpassen, weil ich einen wichtigen Termin habe.

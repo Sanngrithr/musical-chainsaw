@@ -1,0 +1,4 @@
+annot_eng	WATER X-left HEALTHY
+annot_deu	WASSER X-links GESUND
+transl_eng	Water is healthy.
+transl_deu	Das Wasser ist gesund.

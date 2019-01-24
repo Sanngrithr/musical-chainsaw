@@ -1,0 +1,4 @@
+annot_eng	IN-THE-MORNING I FIRST SHOWER COLD-cool NEED
+annot_deu	MORGENS ICH ZUERST DUSCHE KALT BRAUCHEN
+transl_eng	The first thing I need in the morning is a cold shower.
+transl_deu	Morgens brauche ich zuerst eine kalte Dusche.

@@ -1,0 +1,2 @@
+annot_eng	GET-UP
+annot_deu	AUFSTEHEN

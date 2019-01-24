@@ -1,0 +1,4 @@
+annot_eng	I FOUR ENTRANCE+CARD-post i-FOR-you MUSEUM BUY
+annot_deu	ICH VIER EINTRITT+KARTE-post ich-FÜR-du MUSEUM KAUFEN
+transl_eng	I will buy four tickets for the museum for you.
+transl_deu	Ich kaufe dir vier Eintrittskarten für das Museum.

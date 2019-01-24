@@ -1,0 +1,4 @@
+annot_eng	MY BOSS PROPOSE I AMERICA CONFERENCE PARTICIPATE COME-there
+annot_deu	MEIN CHEF VORSCHLAGEN ICH AMERIKA KONFERENZ TEILNEHMEN KOMMEN-dahin
+transl_eng	My boss suggests me to participate in a conference in America.
+transl_deu	Mein Chef schlägt vor, dass ich an einer Konferenz in Amerika teilnehme.

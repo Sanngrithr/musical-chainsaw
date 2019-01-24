@@ -1,0 +1,2 @@
+annot_eng	BANK-money
+annot_deu	BANK-geld

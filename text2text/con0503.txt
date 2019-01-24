@@ -1,0 +1,4 @@
+annot_eng	MY GRANDMA X-right WISH WHAT SEVEN PLATE NEW
+annot_deu	MEIN OMA X-rechts WÜNSCHEN WAS SIEBEN TELLER NEU
+transl_eng	My grandma wishes for seven new plates.
+transl_deu	Meine Oma wünscht sich sieben neue Teller.

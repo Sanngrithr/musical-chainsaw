@@ -1,0 +1,4 @@
+annot_eng	WE-all SPARKLING-WINE COLD-cool DRINK
+annot_deu	WIR-alle SEKT KALT TRINKEN
+transl_eng	We are drinking cold sparkling wine.
+transl_deu	Wir trinken kalten Sekt.

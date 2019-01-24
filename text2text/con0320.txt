@@ -1,0 +1,4 @@
+annot_eng	FARMER X-right he-EXPLAIN-i APPLES+JUICE HOW DO
+annot_deu	BAUER X-rechts er-ERKLÄREN-ich ÄPFEL+SAFT WIE MACHEN
+transl_eng	The farmer is explaining to me how apple juice is produced. 
+transl_deu	Der Bauer erklärt mir, wie man Apfelsaft herstellt.

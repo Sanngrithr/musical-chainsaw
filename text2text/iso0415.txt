@@ -1,0 +1,2 @@
+annot_eng	JUDGE|COURT-justice|DAMAGE
+annot_deu	RICHTER|GERICHT-justiz|SCHADEN

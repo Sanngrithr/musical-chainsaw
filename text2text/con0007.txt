@@ -1,0 +1,4 @@
+annot_eng	MY HUSBAND X-right A-LOT-OF WORK
+annot_deu	MEIN EHEMANN X-rechts VIEL ARBEITEN
+transl_eng	My husband works a lot.
+transl_deu	Mein Ehemann arbeitet viel.

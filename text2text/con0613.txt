@@ -1,0 +1,4 @@
+annot_eng	TOMORROW WE-all SPARKLING-WINE DRINK BECAUSE JUDGE X-right BIRTHDAY CELEBRATE
+annot_deu	MORGEN-nTag WIR-alle SEKT TRINKEN GRUND RICHTER X-rechts GEBURTSTAG FEIERN
+transl_eng	We will drink sparkling wine tomorrow because the judge will celebrate his birthday.
+transl_deu	Morgen werden wir Sekt trinken, weil der Richter seinen Geburtstag feiert.

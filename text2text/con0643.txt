@@ -1,0 +1,4 @@
+annot_eng	MY APPLICATION+DOCUMENTS i-SHOW-you MAY?
+annot_deu	MEIN BEWERBUNG+UNTERLAGEN ich-ZEIGEN-du DÜRFEN?
+transl_eng	May I show you my application documents?
+transl_deu	Darf ich dir meine Bewerbungsunterlagen zeigen?

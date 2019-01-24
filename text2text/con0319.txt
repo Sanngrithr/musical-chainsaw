@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND X-right he-VISIT-i BECAUSE I STOMACH+PAIN STRONG-much
+annot_deu	MEIN FREUND X-rechts er-BESUCHEN-ich GRUND ICH BAUCH+SCHMERZEN STARK-viel
+transl_eng	My friend is visiting me because I have got a strong stomachache.
+transl_deu	Mein Freund besucht mich, weil ich starke Bauchschmerzen habe.

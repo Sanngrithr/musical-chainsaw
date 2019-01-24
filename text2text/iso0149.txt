@@ -1,0 +1,2 @@
+annot_eng	CENTRE
+annot_deu	ZENTRUM

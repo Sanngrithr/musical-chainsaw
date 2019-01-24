@@ -1,0 +1,4 @@
+annot_eng	TODAY EARLY STOMACH+PAIN STRONG-much THERE-i
+annot_deu	HEUTE FRÜH BAUCH+SCHMERZEN STARK-viel DA-ich
+transl_eng	This morning I had a strong stomachache.
+transl_deu	Heute früh hatte ich starke Bauchschmerzen.

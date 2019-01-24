@@ -1,0 +1,2 @@
+annot_eng	WOMAN
+annot_deu	FRAU

@@ -1,0 +1,4 @@
+annot_eng	WEATHER X-right BAD MY RAIN+UMBRELLA i-LEND-you
+annot_deu	WETTER X-rechts SCHLECHT MEIN REGEN+SCHIRM ich-LEIHEN-du
+transl_eng	The weather is terrible! I will lend you my umbrella.
+transl_deu	Das Wetter ist schlecht! Ich leihe dir meinen Regenschirm.

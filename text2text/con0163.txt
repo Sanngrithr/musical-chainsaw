@@ -1,0 +1,4 @@
+annot_eng	SALAD BAD WE-all neg-LIKE
+annot_deu	SALAT SCHLECHT WIR-alle neg-MÖGEN
+transl_eng	We do not like bad salad.
+transl_deu	Schlechten Salat mögen wir nicht.

@@ -1,0 +1,4 @@
+annot_eng	WHEN AFTER-WORK I FIRST HOME THEN I REGULARLY JOG
+annot_deu	WENN FEIERABEND ICH ZUERST NACH-HAUSE DANN ICH REGELMÄSSIG JOGGEN
+transl_eng	When I finish work I go home first and then I go jogging.
+transl_deu	Wenn ich Feierabend habe, gehe ich zuerst nach Hause und jogge danach regelmässig.

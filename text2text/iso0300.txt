@@ -1,0 +1,2 @@
+annot_eng	ROOM|SPACE
+annot_deu	ZIMMER|RAUM

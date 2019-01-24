@@ -1,0 +1,4 @@
+annot_eng	YOU YESTERDAY CAKE BUY?
+annot_deu	DU GESTERN KUCHEN KAUFEN?
+transl_eng	Did you buy any cake yesterday?
+transl_deu	Hast du gestern Kuchen gekauft?

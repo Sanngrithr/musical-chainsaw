@@ -1,0 +1,4 @@
+annot_eng	BICYCLE X-right I NEED
+annot_deu	FAHRRAD X-rechts ICH BRAUCHEN
+transl_eng	I need the bicycle.
+transl_deu	Ich brauche das Fahrrad.

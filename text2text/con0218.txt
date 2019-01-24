@@ -1,0 +1,4 @@
+annot_eng	TODAY I SPARKLING-WINE DRINK
+annot_deu	HEUTE ICH SEKT TRINKEN
+transl_eng	Today I will drink sparkling wine.
+transl_deu	Heute trinke ich Sekt.

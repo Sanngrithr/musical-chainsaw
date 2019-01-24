@@ -1,0 +1,4 @@
+annot_eng	I i-ANSWER-you MUST
+annot_deu	ICH ich-ANTWORTEN-du MÜSSEN
+transl_eng	I have to answer you.
+transl_deu	Ich muss dir antworten.

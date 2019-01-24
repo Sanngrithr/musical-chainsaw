@@ -1,0 +1,4 @@
+annot_eng	DEAF+CENTRE X-left GUIDED-TOUR INTERESTING
+annot_deu	GEHÖRLOS+ZENTRUM X-links FÜHRUNG INTERESSANT
+transl_eng	The guided tour through the Centre for the Deaf is interesting.
+transl_deu	Die Führung im Gehörlosenzentrum ist interessant.

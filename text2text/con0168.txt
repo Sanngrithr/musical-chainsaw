@@ -1,0 +1,4 @@
+annot_eng	I WOULD-LIKE COFFEE WITH-what CREAM
+annot_deu	ICH MÖCHTEN KAFFEE MIT-was SAHNE
+transl_eng	I would like coffee with cream.
+transl_deu	Ich möchte Kaffee mit Sahne.

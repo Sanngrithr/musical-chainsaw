@@ -1,0 +1,2 @@
+annot_eng	HOTEL
+annot_deu	HOTEL

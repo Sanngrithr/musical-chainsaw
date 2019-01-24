@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU MY BLOUSE IRON
+annot_deu	BITTE DU MEIN BLUSE BÜGELN
+transl_eng	Please iron my blouse!
+transl_deu	Bitte bügle meine Bluse!

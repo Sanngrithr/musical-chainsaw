@@ -1,0 +1,4 @@
+annot_eng	YOUR JACKET NEW CLOTHING HOW-LOOK?
+annot_deu	DEIN JACKE NEU KLEIDUNG WIE-AUSSEHEN?
+transl_eng	What does your new jacket look like?
+transl_deu	Wie sieht deine neue Jacke aus?

@@ -1,0 +1,2 @@
+annot_eng	NEXT-time|THEN
+annot_deu	NÄCHSTEN-zeit|DANN

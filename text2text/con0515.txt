@@ -1,0 +1,4 @@
+annot_eng	MY DOG X-right SEVEN KILOGRAMME FOOD NEED
+annot_deu	MEIN HUND X-rechts SIEBEN KILO FUTTER BRAUCHEN
+transl_eng	My dog needs seven kilogrammes of pet food.
+transl_deu	Mein Hund braucht sieben Kilo Futter.

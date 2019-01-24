@@ -1,0 +1,4 @@
+annot_eng	GIRL X-right he-ANSWER-i
+annot_deu	MÄDCHEN X-rechts er-ANTWORTEN-ich
+transl_eng	The girl is answering me.
+transl_deu	Das Mädchen antwortet mir.

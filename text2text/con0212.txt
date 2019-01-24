@@ -1,0 +1,4 @@
+annot_eng	I GIRL MEET
+annot_deu	ICH MÄDCHEN TREFFEN
+transl_eng	I will meet the girl.
+transl_deu	Ich treffe das Mädchen.

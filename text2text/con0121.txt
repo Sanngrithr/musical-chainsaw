@@ -1,0 +1,4 @@
+annot_eng	BOY X-right COKE BUY
+annot_deu	JUNGE X-rechts COLA KAUFEN
+transl_eng	The boy is buying a coke.
+transl_deu	Der Junge kauft Cola.

@@ -1,0 +1,4 @@
+annot_eng	MY MOTHER X-right ONE PLATE WITH-what SOUP he-GIVE-i
+annot_deu	MEIN MUTTER X-rechts EIN TELLER MIT-was SUPPE er-GEBEN-ich
+transl_eng	My mother is passing me a plate of soup.
+transl_deu	Meine Mutter gibt mir einen Teller Suppe.

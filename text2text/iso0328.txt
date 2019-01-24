@@ -1,0 +1,2 @@
+annot_eng	OFFICE|SECRETARY|TYPE-write
+annot_deu	BÜRO|SEKRETÄRIN|TIPPEN-schreiben

@@ -1,0 +1,2 @@
+annot_eng	i-EXPLAIN-you
+annot_deu	ich-ERKLÄREN-du

@@ -1,0 +1,4 @@
+annot_eng	you-HELP-i CAN WHO?
+annot_deu	du-HELFEN-ich KÖNNEN WER?
+transl_eng	Who could help me?
+transl_deu	Wer kann mir helfen?

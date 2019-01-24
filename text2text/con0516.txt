@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU SHOP X-right FISH+FOOD BUY
+annot_deu	BITTE DU GESCHÄFT X-rechts FISCH+FUTTER KAUFEN
+transl_eng	Please buy the fish food in the shop!
+transl_deu	Bitte kaufe das Fischfutter im Geschäft!

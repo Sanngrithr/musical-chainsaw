@@ -1,0 +1,4 @@
+annot_eng	I i-ASK-you
+annot_deu	ICH ich-FRAGEN-du
+transl_eng	I am asking you.
+transl_deu	Ich frage dich.

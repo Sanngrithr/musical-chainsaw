@@ -1,0 +1,4 @@
+annot_eng	FACTORY X-middle I SHOWER CAN WHEN AFTER-WORK
+annot_deu	FABRIK X-mitte ICH DUSCHEN KÖNNEN WENN FEIERABEND
+transl_eng	After work I can take a shower in the factory.
+transl_deu	Wenn ich Feierabend habe, kann ich in der Fabrik duschen.

@@ -1,0 +1,4 @@
+annot_eng	BROTHER X-right TEA WARM WITH-what MILK ORDER
+annot_deu	BRUDER X-rechts TEE WARM MIT-was MILCH BESTELLEN
+transl_eng	The brother is ordering warm tea with milk.
+transl_deu	Der Bruder bestellt warmen Tee mit Milch.

@@ -1,0 +1,4 @@
+annot_eng	IN OFFICE MY COLLEAGUES DEAF X-right VIDEOPHONE OFTEN-frequently USE
+annot_deu	IM BÜRO MEIN KOLLEGEN GEHÖRLOS X-rechts BILDTELEFON OFT-häufig BENUTZEN
+transl_eng	My deaf colleagues in the office often use the videophone.
+transl_deu	Meine gehörlosen Kollegen im Büro benutzen oft das Bildtelefon.

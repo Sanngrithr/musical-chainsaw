@@ -1,0 +1,2 @@
+annot_eng	WAIT
+annot_deu	WARTEN

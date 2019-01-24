@@ -1,0 +1,4 @@
+annot_eng	SECRETARY DEAF X-right WECKER-licht THERE-he
+annot_deu	SEKRETÄRIN GEHÖRLOS X-rechts WECKER-licht DA-er
+transl_eng	The deaf secretary has got an alarm clock with flashlight.
+transl_deu	Die gehörlose Sekretärin hat einen Blitzlicht-Wecker.

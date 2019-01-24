@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU MY SHIRT CLEAN IRON
+annot_deu	BITTE DU MEIN HEMD SAUBER BÜGELN
+transl_eng	Please iron my clean shirt!
+transl_deu	Bitte bügle mein sauberes Hemd!

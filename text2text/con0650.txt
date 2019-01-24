@@ -1,0 +1,4 @@
+annot_eng	WHEN I WITH-what TRAIN GO-ON-A-JOURNEY I ALWAYS PEOPLE NICE MEET
+annot_deu	WENN ICH MIT-was ZUG VERREISEN ICH IMMER MENSCHEN NETT KENNENLERNEN
+transl_eng	I always meet nice people whenever I travel by train.
+transl_deu	Wenn ich mit dem Zug verreise, lerne ich immer nette Menschen kennen.

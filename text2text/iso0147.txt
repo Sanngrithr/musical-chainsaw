@@ -1,0 +1,2 @@
+annot_eng	WHERE
+annot_deu	WO

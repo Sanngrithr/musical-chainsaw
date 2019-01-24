@@ -1,0 +1,4 @@
+annot_eng	RESTAURANT X-right I WITH-what PRESENT COME-there
+annot_deu	RESTAURANT X-rechts ICH MIT-was GESCHENK KOMMEN-dahin
+transl_eng	I am coming to the restaurant with a present.
+transl_deu	Ich komme mit einem Geschenk ins Restaurant.

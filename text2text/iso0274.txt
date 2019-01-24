@@ -1,0 +1,2 @@
+annot_eng	STRONG-much
+annot_deu	STARK-viel

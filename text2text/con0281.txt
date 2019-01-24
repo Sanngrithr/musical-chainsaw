@@ -1,0 +1,4 @@
+annot_eng	TODAY GRANDMA NINE BREAD-ROLLS DELICIOUS BAKE
+annot_deu	HEUTE OMA NEUN BRÖTCHEN LECKER BACKEN
+transl_eng	Grandma is baking nine delicious bread rolls today.
+transl_deu	Die Oma bäckt heute neun leckere Brötchen.

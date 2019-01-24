@@ -1,0 +1,2 @@
+annot_eng	SMALL-object
+annot_deu	KLEIN-gegenstand

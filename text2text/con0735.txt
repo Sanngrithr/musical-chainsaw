@@ -1,0 +1,4 @@
+annot_eng	YOU NEWS WITHOUT-sth SUBTITLE UNDERSTAND YOU?
+annot_deu	DU NACHRICHTEN OHNE-was UNTERTITEL VERSTEHEN DU?
+transl_eng	Do you understand the news without subtitles?
+transl_deu	Verstehst du Nachrichten ohne Untertitel?

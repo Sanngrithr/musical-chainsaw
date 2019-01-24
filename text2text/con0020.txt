@@ -1,0 +1,4 @@
+annot_eng	FLOWERS X-right RAIN NEED
+annot_deu	BLUMEN X-rechts REGEN BRAUCHEN
+transl_eng	The flowers need rain.
+transl_deu	Die Blumen brauchen Regen.

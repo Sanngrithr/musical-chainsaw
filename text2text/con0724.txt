@@ -1,0 +1,4 @@
+annot_eng	I HAIRDRESSER+APPOINTMENT i-FOR-you ALREADY AGREE
+annot_deu	ICH FRISEUR+TERMIN ich-FÜR-du SCHON VEREINBAREN
+transl_eng	I have already made an appointment at the hairdresser's for you.
+transl_deu	Ich habe schon einen Friseurtermin für dich vereinbart.

@@ -1,0 +1,4 @@
+annot_eng	I MYSELF-i LITTLE SLEEP BECAUSE MY BABY SICK
+annot_deu	ICH SELBST-ich WENIG SCHLAFEN GRUND MEIN BABY KRANK
+transl_eng	I am sleeping little myself because my baby is sick.
+transl_deu	Ich schlafe selbst wenig, weil mein Baby krank ist.

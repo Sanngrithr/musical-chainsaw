@@ -1,0 +1,4 @@
+annot_eng	MY HAIRDRESSER+INDIVIDUAL X-right MONTHLY HOLLAND DRIVE BECAUSE X-middle CIGARETTES BUY
+annot_deu	MEIN FRISEUR+PERSON X-rechts MONATLICH HOLLAND FAHREN GRUND X-mitte ZIGARETTEN KAUFEN
+transl_eng	My hairdresser goes to Holland every month in order to buy cigarettes.
+transl_deu	Mein Friseur fährt jeden Monat nach Holland, um Zigaretten zu kaufen.

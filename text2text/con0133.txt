@@ -1,0 +1,4 @@
+annot_eng	TODAY YOU-all neg-COOK
+annot_deu	HEUTE IHR-alle neg-KOCHEN
+transl_eng	You are not cooking today.
+transl_deu	Ihr kocht heute nicht.

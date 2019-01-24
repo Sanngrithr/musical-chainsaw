@@ -1,0 +1,4 @@
+annot_eng	TODAY WOMAN+TILL+INDIVIDUAL X-right COOK
+annot_deu	HEUTE FRAU+KASSE+PERSON X-rechts KOCHEN
+transl_eng	The till girl is cooking today.
+transl_deu	Die Kassiererin kocht heute.

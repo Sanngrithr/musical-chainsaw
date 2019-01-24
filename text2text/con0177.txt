@@ -1,0 +1,4 @@
+annot_eng	X-middle TRY LIKE WHO?
+annot_deu	X-mitte PROBIEREN MÖGEN WER?
+transl_eng	Who would like to try?
+transl_deu	Wer möchte probieren?

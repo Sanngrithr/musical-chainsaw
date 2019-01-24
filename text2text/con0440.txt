@@ -1,0 +1,4 @@
+annot_eng	I MYSELF-i BALCONY BARBECUE NOT-ALLOWED
+annot_deu	ICH SELBST-ich BALKON GRILLEN NICHT-DÜRFEN
+transl_eng	I am not allowed to barbecue on the balcony myself.
+transl_deu	Ich darf selbst auf dem Balkon nicht grillen.

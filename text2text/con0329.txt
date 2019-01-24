@@ -1,0 +1,4 @@
+annot_eng	I A-LOT-OF WORK ANYWAY MONEY LITTLE he-GET-i
+annot_deu	ICH VIEL ARBEITEN TROTZDEM GELD WENIG er-BEKOMMEN-ich
+transl_eng	I am working a lot, but I only earn little money.
+transl_deu	Ich arbeite viel, trotzdem verdiene ich wenig Geld

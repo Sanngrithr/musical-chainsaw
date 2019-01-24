@@ -1,0 +1,4 @@
+annot_eng	TODAY MY SON SCHOOL MISSING BECAUSE COLD-nose
+annot_deu	HEUTE MEIN SOHN SCHULE FEHLEN GRUND SCHNUPFEN
+transl_eng	My son is absent from school today because he has got a cold.
+transl_deu	Mein Sohn fehlt heute in der Schule, weil er Schnupfen hat.

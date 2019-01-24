@@ -1,0 +1,4 @@
+annot_eng	YOU GARDEN SPIDER FIND X-middle HOW-LOOK?
+annot_deu	DU GARTEN SPINNE FINDEN X-mitte WIE-AUSSEHEN?
+transl_eng	What does the spider look like that you found in the garden?
+transl_deu	Wie sieht die Spinne aus, die du im Garten gefunden hast?

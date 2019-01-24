@@ -1,0 +1,2 @@
+annot_eng	MAN
+annot_deu	MANN

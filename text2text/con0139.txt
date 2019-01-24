@@ -1,0 +1,4 @@
+annot_eng	TEACHER X-right SEE BUS COME-here
+annot_deu	LEHRER X-rechts SEHEN BUS KOMMEN-hier
+transl_eng	The teacher is seeing the bus arriving.
+transl_deu	Der Lehrer sieht den Bus kommen.

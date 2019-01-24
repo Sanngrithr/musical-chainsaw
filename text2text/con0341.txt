@@ -1,0 +1,4 @@
+annot_eng	I COLD-sickness ANYWAY MY PARENTS AT-i ALLOW BARBECUE
+annot_deu	ICH ERKÄLTUNG TROTZDEM MEIN ELTERN AUF-ich ERLAUBEN GRILLEN
+transl_eng	I have got a cold but my parents allow me to barbecue anyway.
+transl_deu	Ich bin erkältet, trotzdem erlauben mir meine Eltern zu grillen.

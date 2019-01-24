@@ -1,0 +1,4 @@
+annot_eng	EAT+ROOM+TABLE X-middle SALT AND PEPPER MISSING
+annot_deu	ESSEN+ZIMMER+TISCH X-mitte SALZ UND PFEFFER FEHLEN
+transl_eng	Salt and pepper are missing on the dining room table.
+transl_deu	Auf dem Esszimmertisch fehlen Salz und Pfeffer.

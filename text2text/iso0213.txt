@@ -1,0 +1,2 @@
+annot_eng	HOUSE|HALL
+annot_deu	HAUS|HALLE

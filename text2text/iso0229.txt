@@ -1,0 +1,2 @@
+annot_eng	KILOGRAMME
+annot_deu	KILO

@@ -1,0 +1,2 @@
+annot_eng	GO-to|COME-to|THERE-level|TO
+annot_deu	GEHEN-nach|KOMMEN-nach|NACH

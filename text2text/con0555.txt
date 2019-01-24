@@ -1,0 +1,4 @@
+annot_eng	MY NEIGHBOUR X-right PENSION+INSURANCE GOOD THERE-he
+annot_deu	MEIN NACHBAR X-rechts RENTE+VERSICHERUNG GUT DA-er
+transl_eng	My neighbour has a good pension insurance.
+transl_deu	Mein Nachbar hat eine gute Rentenversicherung.

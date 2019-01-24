@@ -1,0 +1,2 @@
+annot_eng	BIG-high
+annot_deu	GROSS-hoch

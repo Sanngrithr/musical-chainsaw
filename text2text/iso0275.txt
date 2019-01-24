@@ -1,0 +1,2 @@
+annot_eng	DIE|DIED
+annot_deu	GESTORBEN

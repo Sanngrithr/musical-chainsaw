@@ -1,0 +1,4 @@
+annot_eng	SEA X-right SWIM UNFORTUNATELY PROHIBITED
+annot_deu	MEER X-rechts SCHWIMMEN LEIDER VERBOTEN
+transl_eng	Unfortunately swimming in the sea is not allowed. 
+transl_deu	Das Schwimmen im Meer ist leider verboten.

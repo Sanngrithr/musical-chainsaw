@@ -1,0 +1,4 @@
+annot_eng	IN SUMMER VEGETABLES A-LOT-OF CHOOSE
+annot_deu	IM SOMMER GEMÜSE VIEL AUSWÄHLEN
+transl_eng	In summer people take lots of vegetables.
+transl_deu	Im Sommer wählt man viel Gemüse.

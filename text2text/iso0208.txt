@@ -1,0 +1,2 @@
+annot_eng	SHOP
+annot_deu	GESCHÄFT

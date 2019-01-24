@@ -1,0 +1,4 @@
+annot_eng	WE-all BUTTER AND COFFEE LOOK FOR
+annot_deu	WIR-alle BUTTER UND KAFFEE SUCHEN
+transl_eng	We are looking for butter and coffee.
+transl_deu	Wir suchen Butter und Kaffee.

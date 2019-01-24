@@ -1,0 +1,2 @@
+annot_eng	AUTUMN
+annot_deu	HERBST

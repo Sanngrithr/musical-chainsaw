@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU ENTRANCE+CARD-post you-GIVE-i
+annot_deu	BITTE DU EINTRITT+KARTE-post du-GEBEN-ich
+transl_eng	Please pass me the ticket!
+transl_deu	Bitte gib mir die Eintrittskarte!

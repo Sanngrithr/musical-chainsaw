@@ -1,0 +1,4 @@
+annot_eng	KNOW YOU PROFESSION+TRAFFIC START WHEN?
+annot_deu	WISSEN DU BERUF+VERKEHR ANFANGEN WANN?
+transl_eng	Do you know when the rush-hour traffic starts?
+transl_deu	Weisst du, wann der Berufsverkehr anfängt?

@@ -1,0 +1,2 @@
+annot_eng	PARCEL
+annot_deu	PAKET

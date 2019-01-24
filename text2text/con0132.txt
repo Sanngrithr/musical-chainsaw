@@ -1,0 +1,4 @@
+annot_eng	TODAY I COOK
+annot_deu	HEUTE ICH KOCHEN
+transl_eng	I am cooking today.
+transl_deu	Ich koche heute.

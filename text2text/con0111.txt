@@ -1,0 +1,4 @@
+annot_eng	TODAY EVENING COLD-cool
+annot_deu	HEUTE ABEND KALT
+transl_eng	It is cold tonight.
+transl_deu	Heute Abend ist es kalt.

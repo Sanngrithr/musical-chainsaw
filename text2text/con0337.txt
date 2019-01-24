@@ -1,0 +1,4 @@
+annot_eng	HOSPITAL-in BORING I READ neg-ALLOW
+annot_deu	KRANKENHAUS-im LANGWEILIG ICH LESEN neg-ERLAUBEN
+transl_eng	It is boring in hospital because I am not allowed to read.
+transl_deu	Im Krankenhaus ist es langweilig, weil ich nicht lesen darf.

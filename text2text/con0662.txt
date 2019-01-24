@@ -1,0 +1,4 @@
+annot_eng	TODAY POST+CIVIL-SERVANT+INDIVIDUAL X-right ALREADY 4-CLOCK HOME MUST
+annot_deu	HEUTE POST+BEAMTER+PERSON X-rechts SCHON 4-UHR NACH-HAUSE MÜSSEN
+transl_eng	Today the postman has to go home at 4pm already.
+transl_deu	Heute muss der Postbeamte schon um 16:00 Uhr nach Hause.

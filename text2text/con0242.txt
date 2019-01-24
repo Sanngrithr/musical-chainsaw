@@ -1,0 +1,4 @@
+annot_eng	CHEESE+COUNTER X-right WOMAN+TILL+INDIVIDUAL X-right WAIT
+annot_deu	KÄSE+THEKE X-rechts FRAU+KASSE+PERSON X-rechts WARTEN
+transl_eng	The till girl is waiting at the cheese counter.
+transl_deu	Die Kassiererin wartet an der Käsetheke.

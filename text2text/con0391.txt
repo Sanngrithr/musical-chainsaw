@@ -1,0 +1,4 @@
+annot_eng	HOSPITAL-in X-middle LANGUAGE+THERAPY i-OFFER-you THERE-you
+annot_deu	KRANKENHAUS-im X-mitte SPRACHE+THERAPIE ich-ANBIETEN-du DA-du
+transl_eng	The hospital is offering you to take a speech therapy.
+transl_deu	Das Krankenhaus bietet dir eine Sprachtherapie an.

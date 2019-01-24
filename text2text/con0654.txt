@@ -1,0 +1,4 @@
+annot_eng	PROJECT+DOCUMENTS X-left IMPORTANT PLEASE YOU X-left COPY
+annot_deu	PROJEKT+UNTERLAGEN X-links WICHTIG BITTE DU X-links KOPIEREN
+transl_eng	Please copy the important project documents!
+transl_deu	Bitte kopiere die wichtigen Projektunterlagen!

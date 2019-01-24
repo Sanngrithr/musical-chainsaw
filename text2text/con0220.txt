@@ -1,0 +1,4 @@
+annot_eng	WE-all WINE RED DRINK
+annot_deu	WIR-alle WEIN ROT TRINKEN
+transl_eng	We are drinking red wine.
+transl_deu	Wir trinken Rotwein.

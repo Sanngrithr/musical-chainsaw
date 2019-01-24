@@ -1,0 +1,2 @@
+annot_eng	HOW-LOOK
+annot_deu	WIE-AUSSEHEN

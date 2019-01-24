@@ -1,0 +1,4 @@
+annot_eng	SAUSAGE OLD I neg-EAT
+annot_deu	WURST ALT ICH neg-ESSEN
+transl_eng	I do not eat old sausages.
+transl_deu	Ich esse keine alte Wurst.

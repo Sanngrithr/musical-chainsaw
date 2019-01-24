@@ -1,0 +1,4 @@
+annot_eng	ALL PEOPLE CLOUDS FOG neg-LIKE
+annot_deu	ALLE MENSCHEN WOLKEN NEBEL neg-MÖGEN
+transl_eng	All people dislike clouds and fog.
+transl_deu	Alle Menschen mögen keine Wolken und keinen Nebel.

@@ -1,0 +1,4 @@
+annot_eng	LAST-time MONTH MY BROTHER-IN-LAW EIGHT APPLICATION ALREADY WRITE
+annot_deu	LETZTEN-zeit MONAT MEIN SCHWAGER ACHT BEWERBUNG SCHON SCHREIBEN
+transl_eng	My brother-in-law wrote eight job applications last month.
+transl_deu	Im letzten Monat hat mein Schwager schon acht Bewerbungen geschrieben.

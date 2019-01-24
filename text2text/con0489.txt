@@ -1,0 +1,4 @@
+annot_eng	YOUR RENT+FLAT X-middle PLACE HOW-LOOK?
+annot_deu	DEIN MIETE+WOHNUNG X-mitte PLATZ WIE-AUSSEHEN?
+transl_eng	What does your rented flat look like?
+transl_deu	Wie sieht deine Mietwohnung aus? 

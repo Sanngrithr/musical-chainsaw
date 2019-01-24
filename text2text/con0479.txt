@@ -1,0 +1,4 @@
+annot_eng	THE-DAY-BEFORE-YESTERDAY I MY GLASSES-eyes LOSE-things
+annot_deu	VORGESTERN ICH MEIN BRILLE VERLIEREN-sachen
+transl_eng	The day before yesterday I lost my glasses.
+transl_deu	Vorgestern habe ich meine Brille verloren.

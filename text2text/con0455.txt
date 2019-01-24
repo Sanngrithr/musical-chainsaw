@@ -1,0 +1,4 @@
+annot_eng	TOILET DIRTY PLEASE YOU CLEAN-floor
+annot_deu	TOILETTE SCHMUTZIG BITTE DU PUTZEN-boden
+transl_eng	Please clean the dirty toilet!
+transl_deu	Bitte putze die schmutzige Toilette!

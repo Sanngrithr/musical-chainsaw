@@ -1,0 +1,2 @@
+annot_eng	SNOW
+annot_deu	SCHNEE

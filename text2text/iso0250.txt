@@ -1,0 +1,2 @@
+annot_eng	NOT-HAVE
+annot_deu	NICHT-HABEN

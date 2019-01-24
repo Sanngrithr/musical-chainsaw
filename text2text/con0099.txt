@@ -1,0 +1,4 @@
+annot_eng	EXCELLENT+MARKET X-right I GO-to
+annot_deu	SUPER+MARKT X-rechts ICH GEHEN-nach
+transl_eng	I am going to the supermarket. 
+transl_deu	Ich gehe zum Supermarkt.

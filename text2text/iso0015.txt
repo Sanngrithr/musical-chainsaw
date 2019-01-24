@@ -1,0 +1,2 @@
+annot_eng	BOOK
+annot_deu	BUCH

@@ -1,0 +1,4 @@
+annot_eng	ALL DOCUMENTS COPY I DO-NOT-FEEL-LIKE
+annot_deu	ALLE UNTERLAGEN KOPIEREN ICH KEINE-LUST
+transl_eng	I do not feel like copying all the documents.
+transl_deu	Ich habe keine Lust, alle Unterlagen zu kopieren.

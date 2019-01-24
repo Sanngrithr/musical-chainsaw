@@ -1,0 +1,4 @@
+annot_eng	TODAY PARENTS+EVENING PLEASE YOU AT-you BABY LOOK-after
+annot_deu	HEUTE ELTERN+ABEND BITTE DU AUF-du BABY AUFPASSEN-auf
+transl_eng	It is parents' evening tonight, please look after the baby.
+transl_deu	Heute ist Elternabend, bitte passe auf das Baby auf!

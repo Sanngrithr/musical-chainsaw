@@ -1,0 +1,4 @@
+annot_eng	MAN X-right he-HELP-i CAN
+annot_deu	MANN X-rechts er-HELFEN-ich KÖNNEN
+transl_eng	The man can help me.
+transl_deu	Der Mann kann mir helfen.

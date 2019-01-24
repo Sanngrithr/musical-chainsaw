@@ -1,0 +1,4 @@
+annot_eng	WE-all NEXT-time CHRISTMAS+PARTY PLAN MUST
+annot_deu	WIR-alle NÄCHSTEN-zeit WEIHNACHTEN+FEIER PLANEN MÜSSEN
+transl_eng	We have to plan the next Christmas party.
+transl_deu	Wir müssen die nächste Weihnachtsfeier planen.

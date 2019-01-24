@@ -1,0 +1,4 @@
+annot_eng	EASTER MY BIG-high+PARENTS MAYBE PARCEL NICE he-SEND-i
+annot_deu	OSTERN MEIN GROSS-hoch+ELTERN VIELLEICHT PAKET SCHÖN er-SCHICKEN-ich
+transl_eng	My grandparents might send me a nice parcel for Easter.
+transl_deu	Vielleicht schicken mir meine Grosseltern ein schönes Paket zu Ostern.

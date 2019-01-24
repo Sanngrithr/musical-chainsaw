@@ -1,0 +1,2 @@
+annot_eng	LOOK-after
+annot_deu	AUFPASSEN-auf

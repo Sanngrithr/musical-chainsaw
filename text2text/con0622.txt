@@ -1,0 +1,4 @@
+annot_eng	LEISURE-TIME X-right MY BROTHER-IN-LAW MUSEUM X-middle i-VISIT-you LIKE
+annot_deu	FREIZEIT X-rechts MEIN SCHWAGER MUSEUM X-mitte ich-BESUCHEN-du MÖGEN
+transl_eng	My brother-in-law likes to go to a museum in his leisure time.
+transl_deu	In seiner Freizeit besucht mein Schwager gerne ein Museum.

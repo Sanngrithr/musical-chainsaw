@@ -1,0 +1,2 @@
+annot_eng	TELEPHONE|PHONE
+annot_deu	TELEFON|TELEFONIEREN

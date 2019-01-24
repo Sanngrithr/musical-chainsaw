@@ -1,0 +1,2 @@
+annot_eng	WE-all
+annot_deu	WIR-alle

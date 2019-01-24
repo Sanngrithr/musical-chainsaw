@@ -1,0 +1,2 @@
+annot_eng	BORING|BOREDOM
+annot_deu	LANGWEILIG|LANGEWEILE

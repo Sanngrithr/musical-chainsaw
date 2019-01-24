@@ -1,0 +1,4 @@
+annot_eng	MY NEIGHBOUR X-right he-TELL-i AT-i X-right HOLLAND CAMPING HAVE-BEEN
+annot_deu	MEIN NACHBAR X-rechts er-ERZÄHLEN-ich AUF-ich X-rechts HOLLAND CAMPING GEWESEN
+transl_eng	My neighbour is telling me that he went camping in Holland.
+transl_deu	Mein Nachbar erzählt mir, dass er in Holland campen war.

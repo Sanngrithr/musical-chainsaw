@@ -1,0 +1,4 @@
+annot_eng	HERE PLACE UNDERGROUND EAT AND DRINK PROHIBITED
+annot_deu	HIER PLATZ U-BAHN ESSEN UND TRINKEN VERBOTEN
+transl_eng	Eating and drinking is prohibited here in the underground!
+transl_deu	Hier in der U-Bahn ist Essen und Trinken verboten!

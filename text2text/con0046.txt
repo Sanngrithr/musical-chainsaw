@@ -1,0 +1,4 @@
+annot_eng	TEACHER X-right he-ASK-i CHURCH WAY WHERE
+annot_deu	LEHRER X-rechts er-FRAGEN-ich KIRCHE WEG WO
+transl_eng	The teacher is asking me for the way to the church.
+transl_deu	Der Lehrer fragt mich nach dem Weg zur Kirche.

@@ -1,0 +1,4 @@
+annot_eng	YOU MILK OR TEA LIKE WHAT?
+annot_deu	DU MILCH ODER TEE MÖGEN WAS?
+transl_eng	Would you like some milk or tea?
+transl_deu	Magst du Milch oder Tee?

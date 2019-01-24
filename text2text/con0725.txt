@@ -1,0 +1,4 @@
+annot_eng	I WITH-what CAR+GARAGE STILL APPOINTMENT AGREE
+annot_deu	ICH MIT-was AUTO+WERKSTATT NOCH TERMIN VEREINBAREN
+transl_eng	I still have to make an appointment with the garage.
+transl_deu	Ich muss noch einen Termin mit der Autowerkstatt vereinbaren.

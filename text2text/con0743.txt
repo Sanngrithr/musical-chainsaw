@@ -1,0 +1,4 @@
+annot_eng	MY WIFE PROPOSE NEXT-time HOLIDAY ONCE-AGAIN HIKE COME-to
+annot_deu	MEIN EHEFRAU VORSCHLAGEN NÄCHSTEN-zeit URLAUB NOCH-EINMAL WANDERN KOMMEN-nach
+transl_eng	My wife suggests to go hiking again for our next holiday.
+transl_deu	Meine Ehefrau schlägt vor, im nächsten Urlaub noch einmal wandern zu gehen.

@@ -1,0 +1,4 @@
+annot_eng	GRANDPA CHEMIST'S X-right PILLS PICK-UP-sth
+annot_deu	OPA APOTHEKE X-rechts TABLETTEN ABHOLEN-was
+transl_eng	Grandpa is picking up the pills from the chemist`s.
+transl_deu	Der Opa holt aus der Apotheke die Tabletten ab.

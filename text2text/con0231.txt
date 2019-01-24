@@ -1,0 +1,4 @@
+annot_eng	I BICYCLE FORGET
+annot_deu	ICH FAHRRAD VERGESSEN
+transl_eng	I forgot the bicycle.
+transl_deu	Ich habe das Fahrrad vergessen.

@@ -1,0 +1,2 @@
+annot_eng	COLOGNE
+annot_deu	KÖLN

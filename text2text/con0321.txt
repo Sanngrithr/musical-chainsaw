@@ -1,0 +1,4 @@
+annot_eng	DOCTOR X-right AT-i he-EXPLAIN-i WHY I HEAD+PAIN
+annot_deu	ARZT X-rechts AUF-ich er-ERKLÄREN-ich WARUM ICH KOPF+SCHMERZEN
+transl_eng	The doctor is explaining to me why I have got a headache.
+transl_deu	Der Arzt erklärt mir, warum ich Kopfschmerzen habe.

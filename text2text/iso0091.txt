@@ -1,0 +1,2 @@
+annot_eng	MONDAY
+annot_deu	MONTAG

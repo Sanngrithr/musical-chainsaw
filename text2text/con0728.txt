@@ -1,0 +1,4 @@
+annot_eng	TOMORROW EVENING 6-CLOCK I UNFORTUNATELY ALREADY ARRANGEMENT
+annot_deu	MORGEN-nTag ABEND 6-UHR ICH LEIDER SCHON VERABREDUNG
+transl_eng	I am afraid I already have a date at 6pm tomorrow night.
+transl_deu	Morgen Abend um 18:00 Uhr bin ich leider schon verabredet.

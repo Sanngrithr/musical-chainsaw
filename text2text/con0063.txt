@@ -1,0 +1,4 @@
+annot_eng	CHEESE OLD I neg-EAT
+annot_deu	KÄSE ALT ICH neg-ESSEN
+transl_eng	I do not eat old cheese.
+transl_deu	Ich esse keinen alten Käse.

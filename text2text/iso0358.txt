@@ -1,0 +1,2 @@
+annot_eng	FOOTBALL
+annot_deu	FUSSBALL

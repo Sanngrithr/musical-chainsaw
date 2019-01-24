@@ -1,0 +1,2 @@
+annot_eng	BALL-round
+annot_deu	BALL-kugel

@@ -1,0 +1,2 @@
+annot_eng	EAT|PIECE
+annot_deu	ESSEN|STÜCK

@@ -1,0 +1,2 @@
+annot_eng	CONTRACT|SIGN
+annot_deu	VERTRAG|UNTERSCHREIBEN

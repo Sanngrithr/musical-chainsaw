@@ -1,0 +1,4 @@
+annot_eng	EXCUSE-ME YOU you-HELP-i CAN?
+annot_deu	ENTSCHULDIGUNG DU du-HELFEN-ich KÖNNEN?
+transl_eng	Excuse me, could you help me?
+transl_deu	Entschuldigung, kannst du mir helfen?

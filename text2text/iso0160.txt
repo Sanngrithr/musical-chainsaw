@@ -1,0 +1,2 @@
+annot_eng	DOCTOR
+annot_deu	ARZT

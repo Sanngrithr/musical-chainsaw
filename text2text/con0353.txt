@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND X-right GLASSES-eyes NEW he-SHOW-i
+annot_deu	MEIN FREUND X-rechts BRILLE NEU er-ZEIGEN-ich
+transl_eng	My friend is showing me the new glasses.
+transl_deu	Mein Freund zeigt mir die neue Brille.

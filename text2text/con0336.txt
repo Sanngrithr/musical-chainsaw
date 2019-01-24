@@ -1,0 +1,4 @@
+annot_eng	DRY-CLEANER X-right YOU MY SHIRT PICK-UP-sth CAN YOU?
+annot_deu	REINIGUNG X-rechts DU MEIN HEMD ABHOLEN-was KÖNNEN DU?
+transl_eng	Could you get my shirt from the dry-cleaner´s for me?
+transl_deu	Kannst du mein Hemd aus der Reinigung abholen?

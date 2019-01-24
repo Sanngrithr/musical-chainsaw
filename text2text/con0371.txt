@@ -1,0 +1,4 @@
+annot_eng	I neg-HAPPY BECAUSE WEATHER BAD FOG STRONG-much
+annot_deu	ICH neg-FREUEN GRUND WETTER SCHLECHT NEBEL STARK-viel
+transl_eng	I am not very happy about the bad weather as it is very foggy.
+transl_deu	Ich freue mich nicht über das schlechte Wetter, denn es ist sehr nebelig.

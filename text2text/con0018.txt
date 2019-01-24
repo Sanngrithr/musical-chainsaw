@@ -1,0 +1,4 @@
+annot_eng	I COMPUTER NEW NEED
+annot_deu	ICH COMPUTER NEU BRAUCHEN
+transl_eng	I need a new computer.
+transl_deu	Ich brauche einen neuen Computer.

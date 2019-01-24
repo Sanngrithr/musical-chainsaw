@@ -1,0 +1,4 @@
+annot_eng	WE-all TEA LIKE
+annot_deu	WIR-alle TEE MÖGEN
+transl_eng	We like tea.
+transl_deu	Wir mögen Tee.

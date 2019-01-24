@@ -1,0 +1,2 @@
+annot_eng	THIS-middle|X-middle
+annot_deu	X-mitte

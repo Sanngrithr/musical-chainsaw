@@ -1,0 +1,4 @@
+annot_eng	I GLAD BECAUSE I COURT-justice COME-there NOT-MUST
+annot_deu	ICH FROH GRUND ICH GERICHT-justiz KOMMEN-dahin NICHT-MÜSSEN
+transl_eng	I am glad that I do not have to go to court.
+transl_deu	Ich bin froh, dass ich nicht zum Gericht gehen muss.

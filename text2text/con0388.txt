@@ -1,0 +1,4 @@
+annot_eng	OFTEN-every SUMMER ALL PEOPLE COMFORTABLE BARBECUE
+annot_deu	OFT-jeden SOMMER ALLE MENSCHEN GEMÜTLICH GRILLEN
+transl_eng	In summer everybody barbecues comfortably.
+transl_deu	Im Sommer grillen alle Leute gemütlich.

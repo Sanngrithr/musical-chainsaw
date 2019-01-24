@@ -1,0 +1,4 @@
+annot_eng	THIS-time FRIDAY STUDENT X-right CAR+DRIVE
+annot_deu	DIESEN-zeit FREITAG STUDENT X-rechts AUTO+FAHREN
+transl_eng	The student is going by car on Friday.
+transl_deu	Der Student fährt am Freitag mit dem Auto.

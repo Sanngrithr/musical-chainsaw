@@ -1,0 +1,4 @@
+annot_eng	TODAY CONFERENCE+PARTICIPANT X-right DISCUSS ABOUT-what EUROPE
+annot_deu	HEUTE KONFERENZ+TEILNEHMER X-rechts DISKUTIEREN ÜBER-was EUROPA
+transl_eng	The conference members are discussing Europe today.
+transl_deu	Die Konferenzteilnehmer diskutieren heute über Europa.

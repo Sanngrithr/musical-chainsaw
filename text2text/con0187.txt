@@ -1,0 +1,4 @@
+annot_eng	BANANAS FRESH AND APPLES TASTE GOOD
+annot_deu	BANANEN FRISCH UND ÄPFEL SCHMECKEN GUT
+transl_eng	Fresh bananas and apples are tasty.
+transl_deu	Frische Bananen und Äpfel schmecken gut.

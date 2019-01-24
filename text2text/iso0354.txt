@@ -1,0 +1,2 @@
+annot_eng	FIRM|WEEK
+annot_deu	FIRMA|WOCHE

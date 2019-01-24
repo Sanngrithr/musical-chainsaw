@@ -1,0 +1,4 @@
+annot_eng	I GLAD BECAUSE CHEMIST'S X-right PILLS he-GET-i
+annot_deu	ICH FROH GRUND APOTHEKE X-rechts TABLETTEN er-BEKOMMEN-ich
+transl_eng	I am glad because I can get pills at the chemist's.
+transl_deu	Ich bin froh, weil ich in der Apotheke Tabletten bekomme.

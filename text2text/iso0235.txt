@@ -1,0 +1,2 @@
+annot_eng	HEAD|CAPITAL
+annot_deu	KOPF|HAUPT

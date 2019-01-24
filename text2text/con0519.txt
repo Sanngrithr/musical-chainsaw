@@ -1,0 +1,4 @@
+annot_eng	WE-both FARMER+COURT-place COME-there BECAUSE VEGETABLES AND EGGS BUY
+annot_deu	WIR-beide BAUER+HOF KOMMEN-dahin GRUND GEMÜSE UND EIER KAUFEN
+transl_eng	We go to the farm in order to buy vegetables and eggs.
+transl_deu	Wir gehen zum Bauernhof, um Gemüse und Eier zu kaufen.

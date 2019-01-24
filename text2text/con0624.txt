@@ -1,0 +1,4 @@
+annot_eng	COURSE+PARTICIPANT+INDIVIDUALS X-right ALREADY OFTEN-frequently MUSEUM X-middle i-VISIT-you HAVE-BEEN
+annot_deu	KURS+TEILNEHMER+PERSONEN X-rechts SCHON OFT-häufig MUSEUM X-mitte ich-BESUCHEN-du GEWESEN
+transl_eng	I often went to the museum with my course participants.
+transl_deu	Ich habe schon oft mit den Kursteilnehmern das Museum besucht.

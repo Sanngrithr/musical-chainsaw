@@ -1,0 +1,2 @@
+annot_eng	OFTEN-every
+annot_deu	OFT-jeden

@@ -1,0 +1,2 @@
+annot_eng	i-TAKE-he|HOSPITAL-to
+annot_deu	ich-BRINGEN-er|KRANKENHAUS-nach

@@ -1,0 +1,4 @@
+annot_eng	MY THREE BIRD X-middle HUNGER THERE-you X-middle FOOD WISH
+annot_deu	MEIN DREI VOGEL X-mitte HUNGER DA-du X-mitte FUTTER WÜNSCHEN
+transl_eng	My three birds want food because they are hungry.
+transl_deu	Meine drei Vögel wünschen sich Futter, weil sie Hunger haben.

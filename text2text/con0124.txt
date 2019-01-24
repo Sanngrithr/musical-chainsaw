@@ -1,0 +1,4 @@
+annot_eng	TOMORROW YOU NICE FLOWERS BUY
+annot_deu	MORGEN-nTag DU SCHÖN BLUMEN KAUFEN
+transl_eng	Tomorrow you will buy beautiful flowers.
+transl_deu	Morgen kaufst du schöne Blumen.

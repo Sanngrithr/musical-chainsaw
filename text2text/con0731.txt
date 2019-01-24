@@ -1,0 +1,4 @@
+annot_eng	TELEVISION X-middle I 8-CLOCK+NEWS AGAIN MISS
+annot_deu	FERNSEHER X-mitte ICH 8-UHR+NACHRICHTEN WIEDER VERPASSEN
+transl_eng	I missed the 8 o'clock news on television again!
+transl_deu	Ich habe die 20:00 Uhr Nachrichten im Fernseher wieder verpasst.

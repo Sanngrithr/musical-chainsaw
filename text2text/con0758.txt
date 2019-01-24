@@ -1,0 +1,4 @@
+annot_eng	I NEWS LOOK WANT REMOTE-CONTROL WHERE?
+annot_deu	ICH NACHRICHTEN SCHAUEN WOLLEN FERNBEDIENUNG WO?
+transl_eng	Where is the remote control? I want to watch the news.
+transl_deu	Wo ist die Fernbedienung?  Ich will die Nachrichten schauen.

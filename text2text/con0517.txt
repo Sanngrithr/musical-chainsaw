@@ -1,0 +1,4 @@
+annot_eng	SHOP X-right I FIVE KILOGRAMME FISH BUY MUST
+annot_deu	GESCHÄFT X-rechts ICH FÜNF KILO FISCH KAUFEN MÜSSEN
+transl_eng	I have to buy five kilogrammes of fish in the shop.
+transl_deu	Ich muss fünf Kilo Fisch im Geschäft kaufen.

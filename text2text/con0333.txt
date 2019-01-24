@@ -1,0 +1,4 @@
+annot_eng	PLEASE MY DAUGHTER SMALL-person you-FOR-i PICK-UP-sth
+annot_deu	BITTE MEIN TOCHTER KLEIN-person du-FÜR-ich ABHOLEN-was
+transl_eng	Please pick up my little daughter for me!
+transl_deu	Hole bitte für mich meine kleine Tochter ab!

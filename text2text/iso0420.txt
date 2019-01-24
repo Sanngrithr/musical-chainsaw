@@ -1,0 +1,2 @@
+annot_eng	STEAL|THEFT
+annot_deu	STEHLEN|DIEBSTAHL

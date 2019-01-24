@@ -1,0 +1,2 @@
+annot_eng	FACTORY
+annot_deu	FABRIK

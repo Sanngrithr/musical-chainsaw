@@ -1,0 +1,4 @@
+annot_eng	YOU BOREDOM THERE-you I AT-you RECOMMEND WHAT NEWSPAPER READ
+annot_deu	DU LANGEWEILE DA-du ICH AUF-du EMPFEHLEN WAS ZEITUNG LESEN
+transl_eng	I recommend you to read the newspaper, if you are bored.
+transl_deu	Gegen deine Langeweile empfehle ich dir, die Zeitung zu lesen.

@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU you-FOR-i PLATE SPOON PEPPER he-FETCH-i
+annot_deu	BITTE DU du-FÜR-ich TELLER LÖFFEL PFEFFER er-HOLEN-ich
+transl_eng	Please get me a plate, a spoon, and the pepper!
+transl_deu	Bitte hole mir einen Teller, einen Löffel und Pfeffer!

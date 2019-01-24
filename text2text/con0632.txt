@@ -1,0 +1,4 @@
+annot_eng	MY APPLICATION+DOCUMENTS YOUR BOSS i-GIVE-you CAN WHEN?
+annot_deu	MEIN BEWERBUNG+UNTERLAGEN DEIN CHEF ich-GEBEN-du KÖNNEN WANN?
+transl_eng	When can I hand my application documents to your boss?
+transl_deu	Wann kann ich deinem Chef meine Bewerbungsunterlagen geben?

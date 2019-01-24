@@ -1,0 +1,4 @@
+annot_eng	THIS-time FRIDAY CITY+CENTRE X-middle CHRISTMAS+MARKET THERE-you
+annot_deu	DIESEN-zeit FREITAG STADT+ZENTRUM X-mitte WEIHNACHTEN+MARKT DA-du
+transl_eng	On Friday there will be a Christmas market in the city centre.
+transl_deu	Am Freitag ist im Stadtzentrum Weihnachtsmarkt.

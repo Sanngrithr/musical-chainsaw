@@ -1,0 +1,4 @@
+annot_eng	PLATE X-right WITH-what VEGETABLES+SOUP HOT STAY-right
+annot_deu	TELLER X-rechts MIT-was GEMÜSE+SUPPE HEISS BLEIBEN-rechts
+transl_eng	The plate with hot vegetable soup is staying there.
+transl_deu	Der Teller mit heisser Gemüsesuppe bleibt da.

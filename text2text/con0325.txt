@@ -1,0 +1,4 @@
+annot_eng	PLEASE APPLES+JUICE X-right he-GIVE-i
+annot_deu	BITTE ÄPFEL+SAFT X-rechts er-GEBEN-ich
+transl_eng	Please pass me the apple juice!
+transl_deu	Bitte gib mir den Apfelsaft!

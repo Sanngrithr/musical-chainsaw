@@ -1,0 +1,4 @@
+annot_eng	THIS-time FRIDAY INSTITUTE X-middle STUDENT HEARING X-right he-COME-middle
+annot_deu	DIESEN-zeit FREITAG INSTITUT X-mitte STUDENT HÖREND X-rechts er-KOMMEN-mitte
+transl_eng	The hearing student will come to the institute on Friday.
+transl_deu	Der hörende Student kommt am Freitag ins Institut.

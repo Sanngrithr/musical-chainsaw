@@ -1,0 +1,4 @@
+annot_eng	WOMAN+TILL+INDIVIDUAL X-right WAIT UNTIL SAUSAGE COME-here
+annot_deu	FRAU+KASSE+PERSON X-rechts WARTEN BIS WURST KOMMEN-hier
+transl_eng	The till girl is waiting for the sausages to arrive.
+transl_deu	Die Kassiererin wartet, bis die Wurst kommt.

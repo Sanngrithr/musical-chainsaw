@@ -1,0 +1,4 @@
+annot_eng	RESTAURANT X-right MY BROTHER COME-there
+annot_deu	RESTAURANT X-rechts MEIN BRUDER KOMMEN-dahin
+transl_eng	My brother is coming to the restaurant.
+transl_deu	Mein Bruder kommt ins Restaurant.

@@ -1,0 +1,2 @@
+annot_eng	PLEASE|NICE
+annot_deu	BITTE|NETT

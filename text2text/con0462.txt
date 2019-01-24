@@ -1,0 +1,4 @@
+annot_eng	SUMMER HOT I FEEL-LIKE GARDEN COME-there SLEEP
+annot_deu	SOMMER HEISS ICH LUST GARTEN KOMMEN-dahin SCHLAFEN
+transl_eng	When it is hot in summer I feel like sleeping outside in the garden.
+transl_deu	Im heissen Sommer habe ich Lust, draussen im Garten zu schlafen.

@@ -1,0 +1,4 @@
+annot_eng	MY HAIRDRESSER+INDIVIDUAL X-right he-TELL-i AT-i X-right LITTLE SALARY GET-sth
+annot_deu	MEIN FRISEUR+PERSON X-rechts er-ERZÄHLEN-ich AUF-ich X-rechts WENIG LOHN BEKOMMEN-was
+transl_eng	My hairdresser is telling me that his salary is very low.
+transl_deu	Mein Friseur erzählt mir, dass er wenig Lohn bekommt.

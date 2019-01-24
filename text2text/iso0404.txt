@@ -1,0 +1,2 @@
+annot_eng	PLAN|POLITICS
+annot_deu	PLANEN|POLITIK

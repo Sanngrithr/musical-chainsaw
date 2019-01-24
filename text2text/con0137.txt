@@ -1,0 +1,4 @@
+annot_eng	BUS COME-here HOW-MUCH CLOCK?
+annot_deu	BUS KOMMEN-hier WIEVIEL UHR?
+transl_eng	What time does the bus arrive?
+transl_deu	Um wieviel Uhr kommt der Bus?

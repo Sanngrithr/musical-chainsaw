@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY FLIGHT+HARBOUR-place X-right I JUDGE+INDIVIDUAL MEET HAVE-BEEN
+annot_deu	GESTERN FLUG+HAFEN-platz X-rechts ICH RICHTER+PERSON KENNENLERNEN GEWESEN
+transl_eng	I went to the airport yesterday and met the new judge.
+transl_deu	Gestern bin ich im Flughafen gewesen und habe den Richter kennengelernt.

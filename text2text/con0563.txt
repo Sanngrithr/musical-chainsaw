@@ -1,0 +1,4 @@
+annot_eng	I GLADLY WITH-what HAIRDRESSER+INDIVIDUAL DISCUSS ABOUT-what POLITICS
+annot_deu	ICH GERNE MIT-was FRISEUR+PERSON DISKUTIEREN ÜBER-was POLITIK
+transl_eng	I like to discuss politics with my hairdresser.
+transl_deu	Mit meinem Friseur diskutiere ich gerne über Politik.

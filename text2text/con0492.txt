@@ -1,0 +1,4 @@
+annot_eng	NOW I MYSELF-i HAMBURG X-right FLAT BUY
+annot_deu	JETZT ICH SELBST-ich HAMBURG X-rechts WOHNUNG KAUFEN
+transl_eng	I will buy a flat in Hamburg myself now.
+transl_deu	Ich kaufe jetzt selbst eine Wohnung in Hamburg.

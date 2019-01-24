@@ -1,0 +1,4 @@
+annot_eng	WE-all BEER LIKE
+annot_deu	WIR-alle BIER MÖGEN
+transl_eng	We like beer.
+transl_deu	Wir mögen Bier.

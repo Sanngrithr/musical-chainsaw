@@ -1,0 +1,2 @@
+annot_eng	FEEL-LIKE
+annot_deu	LUST

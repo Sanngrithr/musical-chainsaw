@@ -1,0 +1,2 @@
+annot_eng	DAY-AFTER-TOMORROW
+annot_deu	ÜBERMORGEN

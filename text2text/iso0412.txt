@@ -1,0 +1,2 @@
+annot_eng	RIDE|HORSE
+annot_deu	REITEN|PFERD

@@ -1,0 +1,4 @@
+annot_eng	TODAY I FLOWERS BUY
+annot_deu	HEUTE ICH BLUMEN KAUFEN
+transl_eng	I will buy flowers today.
+transl_deu	Heute kaufe ich Blumen.

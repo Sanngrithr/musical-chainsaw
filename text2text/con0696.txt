@@ -1,0 +1,4 @@
+annot_eng	YOU TWO HORSE BIG-high THERE-you HOW-LONG ALREADY?
+annot_deu	DU ZWEI PFERD GROSS-hoch DA-du WIE-LANG SCHON?
+transl_eng	How long have you had the two big horses now?
+transl_deu	Wie lange hast du schon die zwei grossen Pferde?

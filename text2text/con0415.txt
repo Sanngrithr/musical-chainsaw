@@ -1,0 +1,4 @@
+annot_eng	MY GARDEN X-right BIRD+HOUSE NO
+annot_deu	MEIN GARTEN X-rechts VOGEL+HAUS KEIN
+transl_eng	There is no bird house in my garden.
+transl_deu	In meinem Garten steht kein Vogelhaus.

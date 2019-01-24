@@ -1,0 +1,4 @@
+annot_eng	SHOES FIND WHO?
+annot_deu	SCHUHE FINDEN WER?
+transl_eng	Who found the shoes?
+transl_deu	Wer hat die Schuhe gefunden?

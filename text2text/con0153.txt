@@ -1,0 +1,4 @@
+annot_eng	WOMAN X-right READ
+annot_deu	FRAU X-rechts LESEN
+transl_eng	The woman is reading.
+transl_deu	Die Frau liest.

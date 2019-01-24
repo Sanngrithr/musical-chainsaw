@@ -1,0 +1,4 @@
+annot_eng	MY LAPTOP BROKEN YOU X-middle FIX CAN UNTIL+WHEN?
+annot_deu	MEIN LAPTOP KAPUTT DU X-mitte REPARIEREN KÖNNEN BIS+WANN?
+transl_eng	How long  will it take you to fix my broken laptop? 
+transl_deu	Bis wann kannst du meinen kaputten Laptop reparieren?

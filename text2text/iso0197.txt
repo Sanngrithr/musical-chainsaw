@@ -1,0 +1,2 @@
+annot_eng	WINDOW|FORM|PICTURE-big|MAP-big
+annot_deu	FENSTER|FORMULAR|BILD-gross|KARTE-gross

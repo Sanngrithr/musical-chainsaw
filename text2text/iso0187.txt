@@ -1,0 +1,2 @@
+annot_eng	he-EXPLAIN-i
+annot_deu	er-ERKLÄREN-ich

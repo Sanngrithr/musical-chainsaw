@@ -1,0 +1,2 @@
+annot_eng	OFFICE|CIVIL-SERVANT
+annot_deu	AMT|BEAMTER

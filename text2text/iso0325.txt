@@ -1,0 +1,2 @@
+annot_eng	VIDEOPHONE
+annot_deu	BILDTELEFON

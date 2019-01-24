@@ -1,0 +1,4 @@
+annot_eng	YOU GLASSES-drink FIND YOU?
+annot_deu	DU GLÄSER FINDEN DU?
+transl_eng	Did you find the glasses?
+transl_deu	Hast du die Gläser gefunden?

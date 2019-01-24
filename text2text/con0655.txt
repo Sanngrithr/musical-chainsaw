@@ -1,0 +1,4 @@
+annot_eng	TODAY FOOTBALL+TRAINING I A-LOT-OF RUN
+annot_deu	HEUTE FUSSBALL+TRAINING ICH VIEL LAUFEN
+transl_eng	Today I ran a lot during football training.
+transl_deu	Heute bin ich im Fussballtraining viel gelaufen.

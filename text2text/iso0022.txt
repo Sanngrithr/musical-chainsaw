@@ -1,0 +1,2 @@
+annot_eng	YOUR
+annot_deu	DEIN

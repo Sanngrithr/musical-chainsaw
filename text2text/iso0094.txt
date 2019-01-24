@@ -1,0 +1,2 @@
+annot_eng	MUST|HAVE-TO|ANYWAY
+annot_deu	MÜSSEN|SOLLEN|TROTZDEM

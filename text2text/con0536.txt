@@ -1,0 +1,4 @@
+annot_eng	MY UNDER+RENT X-right SOON MONTHLY PENSION GET-sth
+annot_deu	MEIN UNTER+MIETE X-rechts BALD MONATLICH RENTE BEKOMMEN-was
+transl_eng	My subtenant will get a monthly pension soon.
+transl_deu	Mein Untermieter bekommt bald monatlich eine Rente.

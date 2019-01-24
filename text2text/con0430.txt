@@ -1,0 +1,4 @@
+annot_eng	THIS-time AUTUMN I JACKET SEW LEARN
+annot_deu	DIESEN-zeit HERBST ICH JACKE NÄHEN LERNEN
+transl_eng	I will learn how to sew jackets this autumn.
+transl_deu	Diesen Herbst werde ich Jacken nähen lernen.

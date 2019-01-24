@@ -1,0 +1,2 @@
+annot_eng	NEWSPAPER
+annot_deu	ZEITUNG

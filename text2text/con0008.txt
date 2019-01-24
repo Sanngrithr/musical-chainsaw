@@ -1,0 +1,4 @@
+annot_eng	CHRISTMAS INSTITUTE X-middle WE-all neg-WORK
+annot_deu	WEIHNACHTEN INSTITUT X-mitte WIR-alle neg-ARBEITEN
+transl_eng	Over Christmas we do not work in the institute.
+transl_deu	An Weihnachten arbeiten wir nicht im Institut.

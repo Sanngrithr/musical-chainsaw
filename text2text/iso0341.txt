@@ -1,0 +1,2 @@
+annot_eng	DECIDE
+annot_deu	ENTSCHEIDEN

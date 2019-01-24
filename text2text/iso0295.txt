@@ -1,0 +1,2 @@
+annot_eng	LIVE|FLAT
+annot_deu	WOHNEN|WOHNUNG

@@ -1,0 +1,4 @@
+annot_eng	THIS-time MONDAY  CHRISTMAS+MARKET X-right POLICE+INDIVIDUAL X-middle GO-to
+annot_deu	DIESEN-zeit MONTAG  WEIHNACHTEN+MARKT X-rechts POLIZEI+PERSON X-mitte GEHEN-nach
+transl_eng	The policeman will go to the Christmas market on Monday.
+transl_deu	Am Montag geht der Polizist auf den Weihnachtsmarkt.

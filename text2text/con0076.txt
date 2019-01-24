@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY MY FRIEND X-right BICYCLE+DRIVE
+annot_deu	GESTERN MEIN FREUND X-rechts FAHRRAD+FAHREN
+transl_eng	Yesterday my friend rode his bicycle.
+transl_deu	Gestern fuhr mein Freund Fahrrad.

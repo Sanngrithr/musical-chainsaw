@@ -1,0 +1,2 @@
+annot_eng	OFTEN-frequently|STILL
+annot_deu	OFT-hÄufig|NOCH

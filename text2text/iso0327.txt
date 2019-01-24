@@ -1,0 +1,2 @@
+annot_eng	BOOK|RESERVE
+annot_deu	BUCHEN|RESERVIEREN

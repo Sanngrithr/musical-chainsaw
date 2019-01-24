@@ -1,0 +1,4 @@
+annot_eng	MAN DEAF X-right CAR+DRIVE
+annot_deu	MANN GEHÖRLOS X-rechts AUTO+FAHREN
+transl_eng	The deaf man is driving the car.
+transl_deu	Der gehörlose Mann fährt Auto.

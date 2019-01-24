@@ -1,0 +1,2 @@
+annot_eng	SWIM
+annot_deu	SCHWIMMEN

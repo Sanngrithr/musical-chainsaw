@@ -1,0 +1,4 @@
+annot_eng	MY SON CAT SMALL-object X-middle TAKE-A-PICTURE WANT
+annot_deu	MEIN SOHN KATZE KLEIN-gegenstand X-mitte FOTOGRAFIEREN WOLLEN
+transl_eng	My son would like to take a picture of the little kitten.
+transl_deu	Mein Sohn will die kleine Katze fotografieren.

@@ -1,0 +1,2 @@
+annot_eng	i-FOR-he
+annot_deu	ich-FÜR-er

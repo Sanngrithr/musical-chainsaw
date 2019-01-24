@@ -1,0 +1,2 @@
+annot_eng	RED
+annot_deu	ROT

@@ -1,0 +1,4 @@
+annot_eng	OFTEN-every AUTUMN FOG STRONG-much THERE-you
+annot_deu	OFT-jeden HERBST NEBEL STARK-viel DA-du
+transl_eng	Every autumn there is thick fog. 
+transl_deu	Jeden Herbst gibt es starken Nebel.

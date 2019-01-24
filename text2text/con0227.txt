@@ -1,0 +1,4 @@
+annot_eng	WE-all LIKE WHAT WINE DRINK AND BISCUITS EAT
+annot_deu	WIR-alle MÖGEN WAS WEIN TRINKEN UND KEKSE ESSEN
+transl_eng	We like to drink wine and to eat biscuits. 
+transl_deu	Wir trinken gerne Wein und essen gerne Kekse.

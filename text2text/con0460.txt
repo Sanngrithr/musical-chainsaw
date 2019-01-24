@@ -1,0 +1,4 @@
+annot_eng	SLEEP+PROBLEM-i THERE-i
+annot_deu	SCHLAFEN+PROBLEM-ich DA-ich
+transl_eng	I have got sleeping problems.
+transl_deu	Ich habe Schlafprobleme.

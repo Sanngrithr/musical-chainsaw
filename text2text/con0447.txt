@@ -1,0 +1,4 @@
+annot_eng	I BANK-money COME-there MUST BECAUSE MONEY NOT-HAVE
+annot_deu	ICH BANK-geld KOMMEN-dahin MÜSSEN GRUND GELD NICHT-HABEN
+transl_eng	I need to go to the bank because I have no more money.
+transl_deu	Ich muss zur Bank gehen, weil ich kein Geld mehr habe.

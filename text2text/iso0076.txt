@@ -1,0 +1,2 @@
+annot_eng	CAN
+annot_deu	KÖNNEN

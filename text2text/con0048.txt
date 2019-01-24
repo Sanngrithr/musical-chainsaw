@@ -1,0 +1,4 @@
+annot_eng	POLICE+INDIVIDUAL X-right he-ASK-i MY MOTHER WHERE
+annot_deu	POLIZEI+PERSON X-rechts er-FRAGEN-ich MEIN MUTTER WO
+transl_eng	The policeman is asking me where my mother is. 
+transl_deu	Der Polizist fragt mich, wo meine Mutter ist.

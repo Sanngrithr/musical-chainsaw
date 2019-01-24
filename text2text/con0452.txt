@@ -1,0 +1,4 @@
+annot_eng	WE-both EGGS WITHOUT-sth PEPPER NOT-WANT
+annot_deu	WIR-beide EIER OHNE-was PFEFFER NICHT-WOLLEN
+transl_eng	We do not want any eggs without pepper.
+transl_deu	Wir wollen keine Eier ohne Pfeffer.

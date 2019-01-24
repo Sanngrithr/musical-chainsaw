@@ -1,0 +1,4 @@
+annot_eng	TODAY EVENING I BUS X-middle I COLD-cool
+annot_deu	HEUTE ABEND ICH BUS X-mitte ICH KALT
+transl_eng	Tonight I am cold in the bus.
+transl_deu	Heute Abend ist mir im Bus kalt.

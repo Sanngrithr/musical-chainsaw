@@ -1,0 +1,2 @@
+annot_eng	OLD
+annot_deu	ALT

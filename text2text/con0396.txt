@@ -1,0 +1,4 @@
+annot_eng	I NINE GLASSES-drink WITH-what JUICE i-TAKE-he
+annot_deu	ICH NEUN GLÄSER MIT-was SAFT ich-BRINGEN-er
+transl_eng	I will bring him nine glasses of juice.
+transl_deu	Ich bringe ihm neun Gläser mit Saft.

@@ -1,0 +1,4 @@
+annot_eng	CHILD X-right PLAY+TOY-space NEW ORDER WOULD-LIKE
+annot_deu	KIND X-rechts SPIELEN+ZEUG-raum NEU BESTELLEN MÖCHTEN
+transl_eng	The child would like to order new toys.
+transl_deu	Das Kind möchte neues Spielzeug bestellen.

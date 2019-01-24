@@ -1,0 +1,4 @@
+annot_eng	TOMORROW LUNCHTIME I ALREADY 2-CLOCK AFTER-WORK
+annot_deu	MORGEN-nTag MITTAG ICH SCHON 2-UHR FEIERABEND
+transl_eng	I will finish work tomorrow at 2pm already.
+transl_deu	Morgen Mittag habe ich schon um 14:00 Uhr Feierabend.

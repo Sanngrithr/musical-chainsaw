@@ -1,0 +1,4 @@
+annot_eng	YOU COLD-nose PILLS X-right I RECOMMEND AT-you
+annot_deu	DU SCHNUPFEN TABLETTEN X-rechts ICH EMPFEHLEN AUF-du
+transl_eng	I recommend you these pills for your cold.
+transl_deu	Gegen deinen Schnupfen empfehle ich dir diese Tabletten.

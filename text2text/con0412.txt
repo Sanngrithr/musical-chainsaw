@@ -1,0 +1,4 @@
+annot_eng	THE-DAY-BEFORE-YESTERDAY MY CAR X-right i-LEND-you NOW YOU CAR X-right DIRTY WHY?
+annot_deu	VORGESTERN MEIN AUTO X-rechts ich-LEIHEN-du JETZT DU AUTO X-rechts SCHMUTZIG WARUM?
+transl_eng	I lent you my car the day before yesterday. Why is it dirty now?
+transl_deu	Vorgestern habe ich dir mein Auto geliehen. Warum ist es jetzt schmutzig?

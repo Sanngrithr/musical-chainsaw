@@ -1,0 +1,4 @@
+annot_eng	LAST-time WEEK+END I ONCE-AGAIN HIKE HAVE-BEEN
+annot_deu	LETZTEN-zeit WOCHE+ENDE ICH NOCH-EINMAL WANDERN GEWESEN
+transl_eng	I went hiking again last weekend.
+transl_deu	Letztes Wochenende bin ich noch einmal wandern gewesen.

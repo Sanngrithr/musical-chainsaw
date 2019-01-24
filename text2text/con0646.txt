@@ -1,0 +1,4 @@
+annot_eng	MUSEUM X-right I MY FRIEND MEET
+annot_deu	MUSEUM X-rechts ICH MEIN FREUND KENNENLERNEN
+transl_eng	I met my boyfriend in a museum.
+transl_deu	Ich habe meinen Freund im Museum kennengelernt.

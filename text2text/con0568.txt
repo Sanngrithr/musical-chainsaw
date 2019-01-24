@@ -1,0 +1,4 @@
+annot_eng	CONFERENCE X-middle I FOUR INTERPRETER i-FOR-you ALREADY ORDER
+annot_deu	KONFERENZ X-mitte ICH VIER DOLMETSCHER ich-FÜR-du SCHON BESTELLEN
+transl_eng	I have already ordered four interpreters for the conference.
+transl_deu	Für die Konferenz habe ich schon vier Dolmetscher bestellt.

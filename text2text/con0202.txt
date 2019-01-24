@@ -1,0 +1,4 @@
+annot_eng	YOU COFFEE OR TEA LOOK FOR
+annot_deu	DU KAFFEE ODER TEE SUCHEN
+transl_eng	You are looking for coffee or tea.
+transl_deu	Du suchst Kaffee oder Tee.

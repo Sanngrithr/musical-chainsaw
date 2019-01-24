@@ -1,0 +1,4 @@
+annot_eng	TODAY EARLY I BALCONY SPIDER X-middle TAKE-A-PICTURE
+annot_deu	HEUTE FRÜH ICH BALKON SPINNE X-mitte FOTOGRAFIEREN
+transl_eng	This morning I took a picture of a spider on the balcony.
+transl_deu	Heute früh habe ich eine Spinne auf dem Balkon fotografiert.

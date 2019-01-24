@@ -1,0 +1,2 @@
+annot_eng	NOT-MUST|NOT-HAVE-TO
+annot_deu	NICHT-MÜSSEN|NICHT-SOLLEN

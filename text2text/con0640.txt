@@ -1,0 +1,4 @@
+annot_eng	I LETTER i-SEND-you WANT BUT I YOUR ADDRESSES UNFORTUNATELY FORGET
+annot_deu	ICH BRIEF ich-SCHICKEN-du WOLLEN ABER ICH DEIN ADRESSEN LEIDER VERGESSEN
+transl_eng	I wanted to send you a letter but unfortunately I forgot your address.
+transl_deu	Ich wollte dir einen Brief schicken, aber ich habe leider deine Adresse vergessen.

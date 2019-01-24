@@ -1,0 +1,2 @@
+annot_eng	TYPICAL
+annot_deu	TYPISCH

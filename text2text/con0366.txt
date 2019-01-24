@@ -1,0 +1,4 @@
+annot_eng	THE-DAY-BEFORE-YESTERDAY I AACHEN HAVE-BEEN CLOUDS TAKE-A-PICTURE
+annot_deu	VORGESTERN ICH AACHEN GEWESEN WOLKEN FOTOGRAFIEREN
+transl_eng	The day before yesterday I went to Aachen to take some pictures of the clouds.
+transl_deu	Vorgestern bin ich in Aachen gewesen, um Wolken zu fotografieren.

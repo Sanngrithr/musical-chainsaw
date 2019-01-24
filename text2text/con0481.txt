@@ -1,0 +1,4 @@
+annot_eng	MY SON X-right TYPICAL GLASSES-eyes LOSE-things
+annot_deu	MEIN SOHN X-rechts TYPISCH BRILLE VERLIEREN-sachen
+transl_eng	It is typical of my son to lose his glasses.
+transl_deu	Es ist typisch für meinen Sohn, dass er seine Brille verliert.

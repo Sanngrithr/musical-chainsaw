@@ -1,0 +1,4 @@
+annot_eng	TOMORROW I WOMAN MEET
+annot_deu	MORGEN-nTag ICH FRAU TREFFEN
+transl_eng	Tomorrow I will meet the woman.
+transl_deu	Morgen treffe ich die Frau.

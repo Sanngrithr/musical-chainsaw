@@ -1,0 +1,4 @@
+annot_eng	EXCUSE-ME YOU SEE MY IDENTITY-CARD STEAL WHO?
+annot_deu	ENTSCHULDIGUNG DU SEHEN MEIN AUSWEIS STEHLEN WER?
+transl_eng	Excuse me, did you see the person who has stolen my identity card?
+transl_deu	Entschuldigung, hast du gesehen, wer meinen Ausweis gestohlen hat?

@@ -1,0 +1,4 @@
+annot_eng	THIS-time TUESDAY CITY X-right WE-all PRESENT BUY
+annot_deu	DIESEN-zeit DIENSTAG STADT X-rechts WIR-alle GESCHENK KAUFEN
+transl_eng	We will buy a present in town on Tuesday.
+transl_deu	Am Dienstag kaufen wir in der Stadt ein Geschenk.

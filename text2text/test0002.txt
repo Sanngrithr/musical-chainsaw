@@ -1,0 +1,4 @@
+﻿annot_eng	CINEMA START WHEN?
+annot_deu	KINO ANFANGEN WANN?
+transl_eng	I like the soup.
+transl_deu	Ich mag die Suppe.

@@ -1,0 +1,4 @@
+annot_eng	THIS-time EASTER MY CHILDREN X-right WISH WHAT CAT SMALL-object
+annot_deu	DIESEN-zeit OSTERN MEIN KINDER X-rechts WÜNSCHEN WAS KATZE KLEIN-gegenstand
+transl_eng	This year my children would like a little kitten for Easter.
+transl_deu	Dieses Jahr zu Ostern wünschen sich meine Kinder eine kleine Katze.

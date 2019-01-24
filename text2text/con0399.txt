@@ -1,0 +1,4 @@
+annot_eng	FATHER X-right COLD-nose I TEA WITH-what HONEY i-TAKE-he
+annot_deu	VATER X-rechts SCHNUPFEN ICH TEE MIT-was HONIG ich-BRINGEN-er
+transl_eng	My father has got a cold, I will bring him some tea with honey.
+transl_deu	Mein Vater hat Schnupfen, ich bringe ihm Tee mit Honig.

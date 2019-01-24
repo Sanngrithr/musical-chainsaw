@@ -1,0 +1,4 @@
+annot_eng	TOMORROW YOU FEEL-LIKE WHAT HIKE OR TENNIS YOU?
+annot_deu	MORGEN-nTag DU LUST WAS WANDERN ODER TENNIS DU?
+transl_eng	Would you like to go hiking or play tennis tomorrow?
+transl_deu	Hast du Lust, morgen zu wandern oder Tennis zu spielen?

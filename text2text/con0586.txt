@@ -1,0 +1,4 @@
+annot_eng	MY NEPHEW SOON DECIDE MUST TRAINING OR STUDY
+annot_deu	MEIN NEFFE BALD ENTSCHEIDEN MÜSSEN AUSBILDUNG ODER STUDIUM
+transl_eng	My nephew has to decide soon whether he would like to take vocational training or to attend university.
+transl_deu	Mein Neffe muss sich bald entscheiden, ob er eine Ausbildung macht oder ein Studium.

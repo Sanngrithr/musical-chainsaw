@@ -1,0 +1,4 @@
+annot_eng	YOUR SISTER IN BATH-body+ROOM X-right HOW-LONG ALREADY?
+annot_deu	DEIN SCHWESTER IM BADEN-körper+ZIMMER X-rechts WIE-LANG SCHON?
+transl_eng	How long has your sister been staying in the bathroom now?
+transl_deu	Wie lange ist deine Schwester schon im Badezimmer?

@@ -1,0 +1,2 @@
+annot_eng	CELEBRATE|PARTY
+annot_deu	FEIERN|FEIER

@@ -1,0 +1,4 @@
+annot_eng	YOU-all LIKE WHAT CHOCOLATE OR BISCUITS
+annot_deu	IHR-alle MÖGEN WAS SCHOKOLADE ODER KEKSE
+transl_eng	You like either chocolate or biscuits.
+transl_deu	Ihr mögt Schokolade oder Kekse.

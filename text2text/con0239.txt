@@ -1,0 +1,4 @@
+annot_eng	I WAIT UNTIL MILK FRESH COME-here
+annot_deu	ICH WARTEN BIS MILCH FRISCH KOMMEN-hier
+transl_eng	I am waiting for the milk to arrive.
+transl_deu	Ich warte, bis frische Milch kommt.

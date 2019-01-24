@@ -1,0 +1,4 @@
+annot_eng	BANK-money+DIRECTOR+INDIVIDUAL X-right I TWO LETTER i-FOR-he TYPE-write MUST
+annot_deu	BANK-geld+DIREKTOR+PERSON X-rechts ICH ZWEI BRIEF ich-FÜR-er TIPPEN-schreiben MÜSSEN
+transl_eng	I have to type two letters for the bank manager.
+transl_deu	Ich muss zwei Briefe für den Bankdirektor tippen.

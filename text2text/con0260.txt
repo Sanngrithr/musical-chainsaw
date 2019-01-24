@@ -1,0 +1,4 @@
+annot_eng	THIS-time MONDAY SNOW A-LOT-OF RAIN
+annot_deu	DIESEN-zeit MONTAG SCHNEE VIEL REGEN
+transl_eng	It will be snowing a lot on Monday.
+transl_deu	Am Montag schneit es viel.

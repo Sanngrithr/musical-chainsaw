@@ -1,0 +1,2 @@
+annot_eng	he-FETCH-i|PICK-UP-sth
+annot_deu	er-HOLEN-ich|ABHOLEN-was

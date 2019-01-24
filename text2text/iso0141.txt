@@ -1,0 +1,2 @@
+annot_eng	CHRISTMAS
+annot_deu	WEIHNACHTEN

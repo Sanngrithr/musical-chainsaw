@@ -1,0 +1,4 @@
+annot_eng	I NEWSPAPER READ YOUR FRIEND X-right MOTORCYCLE+ACCIDENT DIED
+annot_deu	ICH ZEITUNG LESEN DEIN FREUND X-rechts MOTORRAD+UNFALL GESTORBEN
+transl_eng	I read in the news paper that your friend has died in a motorcycle accident.
+transl_deu	Ich habe in der Zeitung gelesen, dass dein Freund bei einem Motorradunfall gestorben ist.

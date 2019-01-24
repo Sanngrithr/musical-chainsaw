@@ -1,0 +1,4 @@
+annot_eng	YOU you-HELP-i CAN?
+annot_deu	DU du-HELFEN-ich KÖNNEN?
+transl_eng	Could you help me?
+transl_deu	Kannst Du mir helfen?

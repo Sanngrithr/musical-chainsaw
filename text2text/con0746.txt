@@ -1,0 +1,4 @@
+annot_eng	DAY-AFTER-TOMORROW CHURCH+CHOIR X-middle ONCE-AGAIN COMMON HIKE
+annot_deu	ÜBERMORGEN KIRCHE+CHOR X-mitte NOCH-EINMAL GEMEINSAM WANDERN
+transl_eng	The day after tomorrow the church choir is hiking together again.
+transl_deu	Übermorgen wird der Kirchenchor noch einmal gemeinsam wandern gehen.

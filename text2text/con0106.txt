@@ -1,0 +1,4 @@
+annot_eng	BOSS X-middle I i-ANSWER-you MUST
+annot_deu	CHEF X-mitte ICH ich-ANTWORTEN-du MÜSSEN
+transl_eng	I have to answer the boss.
+transl_deu	Ich muss dem Chef antworten.

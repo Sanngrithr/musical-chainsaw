@@ -1,0 +1,4 @@
+annot_eng	YOU NOW CHILDREN+ROOM TIDY-UP HAVE-TO
+annot_deu	DU JETZT KINDER+ZIMMER AUFRÄUMEN SOLLEN
+transl_eng	You have to tidy up the nursery now!
+transl_deu	Du sollst jetzt das Kinderzimmer aufräumen!

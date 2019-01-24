@@ -1,0 +1,2 @@
+annot_eng	DRINK
+annot_deu	TRINKEN

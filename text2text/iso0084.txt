@@ -1,0 +1,2 @@
+annot_eng	MARKET|PLACE|COURT-place|HARBOUR-place
+annot_deu	MARKT|PLATZ|HOF|HAFEN-platz

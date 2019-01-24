@@ -1,0 +1,4 @@
+annot_eng	YOU HAMBURG HAVE-BEEN WEATHER NICE OR CLOUDS A-LOT-OF?
+annot_deu	DU HAMBURG GEWESEN WETTER SCHÖN ODER WOLKEN VIEL?
+transl_eng	Was the weather nice or was it cloudy when you stayed in Hamburg?
+transl_deu	War das Wetter schön oder gab es viele Wolken, als du in Hamburg warst?

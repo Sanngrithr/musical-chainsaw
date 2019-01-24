@@ -1,0 +1,4 @@
+annot_eng	OFTEN-every THURSDAY MY DAUGHTER X-middle BUTCHER'S X-right CLEAN-floor
+annot_deu	OFT-jeden DONNERSTAG MEIN TOCHTER X-mitte METZGEREI X-rechts PUTZEN-boden
+transl_eng	Every Thursday my daughter cleans the butcher's shop.
+transl_deu	Jeden Donnerstag putzt meine Tochter die Metzgerei.

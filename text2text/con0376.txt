@@ -1,0 +1,4 @@
+annot_eng	MY DAUGHTER BABY BIRTH PAIN STRONG-much
+annot_deu	MEIN TOCHTER BABY GEBURT SCHMERZEN STARK-viel
+transl_eng	My daughter was in very bad pain when she gave birth to her baby.
+transl_deu	Meine Tochter hatte starke Schmerzen bei der Geburt ihres Babys.

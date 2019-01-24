@@ -1,0 +1,2 @@
+annot_eng	TODAY|HERE|THIS-time|IN
+annot_deu	HEUTE|HIER|DIESEN-zeit|IM

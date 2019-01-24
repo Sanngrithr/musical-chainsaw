@@ -1,0 +1,4 @@
+annot_eng	SUMMER+HOLIDAY X-middle I REGULARLY SWIM AND JOG
+annot_deu	SOMMER+FERIEN X-mitte ICH REGELMÄSSIG SCHWIMMEN UND JOGGEN
+transl_eng	During the summer holidays I swim and jog regularly.
+transl_deu	In den Sommerferien schwimme und jogge ich regelmässig.

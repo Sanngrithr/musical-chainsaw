@@ -1,0 +1,4 @@
+annot_eng	TODAY i-TELL-you BACK-THEN CAR+ACCIDENT HAVE-BEEN WHEN
+annot_deu	HEUTE ich-ERZÄHLEN-du DAMALS AUTO+UNFALL GEWESEN WANN
+transl_eng	I will tell you today when the car accident happened back then.
+transl_deu	Heute erzähle ich dir, wann damals der Autounfall passiert ist.

@@ -1,0 +1,2 @@
+annot_eng	WISH
+annot_deu	WÜNSCHEN

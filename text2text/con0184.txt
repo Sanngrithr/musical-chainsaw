@@ -1,0 +1,4 @@
+annot_eng	MEAT BAD X-right neg-TASTE
+annot_deu	FLEISCH SCHLECHT X-rechts neg-SCHMECKEN
+transl_eng	Bad meat does not taste nice.
+transl_deu	Schlechtes Fleisch schmeckt nicht.

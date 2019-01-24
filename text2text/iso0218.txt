@@ -1,0 +1,2 @@
+annot_eng	DOG
+annot_deu	HUND

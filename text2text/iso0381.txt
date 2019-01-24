@@ -1,0 +1,2 @@
+annot_eng	APPRENTICE
+annot_deu	LEHRLING

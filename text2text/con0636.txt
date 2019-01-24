@@ -1,0 +1,4 @@
+annot_eng	CHRISTMAS I YOUR GRANDCHILD PARCEL BIG-wide i-SEND-you
+annot_deu	WEIHNACHTEN ICH DEIN ENKEL PAKET GROSS-breit ich-SCHICKEN-du
+transl_eng	I will send your grandchild a big parcel for Christmas.
+transl_deu	Zu Weihnachten schicke ich deinem Enkel ein grosses Paket.

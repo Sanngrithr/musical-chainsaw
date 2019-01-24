@@ -1,0 +1,2 @@
+annot_eng	CHEMIST'S
+annot_deu	APOTHEKE

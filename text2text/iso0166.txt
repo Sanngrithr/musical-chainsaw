@@ -1,0 +1,2 @@
+annot_eng	BABY|DOLL
+annot_deu	BABY|PUPPE

@@ -1,0 +1,4 @@
+annot_eng	CHRISTMAS+MARKET X-right I BOSS MEET
+annot_deu	WEIHNACHTEN+MARKT X-rechts ICH CHEF TREFFEN
+transl_eng	I will be meeting the boss on the Christmas market.
+transl_deu	Auf dem Weihnachtsmarkt treffe ich den Chef.

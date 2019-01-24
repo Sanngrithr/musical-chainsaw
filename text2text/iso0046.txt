@@ -1,0 +1,2 @@
+annot_eng	GO-there|COME-there|THERE-finger|OUTSIDE
+annot_deu	KOMMEN-dahin|DAHIN-finger|DRAUSSEN

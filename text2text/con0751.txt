@@ -1,0 +1,4 @@
+annot_eng	YOUR COLLEAGUES ENGLAND COME-there BACK WHEN?
+annot_deu	DEIN KOLLEGEN ENGLAND KOMMEN-dahin ZURÜCK WANN?
+transl_eng	When do your colleagues return from England?
+transl_deu	Wann kommen deine Kollegen aus England zurück?

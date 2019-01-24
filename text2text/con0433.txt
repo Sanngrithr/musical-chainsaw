@@ -1,0 +1,4 @@
+annot_eng	YOUR WIFE BIRTH+NAME WHAT?
+annot_deu	DEIN EHEFRAU GEBURT+NAME WAS?
+transl_eng	What is your wife's maiden name?
+transl_deu	Wie ist der Geburtsname deiner Ehefrau?

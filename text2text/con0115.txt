@@ -1,0 +1,4 @@
+annot_eng	YOU TEA BUY
+annot_deu	DU TEE KAUFEN
+transl_eng	You are buying tea.
+transl_deu	Du kaufst Tee.

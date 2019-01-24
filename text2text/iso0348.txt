@@ -1,0 +1,2 @@
+annot_eng	AFTER-WORK|FINISH
+annot_deu	FEIERABEND|SCHLUSS

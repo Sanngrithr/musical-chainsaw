@@ -1,0 +1,4 @@
+annot_eng	I FIRST BATH-body COMFORTABLE FINISHED THEN PERFUME USE
+annot_deu	ICH ZUERST BADEN-körper GEMÜTLICH FERTIG DANN PARFÜM BENUTZEN
+transl_eng	First I will take a comfortable bath and afterwards I will use some perfume.
+transl_deu	Zuerst bade ich gemütlich und danach benutze ich Parfüm.

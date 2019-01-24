@@ -1,0 +1,2 @@
+annot_eng	UNTIL|NOT
+annot_deu	BIS|NICHT

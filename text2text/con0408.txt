@@ -1,0 +1,4 @@
+annot_eng	TYPICAL I NEWSPAPER i-LEND-you
+annot_deu	TYPISCH ICH ZEITUNG ich-LEIHEN-du
+transl_eng	It is typical of me to lend you the newspaper.
+transl_deu	Es ist typisch, dass ich dir die Zeitung leihe.

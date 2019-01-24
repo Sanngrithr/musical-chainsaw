@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND BIRD+FOOD NO
+annot_deu	MEIN FREUND VOGEL+FUTTER KEIN
+transl_eng	My friend does not have bird food.
+transl_deu	Mein Freund hat kein Vogelfutter.

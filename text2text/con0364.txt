@@ -1,0 +1,4 @@
+annot_eng	KITCHEN+TABLE X-middle FIVE PLATE AND SPOON MISSING
+annot_deu	KÜCHE+TISCH X-mitte FÜNF TELLER UND LÖFFEL FEHLEN
+transl_eng	There are five plates and spoons missing on the kitchen table.
+transl_deu	Auf dem Küchentisch fehlen fünf Teller und Löffel.

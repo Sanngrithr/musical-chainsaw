@@ -1,0 +1,2 @@
+annot_eng	WORK|DO|WORK
+annot_deu	ARBEITEN|MACHEN|ARBEIT

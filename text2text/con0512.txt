@@ -1,0 +1,4 @@
+annot_eng	FISH I BUY HAVE-TO KILOGRAMME HOW-MUCH?
+annot_deu	FISCH ICH KAUFEN SOLLEN KILO WIEVIEL?
+transl_eng	How many kilogrammes of fish shall I buy?
+transl_deu	Wieviel Kilo Fisch soll ich kaufen?

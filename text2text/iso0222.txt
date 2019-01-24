@@ -1,0 +1,2 @@
+annot_eng	i-LEND-you
+annot_deu	ich-LEIHEN-du

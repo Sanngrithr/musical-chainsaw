@@ -1,0 +1,4 @@
+annot_eng	POLICE+INDIVIDUAL X-right he-HELP-i CAN
+annot_deu	POLIZEI+PERSON X-rechts er-HELFEN-ich KÖNNEN
+transl_eng	The policeman can help me.
+transl_deu	Der Polizist kann mir helfen.

@@ -1,0 +1,2 @@
+annot_eng	STOMACH
+annot_deu	BAUCH

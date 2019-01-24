@@ -1,0 +1,4 @@
+annot_eng	TODAY I MYSELF-i CHILDREN SCHOOL i-TAKE-he
+annot_deu	HEUTE ICH SELBST-ich KINDER SCHULE ich-BRINGEN-er
+transl_eng	Today I will take the children to school myself.
+transl_deu	Ich bringe heute selbst die Kinder zur Schule.

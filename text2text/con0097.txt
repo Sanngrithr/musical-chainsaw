@@ -1,0 +1,4 @@
+annot_eng	CINEMA X-right I WITH-what FLOWERS COME-there
+annot_deu	KINO X-rechts ICH MIT-was BLUMEN KOMMEN-dahin
+transl_eng	I am coming to the cinema with flowers.
+transl_deu	Ich komme mit Blumen ins Kino.

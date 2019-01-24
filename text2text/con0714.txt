@@ -1,0 +1,4 @@
+annot_eng	DAY-AFTER-TOMORROW PARTY+TENT X-right DANCE 10-CLOCK START
+annot_deu	ÜBERMORGEN FEST+ZELT X-rechts TANZEN 10-UHR ANFANGEN
+transl_eng	Dancing starts at 10 o'clock in the pavilion the day after tomorrow.
+transl_deu	Übermorgen fängt das Tanzen im Festzelt um 10:00 Uhr an.

@@ -1,0 +1,4 @@
+annot_eng	EARLIER BANK-money X-right HOUSE HOW-LOOK?
+annot_deu	FRÜHER BANK-geld X-rechts HAUS WIE-AUSSEHEN?
+transl_eng	What did the bank look like back then?
+transl_deu	Wie sah früher die Bank aus?

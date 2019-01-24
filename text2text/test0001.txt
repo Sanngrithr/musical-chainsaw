@@ -1,0 +1,4 @@
+﻿annot_eng	CINEMA START WHEN?
+annot_deu	KINO ANFANGEN WANN?
+transl_eng	I buy a bicycle.
+transl_deu	Ich kaufe ein Fahrrad.

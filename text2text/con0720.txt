@@ -1,0 +1,4 @@
+annot_eng	EUROPE X-right CAR+THEFT PROHIBITED
+annot_deu	EUROPA X-rechts AUTO+DIEBSTAHL VERBOTEN
+transl_eng	In Europe car theft is prohibited!
+transl_deu	In Europa ist der Autodiebstahl verboten!

@@ -1,0 +1,4 @@
+annot_eng	MY GRANDPA SAD BECAUSE BIRD X-middle DIED
+annot_deu	MEIN OPA TRAURIG GRUND VOGEL X-mitte GESTORBEN
+transl_eng	My grandpa is sad because the bird has died.
+transl_deu	Mein Opa ist traurig, weil der Vogel gestorben ist.

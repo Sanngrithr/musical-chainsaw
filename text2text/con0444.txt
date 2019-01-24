@@ -1,0 +1,4 @@
+annot_eng	BUTCHER'S+STAFF X-right DIRTY WORK NOT-ALLOWED
+annot_deu	METZGEREI+PERSONAL X-rechts SCHMUTZIG ARBEITEN NICHT-DÜRFEN
+transl_eng	Butchers are not allowed to work when they are dirty.
+transl_deu	Die Metzger dürfen nicht schmutzig arbeiten.

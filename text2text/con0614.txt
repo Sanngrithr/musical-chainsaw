@@ -1,0 +1,4 @@
+annot_eng	FOOTBALL+CLUB X-middle TOGETHER HOLIDAY ENGLAND FLY-left
+annot_deu	FUSSBALL+VEREIN X-mitte ZUSAMMEN URLAUB ENGLAND FLIEGEN-links
+transl_eng	The football club will fly to England for a common holiday.
+transl_deu	Der Fussballverein fliegt gemeinsam in den Urlaub nach England.

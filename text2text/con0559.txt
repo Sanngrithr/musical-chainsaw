@@ -1,0 +1,4 @@
+annot_eng	EXCUSE-ME YOU KNOW MY LAPTOP STEAL WHO?
+annot_deu	ENTSCHULDIGUNG DU WISSEN MEIN LAPTOP STEHLEN WER?
+transl_eng	Excuse me, do you know the person who has stolen my laptop?
+transl_deu	Entschuldigung, weisst du, wer mein Laptop gestohlen hat?

@@ -1,0 +1,4 @@
+annot_eng	I WISH WHAT TELEVISION X-right ALL NEWS AND FILM WITH-what SUBTITLE
+annot_deu	ICH WÜNSCHEN WAS FERNSEHER X-rechts ALLE NACHRICHTEN UND FILM MIT-was UNTERTITEL
+transl_eng	I wish all films and news could be broadcasted with subtitles.
+transl_deu	Ich wünsche mir, dass im Fernsehen alle Nachrichten und Filme mit Untertiteln ausgestrahlt werden.

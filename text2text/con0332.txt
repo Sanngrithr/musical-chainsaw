@@ -1,0 +1,4 @@
+annot_eng	MY PARENTS SCHOOL X-right CHILDREN PICK-UP-sth
+annot_deu	MEIN ELTERN SCHULE X-rechts KINDER ABHOLEN-was
+transl_eng	My parents are picking up the children from school.
+transl_deu	Meine Eltern holen die Kinder von der Schule ab.

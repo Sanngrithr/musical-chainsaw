@@ -1,0 +1,4 @@
+annot_eng	BOSS X-right PHONE
+annot_deu	CHEF X-rechts TELEFONIEREN
+transl_eng	The boss is on the telephone.
+transl_deu	Der Chef telefoniert.

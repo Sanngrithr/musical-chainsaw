@@ -1,0 +1,4 @@
+annot_eng	MY SON X-right PROPOSE ONCE-AGAIN CAMPING HOLLAND COME-to
+annot_deu	MEIN SOHN X-rechts VORSCHLAGEN NOCH-EINMAL CAMPING HOLLAND KOMMEN-nach
+transl_eng	My son suggests to go camping in Holland again.
+transl_deu	Mein Sohn schlägt vor, noch einmal zum Camping nach Holland zu fahren.

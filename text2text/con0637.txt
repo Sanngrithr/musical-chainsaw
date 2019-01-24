@@ -1,0 +1,4 @@
+annot_eng	I SMS i-SEND-you AT-you APPOINTMENT WITH-what INTERPRETER WHEN
+annot_deu	ICH SMS ich-SCHICKEN-du AUF-du TERMIN MIT-was DOLMETSCHER WANN
+transl_eng	I will send you an SMS to let you know when the appointment with the interpreter will take place.
+transl_deu	Ich schicke dir eine SMS darüber, wann der Termin mit dem Dolmetscher ist.

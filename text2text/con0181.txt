@@ -1,0 +1,4 @@
+annot_eng	A-LOT-OF COFFEE neg-HEALTHY X-middle BAD
+annot_deu	VIEL KAFFEE neg-GESUND X-mitte SCHLECHT
+transl_eng	Too much coffee is not healthy but bad.
+transl_deu	Viel Kaffee ist nicht gesund, sondern schlecht.

@@ -1,0 +1,4 @@
+annot_eng	A-LOT-OF BICYCLE+DRIVE HEALTHY
+annot_deu	VIEL FAHRRAD+FAHREN GESUND
+transl_eng	Cycling a lot is healthy.
+transl_deu	Viel Fahrradfahren ist gesund.

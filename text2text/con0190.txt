@@ -1,0 +1,4 @@
+annot_eng	WOMAN X-right WRITE CAN
+annot_deu	FRAU X-rechts SCHREIBEN KÖNNEN
+transl_eng	The woman can write.
+transl_deu	Die Frau kann schreiben.

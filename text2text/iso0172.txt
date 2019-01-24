@@ -1,0 +1,2 @@
+annot_eng	PAY
+annot_deu	BEZAHLEN

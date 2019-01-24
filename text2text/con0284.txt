@@ -1,0 +1,4 @@
+annot_eng	I BREAD-ROLLS BAKE NOW WITH-what JAM DELICIOUS EAT
+annot_deu	ICH BRÖTCHEN BACKEN JETZT MIT-was MARMELADE LECKER ESSEN
+transl_eng	I have baked bread rolls, now I am eating them with delicious jam.
+transl_deu	Ich habe Brötchen gebacken und esse sie jetzt mit leckerer Marmelade.

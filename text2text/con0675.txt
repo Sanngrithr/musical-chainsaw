@@ -1,0 +1,4 @@
+annot_eng	WHEN YOU WORK YOU SMOKE NOT-HAVE-TO
+annot_deu	WENN DU ARBEITEN DU RAUCHEN NICHT-SOLLEN
+transl_eng	You should not smoke while you are working.
+transl_deu	Während der Arbeit sollst du nicht rauchen

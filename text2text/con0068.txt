@@ -1,0 +1,4 @@
+annot_eng	YOU BISCUITS AND CHOCOLATE EAT LIKE
+annot_deu	DU KEKSE UND SCHOKOLADE ESSEN MÖGEN
+transl_eng	You like to eat biscuits and chocolate.
+transl_deu	Du isst gerne Kekse und Schokolade.

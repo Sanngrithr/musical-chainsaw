@@ -1,0 +1,4 @@
+annot_eng	MY SON SAD BECAUSE DOG X-middle DIED
+annot_deu	MEIN SOHN TRAURIG GRUND HUND X-mitte GESTORBEN
+transl_eng	My son is sad because the dog has died.
+transl_deu	Mein Sohn ist traurig, weil der Hund gestorben ist.

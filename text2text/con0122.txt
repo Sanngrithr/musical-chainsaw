@@ -1,0 +1,4 @@
+annot_eng	BOY X-right WATER BUY
+annot_deu	JUNGE X-rechts WASSER KAUFEN
+transl_eng	The boy is buying some water.
+transl_deu	Der Junge kauft Wasser.

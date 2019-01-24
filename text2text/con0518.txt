@@ -1,0 +1,4 @@
+annot_eng	THE-DAY-BEFORE-YESTERDAY MY HUSBAND X-right NINE KILOGRAMME VEGETABLES BUY
+annot_deu	VORGESTERN MEIN EHEMANN X-rechts NEUN KILO GEMÜSE KAUFEN
+transl_eng	The day before yesterday my husband bought nine kilogrammes of vegetables.
+transl_deu	Vorgestern hat mein Ehemann neun Kilo Gemüse gekauft.

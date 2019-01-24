@@ -1,0 +1,4 @@
+annot_eng	RESTAURANT X-right I PIZZA EAT
+annot_deu	RESTAURANT X-rechts ICH PIZZA ESSEN
+transl_eng	I am eating pizza in the restaurant.
+transl_deu	Im Restaurant esse ich Pizza.

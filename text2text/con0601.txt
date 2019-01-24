@@ -1,0 +1,4 @@
+annot_eng	INTERPRETER X-right CONTRACT he-SEND-i WHEN?
+annot_deu	DOLMETSCHER X-rechts VERTRAG er-SCHICKEN-ich WANN?
+transl_eng	When does the interpreter send me the contract?
+transl_deu	Wann schickt mir der Dolmetscher den Vertrag?

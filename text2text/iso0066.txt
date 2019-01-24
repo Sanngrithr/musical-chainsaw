@@ -1,0 +1,2 @@
+annot_eng	CHEESE
+annot_deu	KÄSE

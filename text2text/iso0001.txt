@@ -1,0 +1,2 @@
+annot_eng	EVENING|NIGHT|DARK
+annot_deu	ABEND|NACHT|DUNKEL

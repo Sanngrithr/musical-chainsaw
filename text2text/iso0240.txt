@@ -1,0 +1,2 @@
+annot_eng	AIR|CURE|RELAX
+annot_deu	LUFT|KUR|ERHOLEN

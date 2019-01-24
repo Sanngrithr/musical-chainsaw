@@ -1,0 +1,4 @@
+annot_eng	YOU CAKE WITH-what CREAM LIKE YOU?
+annot_deu	DU KUCHEN MIT-was SAHNE MÖGEN DU?
+transl_eng	Would you like some cake with cream?
+transl_deu	Magst du Kuchen mit Sahne?

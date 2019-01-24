@@ -1,0 +1,4 @@
+annot_eng	MY DAUGHTER X-right TYPICAL JACKET LOSE-things
+annot_deu	MEIN TOCHTER X-rechts TYPISCH JACKE VERLIEREN-sachen
+transl_eng	It is typical of my daughter to lose her jacket.
+transl_deu	Es ist typisch für meine Tochter, dass sie ihre Jacke verliert.

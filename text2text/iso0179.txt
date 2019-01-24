@@ -1,0 +1,2 @@
+annot_eng	BACK-THEN|EARLIER
+annot_deu	DAMALS|FRÜHER

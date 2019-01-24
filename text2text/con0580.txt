@@ -1,0 +1,4 @@
+annot_eng	MY DAUGHTER X-right RARELY SHOWER PREFERRED BATH-body COMFORTABLE
+annot_deu	MEIN TOCHTER X-rechts SELTEN DUSCHEN LIEBER BADEN-körper GEMÜTLICH
+transl_eng	My daughter rarely takes a shower, she prefers having a comfortable bath.
+transl_deu	Meine Tochter duscht selten, sie badet lieber gemütlich.

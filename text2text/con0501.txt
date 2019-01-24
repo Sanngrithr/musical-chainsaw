@@ -1,0 +1,4 @@
+annot_eng	THIS-time AUTUMN MY FAMILY X-right CURE DO WANT
+annot_deu	DIESEN-zeit HERBST MEIN FAMILIE X-rechts KUR MACHEN WOLLEN
+transl_eng	In autumn my family wants to take a cure.
+transl_deu	Im Herbst will meine Familie eine Kur machen.

@@ -1,0 +1,4 @@
+annot_eng	DIRECTOR+INDIVIDUAL X-right SOON GO-ON-A-JOURNEY I MUST i-FOR-he HOTEL BOOK
+annot_deu	DIREKTOR+PERSON X-rechts BALD VERREISEN ICH MÜSSEN ich-FÜR-er HOTEL BUCHEN
+transl_eng	The manager will be going on a journey soon, I have to book a hotel for him.
+transl_deu	Der Direktor wird bald verreisen, ich muss für ihn ein Hotel buchen.

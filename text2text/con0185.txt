@@ -1,0 +1,4 @@
+annot_eng	WINE RED X-right TASTE GOOD
+annot_deu	WEIN ROT X-rechts SCHMECKEN GUT
+transl_eng	The red wine is tasty.
+transl_deu	Der Rotwein schmeckt gut.

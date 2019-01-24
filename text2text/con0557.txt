@@ -1,0 +1,4 @@
+annot_eng	KNOW YOU CHOIR FAMOUS X-middle NAME WHAT?
+annot_deu	WISSEN DU CHOR BEKANNT X-mitte NAME WAS?
+transl_eng	Do you know the name of the famous choir?
+transl_deu	Weisst du, wie der bekannte Chor heisst?

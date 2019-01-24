@@ -1,0 +1,4 @@
+annot_eng	DAY-AFTER-TOMORROW I 8-CLOCK ON-TIME COURT-justice COME-there MUST
+annot_deu	ÜBERMORGEN ICH 8-UHR PÜNKTLICH GERICHT-justiz KOMMEN-dahin MÜSSEN
+transl_eng	The day after tomorrow I will have to go to court punctually at 8am.
+transl_deu	Übermorgen muss ich pünktlich um 8:00 Uhr zum Gericht gehen.

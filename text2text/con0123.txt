@@ -1,0 +1,4 @@
+annot_eng	TOMORROW I COMPUTER BUY
+annot_deu	MORGEN-nTag ICH COMPUTER KAUFEN
+transl_eng	I will buy a computer tomorrow.
+transl_deu	Ich werde morgen einen Computer kaufen.

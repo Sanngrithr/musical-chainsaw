@@ -1,0 +1,4 @@
+annot_eng	WE-both NOW HAMBURG LIVE UNTIL SUMMER
+annot_deu	WIR-beide JETZT HAMBURG WOHNEN BIS SOMMER
+transl_eng	We will be living in Hamburg until summer.
+transl_deu	Bis zum Sommer wohnen wir jetzt in Hamburg.

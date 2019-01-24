@@ -1,0 +1,4 @@
+annot_eng	IN HOSPITAL-in DOCTOR X-right AT-i he-EXPLAIN-i WHY I SICK
+annot_deu	IM KRANKENHAUS-im ARZT X-rechts AUF-ich er-ERKLÄREN-ich WARUM ICH KRANK
+transl_eng	In hospital the doctor is explaining to me why I am sick.
+transl_deu	Im Krankenhaus erklärt mir der Arzt, warum ich krank bin.

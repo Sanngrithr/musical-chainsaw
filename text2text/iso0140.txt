@@ -1,0 +1,2 @@
+annot_eng	WAY
+annot_deu	WEG

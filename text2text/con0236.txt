@@ -1,0 +1,4 @@
+annot_eng	MOTHER X-right MILK WARM SELL
+annot_deu	MUTTER X-rechts MILCH WARM VERKAUFEN
+transl_eng	The mother is selling warm milk.
+transl_deu	Die Mutter verkauft warme Milch.

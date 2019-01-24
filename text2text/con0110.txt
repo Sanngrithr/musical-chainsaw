@@ -1,0 +1,4 @@
+annot_eng	STUDENT X-middle I i-ASK-you CITY+CENTRE WHERE
+annot_deu	STUDENT X-mitte ICH ich-FRAGEN-du STADT+ZENTRUM WO
+transl_eng	I am asking the student for the way to the city centre.
+transl_deu	Ich frage den Studenten, wo das Stadtzentrum ist.

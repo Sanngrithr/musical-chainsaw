@@ -1,0 +1,4 @@
+annot_eng	SELL+INDIVIDUAL X-right WRITE
+annot_deu	VERKAUFEN+PERSON X-rechts SCHREIBEN
+transl_eng	The salesman is writing.
+transl_deu	Der Verkäufer schreibt.

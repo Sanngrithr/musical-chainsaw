@@ -1,0 +1,4 @@
+annot_eng	SHOES I FIND WHERE?
+annot_deu	SCHUHE ICH FINDEN WO?
+transl_eng	Where do I find the shoes?
+transl_deu	Wo finde ich die Schuhe?

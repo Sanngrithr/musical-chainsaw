@@ -1,0 +1,4 @@
+annot_eng	GARDEN MANY ANIMALS SMALL-object THERE-IS
+annot_deu	GARTEN VIELE TIERE KLEIN-gegenstand ES-GIBT
+transl_eng	There are many small animals in the garden.
+transl_deu	Im Garten gibt es viele kleine Tiere.

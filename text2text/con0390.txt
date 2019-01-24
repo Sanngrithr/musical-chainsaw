@@ -1,0 +1,4 @@
+annot_eng	TODAY CHILDREN YOUNG LITTLE HOUSE+HOMEWORK
+annot_deu	HEUTE KINDER JUNG WENIG HAUS+AUFGABEN-schule
+transl_eng	The young children only have little homework today.
+transl_deu	Die jungen Kinder haben heute wenig Hausaufgaben.

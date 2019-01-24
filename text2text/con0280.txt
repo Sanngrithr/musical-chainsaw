@@ -1,0 +1,4 @@
+annot_eng	MY MOTHER CAKE DELICIOUS BAKE
+annot_deu	MEIN MUTTER KUCHEN LECKER BACKEN
+transl_eng	My mother is baking a delicious cake.
+transl_deu	Meine Mutter bäckt leckeren Kuchen.

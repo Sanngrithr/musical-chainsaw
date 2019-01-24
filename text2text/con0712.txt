@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY I FURIOUS BECAUSE CAPITAL+STATION X-right MY LAPTOP STEAL
+annot_deu	GESTERN ICH WÜTEND GRUND HAUPT+BAHNHOF X-rechts MEIN LAPTOP STEHLEN
+transl_eng	I was furious yesterday because somebody stole my laptop in the main station.
+transl_deu	Gestern war ich wütend, weil man mir im Hauptbahnhof meinen Laptop gestohlen hat.

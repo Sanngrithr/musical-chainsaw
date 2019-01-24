@@ -1,0 +1,2 @@
+annot_eng	PENSION
+annot_deu	RENTE

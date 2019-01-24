@@ -1,0 +1,4 @@
+annot_eng	YOUR BROTHER X-right BOOK NEW READ LIKE
+annot_deu	DEIN BRUDER X-rechts BUCH NEU LESEN MÖGEN
+transl_eng	Your brother likes reading a new book.
+transl_deu	Dein Bruder liest gerne ein neues Buch.

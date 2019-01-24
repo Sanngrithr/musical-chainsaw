@@ -1,0 +1,4 @@
+annot_eng	MY NIECE RARELY MUSEUM i-VISIT-you
+annot_deu	MEIN NICHTE SELTEN MUSEUM ich-BESUCHEN-du
+transl_eng	My niece rarely goes to a museum.
+transl_deu	Meine Nichte besucht selten ein Museum.

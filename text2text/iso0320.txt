@@ -1,0 +1,2 @@
+annot_eng	GET-sth
+annot_deu	BEKOMMEN-was

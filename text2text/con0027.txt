@@ -1,0 +1,4 @@
+annot_eng	YOU GLASSES-drink MANY THERE-you?
+annot_deu	DU GLÄSER VIELE DA-du?
+transl_eng	Do you have many glasses?
+transl_deu	Hast du viele Gläser?

@@ -1,0 +1,4 @@
+annot_eng	YOUR HUSBAND X-right CINEMA X-middle he-COME-middle WHEN?
+annot_deu	DEIN EHEMANN X-rechts KINO X-mitte er-KOMMEN-mitte WANN?
+transl_eng	When will your husband come to the cinema?
+transl_deu	Wann kommt dein Ehemann ins Kino?

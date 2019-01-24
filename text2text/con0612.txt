@@ -1,0 +1,4 @@
+annot_eng	TODAY EVENING YOUR BIRTHDAY+PARTY 6-CLOCK START?
+annot_deu	HEUTE ABEND DEIN GEBURTSTAG+FEIER 6-UHR ANFANGEN?
+transl_eng	Does your birthday party start at 6pm tonight?
+transl_deu	Fängt heute Abend deine Geburtstagsfeier um 18:00 Uhr an?

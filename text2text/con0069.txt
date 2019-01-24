@@ -1,0 +1,4 @@
+annot_eng	MY CHILD CITY X-right PIZZA EAT
+annot_deu	MEIN KIND STADT X-rechts PIZZA ESSEN
+transl_eng	My child is eating a pizza in town.
+transl_deu	Mein Kind isst in der Stadt eine Pizza.

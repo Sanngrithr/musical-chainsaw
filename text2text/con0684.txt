@@ -1,0 +1,4 @@
+annot_eng	APPRENTICE X-middle DAILY WITH-what UNDERGROUND FACTORY X-right COMMUTE
+annot_deu	LEHRLING X-mitte TÄGLICH MIT-was U-BAHN FABRIK X-rechts PENDELN
+transl_eng	The apprentice commutes to the factory by underground daily.
+transl_deu	Der Lehrling pendelt täglich mit der U-Bahn zur Fabrik.

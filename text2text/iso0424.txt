@@ -1,0 +1,2 @@
+annot_eng	UNDERGROUND
+annot_deu	U-BAHN

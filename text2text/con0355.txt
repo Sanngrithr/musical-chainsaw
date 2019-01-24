@@ -1,0 +1,4 @@
+annot_eng	SHOP X-right BIRD+FOOD THERE-IS
+annot_deu	GESCHÄFT X-rechts VOGEL+FUTTER ES-GIBT
+transl_eng	They sell bird food in this shop.
+transl_deu	In diesem Geschäft gibt es Vogelfutter.

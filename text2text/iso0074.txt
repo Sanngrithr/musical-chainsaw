@@ -1,0 +1,2 @@
+annot_eng	COOK|KITCHEN
+annot_deu	KOCHEN|KÜCHE

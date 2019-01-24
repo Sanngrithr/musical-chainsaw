@@ -1,0 +1,4 @@
+annot_eng	WOMAN+TILL+INDIVIDUAL X-right BISCUITS AND CHOCOLATE LIKE
+annot_deu	FRAU+KASSE+PERSON X-rechts KEKSE UND SCHOKOLADE MÖGEN
+transl_eng	The till girl like biscuits and chocolate.
+transl_deu	Die Kassiererin mag Kekse und Schokolade.

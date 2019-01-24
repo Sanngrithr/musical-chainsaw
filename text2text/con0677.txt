@@ -1,0 +1,4 @@
+annot_eng	IDENTITY-CARD X-middle IMPORTANT YOU LOSE-things NOT-HAVE-TO
+annot_deu	AUSWEIS X-mitte WICHTIG DU VERLIEREN-sachen NICHT-SOLLEN
+transl_eng	The identity card is important, you should not lose it!
+transl_deu	Der Ausweis ist wichtig, du sollst ihn nicht verlieren!

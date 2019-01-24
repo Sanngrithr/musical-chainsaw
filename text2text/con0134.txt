@@ -1,0 +1,4 @@
+annot_eng	MEAT FRESH YOU COOK
+annot_deu	FLEISCH FRISCH DU KOCHEN
+transl_eng	You are cooking fresh meat.
+transl_deu	Du kochst frisches Fleisch.

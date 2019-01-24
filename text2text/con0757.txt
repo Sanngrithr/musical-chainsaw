@@ -1,0 +1,4 @@
+annot_eng	IN COLOGNE THERE-IS CHURCH+CHOIR FAMOUS
+annot_deu	IM KÖLN ES-GIBT KIRCHE+CHOR BEKANNT
+transl_eng	There is a famous church choir in Cologne.
+transl_deu	In Köln gibt es einen bekannten Kirchenchor.

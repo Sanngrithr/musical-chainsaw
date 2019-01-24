@@ -1,0 +1,4 @@
+annot_eng	MY GRANDCHILD X-middle REGULARLY TENNIS TRAIN BECAUSE i-FOR-he TENNIS+TOURNAMENT
+annot_deu	MEIN ENKEL X-mitte REGELMÄSSIG TENNIS TRAINIEREN GRUND ich-FÜR-er TENNIS+TURNIER
+transl_eng	My grandchild is training regularly for the tennis tournament.
+transl_deu	Mein Enkel trainiert regelmässig für das Tennisturnier.

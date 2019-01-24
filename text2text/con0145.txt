@@ -1,0 +1,4 @@
+annot_eng	BUTTER OLD X-right COST HOW-MUCH?
+annot_deu	BUTTER ALT X-rechts KOSTEN WIEVIEL?
+transl_eng	How much is the old butter?
+transl_deu	Wieviel kostet die alte Butter?

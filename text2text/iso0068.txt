@@ -1,0 +1,2 @@
+annot_eng	BUY
+annot_deu	KAUFEN

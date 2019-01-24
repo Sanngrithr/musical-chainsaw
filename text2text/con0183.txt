@@ -1,0 +1,4 @@
+annot_eng	CAKE X-middle OLD neg-TASTE
+annot_deu	KUCHEN X-mitte ALT neg-SCHMECKEN
+transl_eng	The old cake does not taste nice.
+transl_deu	Der alte Kuchen schmeckt nicht.

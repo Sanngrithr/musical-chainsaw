@@ -1,0 +1,4 @@
+annot_eng	YOUR HUSBAND SIGN+LANGUAGE LEARN
+annot_deu	DEIN EHEMANN GEBÄRDEN+SPRACHE LERNEN
+transl_eng	Your husband is learning sign language.
+transl_deu	Dein Ehemann lernt die Gebärdensprache.

@@ -1,0 +1,4 @@
+annot_eng	SHOES X-middle GOOD
+annot_deu	SCHUHE X-mitte GUT
+transl_eng	The shoes are good.
+transl_deu	Die Schuhe sind gut.

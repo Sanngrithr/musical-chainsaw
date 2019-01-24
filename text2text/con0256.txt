@@ -1,0 +1,4 @@
+annot_eng	CHOCOLATE X-left HEALTHY
+annot_deu	SCHOKOLADE X-links GESUND
+transl_eng	Chocolate is healthy.
+transl_deu	Die Schokolade ist gesund.

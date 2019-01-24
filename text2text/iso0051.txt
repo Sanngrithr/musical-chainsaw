@@ -1,0 +1,2 @@
+annot_eng	HEALTHY
+annot_deu	GESUND

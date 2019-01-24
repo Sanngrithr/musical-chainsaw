@@ -1,0 +1,4 @@
+annot_eng	I DO-NOT-FEEL-LIKE DAILY WITH-what BICYCLE WORK X-right COMMUTE
+annot_deu	ICH KEINE-LUST TÄGLICH MIT-was FAHRRAD ARBEIT X-rechts PENDELN
+transl_eng	I do not feel like commuting to work by bicycle daily.
+transl_deu	Ich habe keine Lust, täglich mit dem Fahrrad zur Arbeit zu pendeln.

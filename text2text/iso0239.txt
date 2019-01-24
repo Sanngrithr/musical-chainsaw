@@ -1,0 +1,2 @@
+annot_eng	SPOON|SOUP
+annot_deu	LÖFFEL|SUPPE

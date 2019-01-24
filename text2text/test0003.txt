@@ -1,0 +1,4 @@
+﻿annot_eng	CINEMA START WHEN?
+annot_deu	KINO ANFANGEN WANN?
+transl_eng	I cook a soup.
+transl_deu	Ich koche eine Suppe.

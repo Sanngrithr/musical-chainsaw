@@ -1,0 +1,4 @@
+annot_eng	CHOIR FAMOUS X-right I TWO ENTRANCE+CARD-post BOOK WANT
+annot_deu	CHOR BEKANNT X-rechts ICH ZWEI EINTRITT+KARTE-post BUCHEN WOLLEN
+transl_eng	I would like to book two tickets for the famous choir. 
+transl_deu	Ich will zwei Eintrittskarten für den bekannten Chor buchen.

@@ -1,0 +1,4 @@
+annot_eng	YOUR BIG-high+MOTHER BIRTHDAY CELEBRATE WHEN?
+annot_deu	DEIN GROSS-hoch+MUTTER GEBURTSTAG FEIERN WANN?
+transl_eng	When does your grandmother celebrate her birthday?
+transl_deu	Wann feiert deine Grossmutter ihren Geburtstag?

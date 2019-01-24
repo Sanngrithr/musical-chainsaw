@@ -1,0 +1,4 @@
+annot_eng	YOU ANIMALS+DOCTOR NAME X-right YOU TYPICAL FORGET
+annot_deu	DU TIERE+ARZT NAME X-rechts DU TYPISCH VERGESSEN
+transl_eng	It is typical of you to forget the name of the vet.
+transl_deu	Es ist typisch, dass du den Namen des Tierarztes vergessen hast.

@@ -1,0 +1,4 @@
+annot_eng	TOMORROW SUN OR FOG?
+annot_deu	MORGEN-nTag SONNE ODER NEBEL?
+transl_eng	Will it be sunny or foggy tomorrow?
+transl_deu	Gibt es morgen Sonne oder Nebel?

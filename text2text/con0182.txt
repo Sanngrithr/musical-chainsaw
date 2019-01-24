@@ -1,0 +1,4 @@
+annot_eng	WOMAN X-left SIGN GOOD OR BAD HOW?
+annot_deu	FRAU X-links GEBÄRDEN GUT ODER SCHLECHT WIE?
+transl_eng	Does the woman sign well or badly?
+transl_deu	Gebärdet die Frau gut oder schlecht?

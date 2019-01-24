@@ -1,0 +1,4 @@
+annot_eng	SHOP X-left ICE-CREAM WITH-what HONEY+TASTE NOT-HAVE
+annot_deu	GESCHÄFT X-links EIS MIT-was HONIG+GESCHMACK NICHT-HABEN
+transl_eng	They do not sell honey-flavoured ice cream in the shop.
+transl_deu	Das Geschäft hat kein Eis mit Honiggeschmack.

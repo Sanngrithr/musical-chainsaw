@@ -1,0 +1,4 @@
+annot_eng	YOUR FATHER BUTCHER'S+HOUSE X-right BUY OR RENT WANT?
+annot_deu	DEIN VATER METZGEREI+HAUS X-rechts KAUFEN ODER MIETEN WOLLEN?
+transl_eng	Does your father want to buy or to rent the butcher's shop?
+transl_deu	Will dein Vater die Metzgerei kaufen oder mieten?

@@ -1,0 +1,4 @@
+annot_eng	YOUR FLAT DIRTY YOU CLEAN-floor MUST
+annot_deu	DEIN WOHNUNG SCHMUTZIG DU PUTZEN-boden MÜSSEN
+transl_eng	You have to clean your dirty flat.
+transl_deu	Du musst deine schmutzige Wohnung putzen.

@@ -1,0 +1,2 @@
+annot_eng	STATION|TRAIN
+annot_deu	BAHNHOF|ZUG

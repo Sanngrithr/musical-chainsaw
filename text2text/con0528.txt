@@ -1,0 +1,4 @@
+annot_eng	BAKE+INDIVIDUAL X-right EVERY-DAY 4-CLOCK GET-UP MUST
+annot_deu	BACKEN+PERSON X-rechts JEDEN-TAG 4-UHR AUFSTEHEN MÜSSEN
+transl_eng	The baker has to get up at 4am every day.
+transl_deu	Der Bäcker muss jeden Tag um 4:00 Uhr aufstehen.

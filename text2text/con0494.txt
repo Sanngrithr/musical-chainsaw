@@ -1,0 +1,4 @@
+annot_eng	YOUR GRANDPA CITY+CENTRE X-middle PLACE LIVE WHERE?
+annot_deu	DEIN OPA STADT+ZENTRUM X-mitte PLATZ WOHNEN WO?
+transl_eng	Where does your grandpa live in the city centre?
+transl_deu	Wo wohnt dein Opa im Stadtzentrum?

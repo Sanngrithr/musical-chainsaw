@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY I WORK A-LOT-OF TODAY I RELAX
+annot_deu	GESTERN ICH ARBEITEN VIEL HEUTE ICH ERHOLEN
+transl_eng	I worked a lot yesterday, today I am relaxing.
+transl_deu	Gestern habe ich viel gearbeitet, heute erhole ich mich.

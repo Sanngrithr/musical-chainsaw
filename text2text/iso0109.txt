@@ -1,0 +1,2 @@
+annot_eng	TASTE|TASTE
+annot_deu	SCHMECKEN|GESCHMACK

@@ -1,0 +1,4 @@
+annot_eng	CITIZENS+MASTER X-right RARELY SWIM BECAUSE LEISURE-TIME LITTLE THERE-he
+annot_deu	BÜRGER+MEISTER X-rechts SELTEN SCHWIMMEN GRUND FREIZEIT WENIG DA-er
+transl_eng	The mayor rarely goes swimming because he has very little leisure time.
+transl_deu	Der Bürgermeister schwimmt selten, weil er wenig Freizeit hat.

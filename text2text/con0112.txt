@@ -1,0 +1,4 @@
+annot_eng	TODAY I CHURCH X-middle I COLD-cool
+annot_deu	HEUTE ICH KIRCHE X-mitte ICH KALT
+transl_eng	Today I am cold in the church.
+transl_deu	Heute ist mir in der Kirche kalt.

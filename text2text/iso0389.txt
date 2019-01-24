@@ -1,0 +1,2 @@
+annot_eng	MONTHLY
+annot_deu	MONATLICH

@@ -1,0 +1,4 @@
+annot_eng	WE-all MEAT+SALAD EAT LIKE
+annot_deu	WIR-alle FLEISCH+SALAT ESSEN MÖGEN
+transl_eng	We like to eat meat salad.
+transl_deu	Wir essen gerne Fleischsalat.

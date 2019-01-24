@@ -1,0 +1,2 @@
+annot_eng	he-LEND-i
+annot_deu	er-LEIHEN-ich

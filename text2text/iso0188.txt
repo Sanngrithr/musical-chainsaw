@@ -1,0 +1,2 @@
+annot_eng	he-GIVE-i|he-GET-i
+annot_deu	er-GEBEN-ich|er-BEKOMMEN-ich

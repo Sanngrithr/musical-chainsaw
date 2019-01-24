@@ -1,0 +1,4 @@
+annot_eng	THIS-time THURSDAY I WARDROBE he-GET-i
+annot_deu	DIESEN-zeit DONNERSTAG ICH SCHRANK er-BEKOMMEN-ich
+transl_eng	This Thursday I will get a wardrobe.
+transl_deu	Diesen Donnerstag bekomme ich einen Schrank.

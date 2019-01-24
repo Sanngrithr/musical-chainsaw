@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY MY SISTER WRITE
+annot_deu	GESTERN MEIN SCHWESTER SCHREIBEN
+transl_eng	My sister wrote yesterday.
+transl_deu	Meine Schwester schrieb gestern.

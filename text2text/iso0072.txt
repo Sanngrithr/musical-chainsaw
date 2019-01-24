@@ -1,0 +1,2 @@
+annot_eng	CINEMA|FILM
+annot_deu	KINO|FILM

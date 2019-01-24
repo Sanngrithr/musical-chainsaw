@@ -1,0 +1,2 @@
+annot_eng	CITY
+annot_deu	STADT

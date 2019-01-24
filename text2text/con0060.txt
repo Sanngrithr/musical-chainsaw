@@ -1,0 +1,4 @@
+annot_eng	THIS-time WEDNESDAY DEAF+CENTRE X-middle TEACHER X-right he-COME-middle
+annot_deu	DIESEN-zeit MITTWOCH GEHÖRLOS+ZENTRUM X-mitte LEHRER X-rechts er-KOMMEN-mitte
+transl_eng	The teacher will come to the Centre for the Deaf on Wednesday.
+transl_deu	Der Lehrer kommt am Mittwoch ins Gehörlosenzentrum.

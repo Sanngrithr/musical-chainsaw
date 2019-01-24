@@ -1,0 +1,2 @@
+annot_eng	A-LOT-OF|MANY
+annot_deu	VIEL|VIELE

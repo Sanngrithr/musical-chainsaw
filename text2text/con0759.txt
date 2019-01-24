@@ -1,0 +1,4 @@
+annot_eng	TELEVISION X-right I RARELY NEWS LOOK
+annot_deu	FERNSEHER X-rechts ICH SELTEN NACHRICHTEN SCHAUEN
+transl_eng	I rarely watch the news on television.
+transl_deu	Ich schaue selten die Fernsehnachrichten.

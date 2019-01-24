@@ -1,0 +1,4 @@
+annot_eng	I SAD BECAUSE MY UMBRELLA LOSE-things
+annot_deu	ICH TRAURIG GRUND MEIN SCHIRM VERLIEREN-sachen
+transl_eng	I am sad because I lost my umbrella.
+transl_deu	Ich bin traurig, weil ich meinen Schirm verloren habe.

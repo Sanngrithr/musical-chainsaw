@@ -1,0 +1,4 @@
+annot_eng	WE-both CHEMIST'S COME-there BECAUSE SUN+CREAM BUY
+annot_deu	WIR-beide APOTHEKE KOMMEN-dahin GRUND SONNE+SALBE KAUFEN
+transl_eng	We are going to the chemist's to buy some suncream.
+transl_deu	Wir gehen zur Apotheke, um eine Sonnencreme zu kaufen.

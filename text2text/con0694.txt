@@ -1,0 +1,4 @@
+annot_eng	WHEN YOU AMERICA GO-ON-A-JOURNEY WANT YOU IDENTITY-CARD NEW NEED
+annot_deu	WENN DU AMERIKA VERREISEN WOLLEN DU AUSWEIS NEU BRAUCHEN
+transl_eng	If you want to go to America you will need a new identity card.
+transl_deu	Wenn du nach Amerika reisen willst, brauchst du einen neuen Ausweis.

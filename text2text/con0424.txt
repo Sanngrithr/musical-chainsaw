@@ -1,0 +1,4 @@
+annot_eng	YOUR MOTHER RENT PAY HOW-MUCH?
+annot_deu	DEIN MUTTER MIETE BEZAHLEN WIEVIEL?
+transl_eng	How much rent does your mother pay?
+transl_deu	Wieviel Miete bezahlt deine Mutter?

@@ -1,0 +1,4 @@
+annot_eng	YOUR APPRENTICE X-right TRAINING FINISHED FINISH WHEN?
+annot_deu	DEIN LEHRLING X-rechts AUSBILDUNG FERTIG ABSCHLIESSEN WANN?
+transl_eng	When will your apprentice complete his vocational training?
+transl_deu	Wann schliesst dein Lehrling die Ausbildung ab?

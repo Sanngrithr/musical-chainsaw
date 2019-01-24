@@ -1,0 +1,4 @@
+annot_eng	PLAY+TOY-space NEW X-left INTERESTING
+annot_deu	SPIELEN+ZEUG-raum NEU X-links INTERESSANT
+transl_eng	The new toys are interesting.
+transl_deu	Das neue Spielzeug ist interessant.

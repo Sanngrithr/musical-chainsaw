@@ -1,0 +1,4 @@
+annot_eng	I BICYCLE NEW NEED
+annot_deu	ICH FAHRRAD NEU BRAUCHEN
+transl_eng	I need a new bicycle.
+transl_deu	Ich brauche ein neues Fahrrad.

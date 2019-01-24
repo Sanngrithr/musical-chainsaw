@@ -1,0 +1,2 @@
+annot_eng	CLUB
+annot_deu	VEREIN

@@ -1,0 +1,2 @@
+annot_eng	CHURCH
+annot_deu	KIRCHE

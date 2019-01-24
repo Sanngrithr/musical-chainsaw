@@ -1,0 +1,4 @@
+annot_eng	I SAD BECAUSE MY PARENTS CAR+ACCIDENT DIED
+annot_deu	ICH TRAURIG GRUND MEIN ELTERN AUTO+UNFALL GESTORBEN
+transl_eng	I am sad because my parents have died in a car accident.
+transl_deu	Ich bin traurig, weil meine Eltern bei einem Autounfall gestorben sind.

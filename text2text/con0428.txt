@@ -1,0 +1,4 @@
+annot_eng	BACK-THEN I CLOTHING SEW LEARN
+annot_deu	DAMALS ICH KLEIDUNG NÄHEN LERNEN
+transl_eng	I learned how to sew clothing back then.
+transl_deu	Ich habe damals Kleidung nähen gelernt.

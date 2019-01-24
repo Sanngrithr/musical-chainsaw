@@ -1,0 +1,4 @@
+annot_eng	LAST-time MONTH I MY PROFESSION+TRAINING ALREADY FINISH
+annot_deu	LETZTEN-zeit MONAT ICH MEIN BERUF+AUSBILDUNG SCHON ABSCHLIESSEN
+transl_eng	I completed my vocational training already last month.
+transl_deu	Meine Berufsausbildung habe ich schon im letzten Monat abgeschlossen.

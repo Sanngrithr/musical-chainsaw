@@ -1,0 +1,2 @@
+annot_eng	SPORTS|TOURNAMENT
+annot_deu	SPORT|TURNIER

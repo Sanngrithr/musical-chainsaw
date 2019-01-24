@@ -1,0 +1,4 @@
+annot_eng	CHRISTMAS MY PARENTS X-right ALWAYS PARCEL BIG-wide he-SEND-i
+annot_deu	WEIHNACHTEN MEIN ELTERN X-rechts IMMER PAKET GROSS-breit er-SCHICKEN-ich
+transl_eng	My parents always send me a big parcel for Christmas.
+transl_deu	Zu Weihnachten schicken mir meine Eltern immer ein grosses Paket.

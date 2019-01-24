@@ -1,0 +1,2 @@
+annot_eng	BROTHER|SISTER
+annot_deu	BRUDER|SCHWESTER

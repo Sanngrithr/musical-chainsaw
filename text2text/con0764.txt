@@ -1,0 +1,4 @@
+annot_eng	I ON-TIME COME-here WANT BUT UNDERGROUND DELAY
+annot_deu	ICH PÜNKTLICH KOMMEN-hier WOLLEN ABER U-BAHN VERSPÄTUNG
+transl_eng	I intended to come on time but the underground was delayed.
+transl_deu	Ich wollte pünktlich kommen, aber die U-Bahn hatte Verspätung.

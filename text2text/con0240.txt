@@ -1,0 +1,4 @@
+annot_eng	WE-all WAIT UNTIL APPLES FRESH COME-here
+annot_deu	WIR-alle WARTEN BIS ÄPFEL FRISCH KOMMEN-hier
+transl_eng	We are waiting for the fresh apples to arrive.
+transl_deu	Wir warten, bis frische Äpfel kommen.

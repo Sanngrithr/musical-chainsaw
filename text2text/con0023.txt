@@ -1,0 +1,4 @@
+annot_eng	BUTTER THERE-you?
+annot_deu	BUTTER DA-du?
+transl_eng	Do you have butter?
+transl_deu	Hast du Butter?

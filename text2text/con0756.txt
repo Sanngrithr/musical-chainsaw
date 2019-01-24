@@ -1,0 +1,4 @@
+annot_eng	LAST-time MONTH I BIRTHDAY HAVE-BEEN
+annot_deu	LETZTEN-zeit MONAT ICH GEBURTSTAG GEWESEN
+transl_eng	It was my birthday last month.
+transl_deu	Letzten Monat hatte ich Geburtstag.

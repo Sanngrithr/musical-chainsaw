@@ -1,0 +1,4 @@
+annot_eng	PRESENT X-middle NOT neg-CHEAP
+annot_deu	GESCHENK X-mitte NICHT neg-BILLIG
+transl_eng	The present is not cheap.
+transl_deu	Das Geschenk ist nicht billig.

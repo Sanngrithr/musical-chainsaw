@@ -1,0 +1,4 @@
+annot_eng	TODAY I ENGINE FIX CANNOT BECAUSE I LITTLE TIME THERE-you
+annot_deu	HEUTE ICH MOTOR REPARIEREN NICHT-KÖNNEN GRUND ICH WENIG ZEIT DA-du
+transl_eng	I cannot fix the engine today because I only have little time.
+transl_deu	Heute kann ich den Motor nicht reparieren, weil ich wenig Zeit habe. 

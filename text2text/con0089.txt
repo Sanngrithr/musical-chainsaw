@@ -1,0 +1,4 @@
+annot_eng	MOTHER HEARING X-right CITY+GUIDED-TOUR
+annot_deu	MUTTER HÖREND X-rechts STADT+FÜHRUNG
+transl_eng	The hearing mother is guiding a tour.
+transl_deu	Die hörende Mutter macht eine Führung.

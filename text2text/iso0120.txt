@@ -1,0 +1,2 @@
+annot_eng	STUDENT|STUDY
+annot_deu	STUDENT|STUDIUM

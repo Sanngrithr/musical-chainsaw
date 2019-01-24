@@ -1,0 +1,4 @@
+annot_eng	EARLIER BAKERY X-right HOUSE HOW-LOOK?
+annot_deu	FRÜHER BÄCKEREI X-rechts HAUS WIE-AUSSEHEN?
+transl_eng	What did the bakery look like back then?
+transl_deu	Wie sah früher die Bäckerei aus?

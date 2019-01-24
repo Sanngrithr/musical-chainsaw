@@ -1,0 +1,4 @@
+annot_eng	I GLASSES-drink FORGET
+annot_deu	ICH GLÄSER VERGESSEN
+transl_eng	I forgot the glasses.
+transl_deu	Ich habe die Gläser vergessen.

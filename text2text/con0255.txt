@@ -1,0 +1,4 @@
+annot_eng	EXCUSE-ME BUTTER WHERE?
+annot_deu	ENTSCHULDIGUNG BUTTER WO?
+transl_eng	Excuse me, where do I find the butter?
+transl_deu	Entschuldigung, wo ist die Butter?

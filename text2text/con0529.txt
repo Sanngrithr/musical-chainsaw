@@ -1,0 +1,4 @@
+annot_eng	WEEK+END X-right MY GRANDCHILD+CHILDREN 10-CLOCK GET-UP
+annot_deu	WOCHE+ENDE X-rechts MEIN ENKEL+KINDER 10-UHR AUFSTEHEN
+transl_eng	At weekends my grandchildren get up at 10am.
+transl_deu	Am Wochenende stehen meine Enkelkinder um 10:00 Uhr auf.

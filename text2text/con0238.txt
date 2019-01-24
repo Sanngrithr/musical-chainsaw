@@ -1,0 +1,4 @@
+annot_eng	YOU-all WAIT UNTIL BANANAS COME-here
+annot_deu	IHR-alle WARTEN BIS BANANEN KOMMEN-hier
+transl_eng	You are waiting for the bananas to arrive.
+transl_deu	Ihr wartet, bis die Bananen kommen.

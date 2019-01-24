@@ -1,0 +1,4 @@
+annot_eng	YOU MILK FRESH AND CHOCOLATE LIKE YOU
+annot_deu	DU MILCH FRISCH UND SCHOKOLADE MÖGEN DU
+transl_eng	You like fresh milk and chocolate.
+transl_deu	Du magst frische Milch und Schokolade.

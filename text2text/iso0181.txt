@@ -1,0 +1,2 @@
+annot_eng	you-FOR-i
+annot_deu	du-FÜR-ich

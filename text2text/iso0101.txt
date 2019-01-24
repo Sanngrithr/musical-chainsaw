@@ -1,0 +1,2 @@
+annot_eng	POWDER|SALT
+annot_deu	PULVER|SALZ

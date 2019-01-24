@@ -1,0 +1,4 @@
+annot_eng	CAKE X-middle TASTE GOOD YOU X-middle DO HOW?
+annot_deu	KUCHEN X-mitte SCHMECKEN GUT DU X-mitte MACHEN WIE?
+transl_eng	The cake tastes good. How did you make it?
+transl_deu	Der Kuchen schmeckt gut. Wie hast du ihn zubereitet?

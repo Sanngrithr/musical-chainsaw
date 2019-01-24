@@ -1,0 +1,4 @@
+annot_eng	I WITH-what DIRECTOR+INDIVIDUAL DISCUSS ABOUT-what WHAT I SALARY GET-sth HOW-MUCH
+annot_deu	ICH MIT-was DIREKTOR+PERSON DISKUTIEREN ÜBER-was WAS ICH LOHN BEKOMMEN-was WIEVIEL
+transl_eng	I am discussing with the manager about the amount of my salary.
+transl_deu	Ich diskutiere mit dem Direktor darüber, wieviel Lohn ich bekomme.

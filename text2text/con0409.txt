@@ -1,0 +1,4 @@
+annot_eng	THE-DAY-BEFORE-YESTERDAY MY JACKET i-LEND-you
+annot_deu	VORGESTERN MEIN JACKE ich-LEIHEN-du
+transl_eng	The day before yesterday I lent you my jacket.
+transl_deu	Vorgestern habe ich dir meine Jacke geliehen.

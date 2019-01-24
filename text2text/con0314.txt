@@ -1,0 +1,4 @@
+annot_eng	MOTHER he-VISIT-i BECAUSE I COLD-sickness
+annot_deu	MUTTER er-BESUCHEN-ich GRUND ICH ERKÄLTUNG
+transl_eng	My mother is visiting me because I have got a cold.
+transl_deu	Die Mutter besucht mich, weil ich erkältet bin.

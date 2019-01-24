@@ -1,0 +1,2 @@
+annot_eng	BAKE|BAKERY
+annot_deu	BACKEN|BÄCKEREI

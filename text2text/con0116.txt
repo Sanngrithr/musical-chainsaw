@@ -1,0 +1,4 @@
+annot_eng	I CHOCOLATE BUY
+annot_deu	ICH SCHOKOLADE KAUFEN
+transl_eng	I am buying chocolate.
+transl_deu	Ich kaufe Schokolade.

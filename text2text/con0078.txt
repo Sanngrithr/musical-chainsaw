@@ -1,0 +1,4 @@
+annot_eng	STUDENT X-right MOTORCYCLE+DRIVE LEARN
+annot_deu	STUDENT X-rechts MOTORRAD+FAHREN LERNEN
+transl_eng	The student is learning to ride a motorcycle.
+transl_deu	Der Student lernt Motorradfahren.

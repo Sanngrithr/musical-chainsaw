@@ -1,0 +1,4 @@
+annot_eng	I ALL WINDOW CLEAN WANT
+annot_deu	ICH ALLE FENSTER SAUBER WOLLEN
+transl_eng	I want all windows to be clean.
+transl_deu	Ich will alle Fenster sauber haben.

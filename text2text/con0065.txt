@@ -1,0 +1,4 @@
+annot_eng	WAITER X-right PIZZA EAT
+annot_deu	KELLNER X-rechts PIZZA ESSEN
+transl_eng	The waiter is eating pizza.
+transl_deu	Der Kellner isst Pizza.

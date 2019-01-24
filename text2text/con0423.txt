@@ -1,0 +1,4 @@
+annot_eng	MY CAR UNTIL AUTUMN INSURED
+annot_deu	MEIN AUTO BIS HERBST VERSICHERT
+transl_eng	My car will be insured until autumn.
+transl_deu	Mein Auto ist bis zum Herbst versichert.

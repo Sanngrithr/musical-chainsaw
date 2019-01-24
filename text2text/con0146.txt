@@ -1,0 +1,4 @@
+annot_eng	CHOCOLATE APPLES X-middle COST HOW-MUCH?
+annot_deu	SCHOKOLADE ÄPFEL X-mitte KOSTEN WIEVIEL?
+transl_eng	How much are the apples and the chocolate?
+transl_deu	Wieviel kosten die Schokolade und die Äpfel?

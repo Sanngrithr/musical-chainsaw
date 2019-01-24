@@ -1,0 +1,4 @@
+annot_eng	FACTORY X-right EARLY+EAT+BREAK 10-CLOCK START
+annot_deu	FABRIK X-rechts FRÜH+ESSEN+PAUSE 10-UHR ANFANGEN
+transl_eng	Morning break starts at 10am in the factory.
+transl_deu	In der Fabrik fängt die Frühstückspause um 10:00 Uhr an.

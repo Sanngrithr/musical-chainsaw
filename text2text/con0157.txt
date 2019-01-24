@@ -1,0 +1,4 @@
+annot_eng	THIS-time SATURDAY MOTHER X-right BOOK READ
+annot_deu	DIESEN-zeit SAMSTAG MUTTER X-rechts BUCH LESEN
+transl_eng	The mother will read a book on Saturday.
+transl_deu	Die Mutter liest am Samstag ein Buch.

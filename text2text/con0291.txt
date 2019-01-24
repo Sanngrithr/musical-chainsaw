@@ -1,0 +1,4 @@
+annot_eng	CAT X-right COMFORTABLE BASKET STAY-right
+annot_deu	KATZE X-rechts GEMÜTLICH KORB BLEIBEN-rechts
+transl_eng	The cat is comfortably staying in the basket.
+transl_deu	Die Katze bleibt gemütlich im Korb.

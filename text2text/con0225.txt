@@ -1,0 +1,4 @@
+annot_eng	MILK X-right OLD YOU neg-DRINK
+annot_deu	MILCH X-rechts ALT DU neg-TRINKEN
+transl_eng	You are not drinking old milk.
+transl_deu	Du trinkst keine alte Milch.

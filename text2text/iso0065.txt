@@ -1,0 +1,2 @@
+annot_eng	COLD-cool|WINTER
+annot_deu	KALT|WINTER

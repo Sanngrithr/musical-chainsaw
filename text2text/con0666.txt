@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND HEARING X-right SUBTITLE NOT-NEED
+annot_deu	MEIN FREUND HÖREND X-rechts UNTERTITEL NICHT-BRAUCHEN
+transl_eng	My hearing friend does not need any subtitles.
+transl_deu	Mein hörender Freund braucht keine Untertitel.

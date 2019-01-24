@@ -1,0 +1,4 @@
+annot_eng	I MILK FRESH LIKE
+annot_deu	ICH MILCH FRISCH MÖGEN
+transl_eng	I like fresh milk.
+transl_deu	Ich mag frische Milch.

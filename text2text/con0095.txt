@@ -1,0 +1,4 @@
+annot_eng	CHEESE+COUNTER X-right I COME-there
+annot_deu	KÄSE+THEKE X-rechts ICH KOMMEN-dahin
+transl_eng	I am coming to the cheese counter.
+transl_deu	Ich komme zur Käsetheke.

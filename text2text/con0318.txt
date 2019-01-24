@@ -1,0 +1,4 @@
+annot_eng	THE-DAY-BEFORE-YESTERDAY HOUSE+DOCTOR X-right he-VISIT-i BECAUSE PILLS PRESCRIBE
+annot_deu	VORGESTERN HAUS+ARZT X-rechts er-BESUCHEN-ich GRUND TABLETTEN VERSCHREIBEN
+transl_eng	The day before yesterday my family doctor payed me a visit in order to prescribe me some pills.
+transl_deu	Vorgestern besuchte mich mein Hausarzt, um mir Tabletten zu verschreiben.

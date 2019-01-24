@@ -1,0 +1,4 @@
+annot_eng	I i-EXPLAIN-you AT-you COPY+SPACE WHERE?
+annot_deu	ICH ich-ERKLÄREN-du AUF-du KOPIEREN+RAUM WO?
+transl_eng	Do you want me to explain you the way to the photocopy room?
+transl_deu	Soll ich dir erklären, wo der Kopierraum ist?

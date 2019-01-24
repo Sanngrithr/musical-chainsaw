@@ -1,0 +1,4 @@
+annot_eng	POLICE+INDIVIDUAL X-right MOTORCYCLE COME-here
+annot_deu	POLIZEI+PERSON X-rechts MOTORRAD KOMMEN-hier
+transl_eng	The policeman will come here by motorcycle.
+transl_deu	Der Polizist kommt mit dem Motorrad hierher.

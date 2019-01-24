@@ -1,0 +1,4 @@
+annot_eng	WHEN BIRTHDAY+PARTY NICE I OFTEN-frequently LATE HOME
+annot_deu	WENN GEBURTSTAG+FEIER SCHÖN ICH OFT-häufig SPÄT NACH-HAUSE
+transl_eng	When the birthday parties are nice, I often get home late.
+transl_deu	Ich komme oft spät nach Hause, wenn die Geburtstagsfeiern schön sind.

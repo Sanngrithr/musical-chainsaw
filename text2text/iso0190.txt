@@ -1,0 +1,2 @@
+annot_eng	COLD-sickness|COLD-nose
+annot_deu	ERKÄLTUNG|SCHNUPFEN

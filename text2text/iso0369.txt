@@ -1,0 +1,2 @@
+annot_eng	i-SEND-you
+annot_deu	ich-SCHICKEN-du

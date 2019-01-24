@@ -1,0 +1,4 @@
+annot_eng	SALAD FRESH X-right TASTE GOOD
+annot_deu	SALAT FRISCH X-rechts SCHMECKEN GUT
+transl_eng	The fresh salad is tasty.
+transl_deu	Der frische Salat schmeckt gut.

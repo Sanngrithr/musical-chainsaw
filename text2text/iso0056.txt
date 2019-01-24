@@ -1,0 +1,2 @@
+annot_eng	HUNGER
+annot_deu	HUNGER

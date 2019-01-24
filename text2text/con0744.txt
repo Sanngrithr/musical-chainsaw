@@ -1,0 +1,4 @@
+annot_eng	MY NEIGHBOUR PROPOSE WHAT HOLIDAY HOLLAND TO X-right SEA SWIM
+annot_deu	MEIN NACHBAR VORSCHLAGEN WAS FERIEN HOLLAND NACH X-rechts MEER SCHWIMMEN
+transl_eng	My neighbour suggests to go swimming at the seaside in Holland during the next holidays.
+transl_deu	Mein Nachbar schlägt vor, während der Ferien in Holland im Meer zu schwimmen.

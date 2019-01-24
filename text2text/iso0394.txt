@@ -1,0 +1,2 @@
+annot_eng	NEWS
+annot_deu	NACHRICHTEN

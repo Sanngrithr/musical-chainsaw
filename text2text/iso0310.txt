@@ -1,0 +1,2 @@
+annot_eng	AMERICA
+annot_deu	AMERIKA

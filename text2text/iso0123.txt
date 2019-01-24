@@ -1,0 +1,2 @@
+annot_eng	TEA
+annot_deu	TEE

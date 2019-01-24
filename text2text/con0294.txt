@@ -1,0 +1,4 @@
+annot_eng	MY WIFE STAY-right BECAUSE DAUGHTER SMALL-person X-middle AFFRAID
+annot_deu	MEIN EHEFRAU BLEIBEN-rechts GRUND TOCHTER KLEIN-person X-mitte ANGST
+transl_eng	My wife is staying there because the little daughter is afraid.
+transl_deu	Meine Ehefrau bleibt da, weil die kleine Tochter Angst hat.

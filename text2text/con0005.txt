@@ -1,0 +1,4 @@
+annot_eng	TEACHER X-right SIGN+LANGUAGE LEARN START WHEN?
+annot_deu	LEHRER X-rechts GEBÄRDEN+SPRACHE LERNEN ANFANGEN WANN?
+transl_eng	When will the teacher start to learn sign language?
+transl_deu	Wann fängt der Lehrer an, die Gebärdensprache zu lernen?

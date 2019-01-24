@@ -1,0 +1,4 @@
+annot_eng	CHRISTMAS+MARKET X-right I NICE CLOCK SEE
+annot_deu	WEIHNACHTEN+MARKT X-rechts ICH SCHÖN UHR SEHEN
+transl_eng	I am seeing a nice clock on the Christmas market. 
+transl_deu	Auf dem Weihnachtsmarkt sehe ich eine schöne Uhr.

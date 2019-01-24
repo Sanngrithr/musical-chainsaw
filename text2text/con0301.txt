@@ -1,0 +1,4 @@
+annot_eng	OFTEN-every SUNDAY MY GRANDMA X-middle you-FOR-i SHIRT IRON
+annot_deu	OFT-jeden SONNTAG MEIN OMA X-mitte du-FÜR-ich HEMD BÜGELN
+transl_eng	Every Sunday my grandma irons the shirt for me.
+transl_deu	Jeden Sonntag bügelt meine Oma das Hemd für mich.

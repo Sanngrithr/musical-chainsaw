@@ -1,0 +1,4 @@
+annot_eng	MUSEUM X-right ENTRANCE+CARD-post I i-FOR-you BUY HAVE-TO?
+annot_deu	MUSEUM X-rechts EINTRITT+KARTE-post ICH ich-FÜR-du KAUFEN SOLLEN?
+transl_eng	Do you want me to buy a ticket for the museum for you?
+transl_deu	Soll ich dir eine Eintrittskarte für das Museum kaufen?

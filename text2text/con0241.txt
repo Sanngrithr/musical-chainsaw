@@ -1,0 +1,4 @@
+annot_eng	SAUSAGE+COUNTER X-right WE-all X-right WAIT
+annot_deu	WURST+THEKE X-rechts WIR-alle X-rechts WARTEN
+transl_eng	We are waiting at the sausage counter.
+transl_deu	Wir warten an der Wursttheke.

@@ -1,0 +1,2 @@
+annot_eng	THERE-he
+annot_deu	DA-er

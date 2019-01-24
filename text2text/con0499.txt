@@ -1,0 +1,4 @@
+annot_eng	SUMMER X-middle HOT ALL CHILDREN ICE-CREAM BUY WANT
+annot_deu	SOMMER X-mitte HEISS ALLE KINDER EIS KAUFEN WOLLEN
+transl_eng	When the summer is hot all children want to buy ice cream.
+transl_deu	Wenn der Sommer heiss ist, wollen alle Kinder Eis kaufen.

@@ -1,0 +1,4 @@
+annot_eng	CAR NEW X-middle INTERESTING
+annot_deu	AUTO NEU X-mitte INTERESSANT
+transl_eng	The new car is interesting.
+transl_deu	Das neue Auto ist interessant.

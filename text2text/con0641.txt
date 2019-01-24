@@ -1,0 +1,4 @@
+annot_eng	MY INDIVIDUAL+IDENTITY-CARD i-SHOW-you WHY?
+annot_deu	MEIN PERSON+AUSWEIS ich-ZEIGEN-du WARUM?
+transl_eng	Why do you want me to show you my identity card?
+transl_deu	Warum soll ich dir meinen Personalausweis zeigen?

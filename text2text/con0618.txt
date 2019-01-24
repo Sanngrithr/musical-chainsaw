@@ -1,0 +1,4 @@
+annot_eng	DAY-AFTER-TOMORROW MY BOSS ENGLAND FLY-left BECAUSE X-left PROJECT NEW PLAN
+annot_deu	ÜBERMORGEN MEIN CHEF ENGLAND FLIEGEN-links GRUND X-links PROJEKT NEU PLANEN
+transl_eng	The day after tomorrow my boss will be flying to England in order to plan a new project.
+transl_deu	Übermorgen fliegt mein Chef nach England, um ein neues Projekt zu planen.

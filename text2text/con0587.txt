@@ -1,0 +1,4 @@
+annot_eng	MASTER X-right DECIDE APPRENTICE DEAF X-middle VIDEOPHONE GET-sth
+annot_deu	MEISTER X-rechts ENTSCHEIDEN LEHRLING GEHÖRLOS X-mitte BILDTELEFON BEKOMMEN-was
+transl_eng	The master decides whether or not the deaf apprentice will get a videophone.
+transl_deu	Der Meister entscheidet, ob der gehörlose Lehrling ein Bildtelefon bekommt.

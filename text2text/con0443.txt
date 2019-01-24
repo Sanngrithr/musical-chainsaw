@@ -1,0 +1,4 @@
+annot_eng	I MEAT WITH-what PEPPER EAT NOT-ALLOWED
+annot_deu	ICH FLEISCH MIT-was PFEFFER ESSEN NICHT-DÜRFEN
+transl_eng	I am not allowed to eat meat with pepper.
+transl_deu	Ich darf kein Fleisch mit Pfeffer essen.

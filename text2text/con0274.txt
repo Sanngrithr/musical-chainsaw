@@ -1,0 +1,4 @@
+annot_eng	YOU CLOTHING CHOOSE WHICH YOU?
+annot_deu	DU KLEIDUNG AUSWÄHLEN WELCHE DU?
+transl_eng	Which dress are you going to choose?
+transl_deu	Welche Kleidung wählst du aus?

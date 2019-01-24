@@ -1,0 +1,2 @@
+annot_eng	UNDERSTAND
+annot_deu	VERSTEHEN

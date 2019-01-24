@@ -1,0 +1,4 @@
+annot_eng	I WITH-what COLLEAGUES ARRANGE WHAT DAY-AFTER-TOMORROW COMMON JOG
+annot_deu	ICH MIT-was KOLLEGEN VERABREDEN WAS ÜBERMORGEN GEMEINSAM JOGGEN
+transl_eng	I will arrange to meet my colleague the day after tomorrow in order to go jogging together.
+transl_deu	Ich verabrede mich mit meinen Kollegen, um übermorgen gemeinsam zu joggen.

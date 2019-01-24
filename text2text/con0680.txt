@@ -1,0 +1,4 @@
+annot_eng	OFTEN-every TUESDAY INTERPRETER INSTITUTE X-right COMMUTE
+annot_deu	OFT-jeden DIENSTAG DOLMETSCHER INSTITUT X-rechts PENDELN
+transl_eng	The interpreter commutes to the institute every Tuesday.
+transl_deu	Der Dolmetscher pendelt jeden Dienstag zum Institut.

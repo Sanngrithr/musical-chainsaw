@@ -1,0 +1,4 @@
+annot_eng	YOU HUNGER THERE-you?
+annot_deu	DU HUNGER DA-du?
+transl_eng	Are you hungry?
+transl_deu	Hast du Hunger?

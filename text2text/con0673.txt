@@ -1,0 +1,4 @@
+annot_eng	TOMORROW NEIGHBOUR X-right CAR he-LEND-i UNFORTUNATELY CANNOT
+annot_deu	MORGEN-nTag NACHBAR X-rechts AUTO er-LEIHEN-ich LEIDER NICHT-KÖNNEN
+transl_eng	Unfortunally the neighbour cannot lend me the car tomorrow.
+transl_deu	Der Nachbar kann mir das Auto morgen leider nicht leihen.

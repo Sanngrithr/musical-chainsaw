@@ -1,0 +1,4 @@
+annot_eng	WAITER HEARING X-right SIGN+LANGUAGE LEARN
+annot_deu	KELLNER HÖREND X-rechts GEBÄRDEN+SPRACHE LERNEN
+transl_eng	The hearing waiter is learning sign language.
+transl_deu	Der hörende Kellner lernt die Gebärdensprache.

@@ -1,0 +1,4 @@
+annot_eng	WOMAN+TILL+INDIVIDUAL X-right SEE WHAT APPLES X-middle BAD
+annot_deu	FRAU+KASSE+PERSON X-rechts SEHEN WAS ÄPFEL X-mitte SCHLECHT
+transl_eng	The till girl is seeing bad apples.
+transl_deu	Die Kassiererin sieht schlechte Äpfel.

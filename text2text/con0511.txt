@@ -1,0 +1,4 @@
+annot_eng	MY FAMILY SEVEN KILOGRAMME FISH NEED
+annot_deu	MEIN FAMILIE SIEBEN KILO FISCH BRAUCHEN
+transl_eng	My family needs seven kilogrammes of fish.
+transl_deu	Meine Familie braucht sieben Kilo Fisch.

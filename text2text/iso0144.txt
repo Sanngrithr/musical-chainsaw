@@ -1,0 +1,2 @@
+annot_eng	HOW
+annot_deu	WIE

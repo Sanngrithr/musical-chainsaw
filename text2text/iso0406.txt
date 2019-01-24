@@ -1,0 +1,2 @@
+annot_eng	PROGRAM|APPOINTMENT|LIST
+annot_deu	TERMIN|LISTE

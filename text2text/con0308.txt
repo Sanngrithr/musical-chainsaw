@@ -1,0 +1,4 @@
+annot_eng	MY HOUSE+DOCTOR PILLS X-right RECOMMEND
+annot_deu	MEIN HAUS+ARZT TABLETTEN X-rechts EMPFEHLEN
+transl_eng	My family doctor recommends these pills to me.
+transl_deu	Mein Hausarzt empfiehlt mir diese Tabletten.

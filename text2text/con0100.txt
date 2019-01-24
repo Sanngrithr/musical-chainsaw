@@ -1,0 +1,4 @@
+annot_eng	EXCELLENT+MARKET X-right HUSBAND GO-to
+annot_deu	SUPER+MARKT X-rechts EHEMANN GEHEN-nach
+transl_eng	The husband is going to the supermarket.
+transl_deu	Der Ehemann geht zum Supermarkt.

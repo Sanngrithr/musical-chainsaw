@@ -1,0 +1,2 @@
+annot_eng	MYSELF-i
+annot_deu	SELBST-ich

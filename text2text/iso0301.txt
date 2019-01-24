@@ -1,0 +1,2 @@
+annot_eng	2|TWO
+annot_deu	2|ZWEI

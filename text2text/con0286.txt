@@ -1,0 +1,4 @@
+annot_eng	MY FATHER ACCIDENT+INSURANCE PAY
+annot_deu	MEIN VATER UNFALL+VERSICHERUNG BEZAHLEN
+transl_eng	My father is paying for the accident insurance.
+transl_deu	Mein Vater bezahlt die Unfallversicherung.

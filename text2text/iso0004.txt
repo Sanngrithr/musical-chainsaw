@@ -1,0 +1,2 @@
+annot_eng	APPLES
+annot_deu	ÄPFEL

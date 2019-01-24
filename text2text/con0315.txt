@@ -1,0 +1,4 @@
+annot_eng	OFTEN-every EASTER MY FAMILY X-right he-VISIT-i
+annot_deu	OFT-jeden OSTERN MEIN FAMILIE X-rechts er-BESUCHEN-ich
+transl_eng	My family visits me every Easter. 
+transl_deu	Jedes Jahr zu Ostern besucht mich meine Familie.

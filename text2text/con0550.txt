@@ -1,0 +1,4 @@
+annot_eng	YOUR BIRTHDAY+PARTY X-middle RESTAURANT X-right I EIGHT TABLE i-FOR-you RESERVE
+annot_deu	DEIN GEBURTSTAG+FEIER X-mitte RESTAURANT X-rechts ICH ACHT TISCH ich-FÜR-du RESERVIEREN
+transl_eng	I am going to book eight tables at the restaurant for your birthday party.
+transl_deu	Für deine Geburtstagsfeier reserviere ich acht Tische im Restaurant.

@@ -1,0 +1,2 @@
+annot_eng	RAIN
+annot_deu	REGEN

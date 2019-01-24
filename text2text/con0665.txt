@@ -1,0 +1,4 @@
+annot_eng	MY GRANDCHILD X-right WECKER-licht NEW NOT-NEED
+annot_deu	MEIN ENKEL X-rechts WECKER-licht NEU NICHT-BRAUCHEN
+transl_eng	My grandchild needs a new alarm clock with flashlight.
+transl_deu	Mein Enkel braucht keinen neuen Blitzlicht-Wecker.

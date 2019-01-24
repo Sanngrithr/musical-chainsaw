@@ -1,0 +1,4 @@
+annot_eng	OFTEN-every YEAR++ MY GRANDMA CURE X-middle DRIVE
+annot_deu	OFT-jeden JAHR++ MEIN OMA KUR X-mitte FAHREN
+transl_eng	My grandma takes a cure every year.
+transl_deu	Meine Oma fährt jedes Jahr zur Kur.

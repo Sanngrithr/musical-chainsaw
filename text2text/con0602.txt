@@ -1,0 +1,4 @@
+annot_eng	MY COLLEAGUES PROJECT+DOCUMENTS ALREADY he-SEND-i
+annot_deu	MEIN KOLLEGEN PROJEKT+UNTERLAGEN SCHON er-SCHICKEN-ich
+transl_eng	My colleague already sent me the project documents.
+transl_deu	Mein Kollege hat mir die Projektunterlagen schon geschickt.

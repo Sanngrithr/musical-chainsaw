@@ -1,0 +1,4 @@
+annot_eng	MY TEACHER X-right HAMBURG HAVE-BEEN NOW PHOTOGRAPH he-SHOW-i
+annot_deu	MEIN LEHRER X-rechts HAMBURG GEWESEN JETZT FOTO er-ZEIGEN-ich
+transl_eng	My teacher has been to Hamburg and is now showing me a picture.
+transl_deu	Mein Lehrer war in Hamburg und zeigt mir jetzt ein Foto.

@@ -1,0 +1,2 @@
+annot_eng	HIKE
+annot_deu	WANDERN

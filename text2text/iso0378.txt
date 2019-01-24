@@ -1,0 +1,2 @@
+annot_eng	COPY
+annot_deu	KOPIEREN

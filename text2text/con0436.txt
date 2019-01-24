@@ -1,0 +1,4 @@
+annot_eng	BUTCHER'S+INDIVIDUAL X-right NAME WHAT?
+annot_deu	METZGEREI+PERSON X-rechts NAME WAS?
+transl_eng	What is the butcher called?
+transl_deu	Wie heisst der Metzger?

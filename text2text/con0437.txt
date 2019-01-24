@@ -1,0 +1,4 @@
+annot_eng	YOUR DOG SMALL-object NAME WHAT?
+annot_deu	DEIN HUND KLEIN-gegenstand NAME WAS?
+transl_eng	What is your little puppy called?
+transl_deu	Wie heisst dein kleiner Hund?

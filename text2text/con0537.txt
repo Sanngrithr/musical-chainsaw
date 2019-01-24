@@ -1,0 +1,4 @@
+annot_eng	MY FATHER MONTHLY PENSION GET-sth BECAUSE WORK+ACCIDENT
+annot_deu	MEIN VATER MONATLICH RENTE BEKOMMEN-was GRUND ARBEITEN+UNFALL
+transl_eng	My father gets a monthly pension because he had an accident at work.
+transl_deu	Mein Vater bekommt monatlich eine Rente, weil er einen Arbeitsunfall hatte.

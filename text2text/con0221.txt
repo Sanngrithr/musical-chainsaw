@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY I WATER DRINK
+annot_deu	GESTERN ICH WASSER TRINKEN
+transl_eng	Yesterday I drank water.
+transl_deu	Gestern habe ich Wasser getrunken.

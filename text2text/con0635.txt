@@ -1,0 +1,4 @@
+annot_eng	WHEN MY TRAIN DELAY I SMS i-SEND-you
+annot_deu	WENN MEIN ZUG VERSPÄTUNG ICH SMS ich-SCHICKEN-du
+transl_eng	I will send you an SMS if my train is late.
+transl_deu	Wenn mein Zug Verspätung hat, schicke ich dir eine SMS.

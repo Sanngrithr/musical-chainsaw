@@ -1,0 +1,4 @@
+annot_eng	STUDENT X-right BEER TRY MUST
+annot_deu	STUDENT X-rechts BIER PROBIEREN MÜSSEN
+transl_eng	The student has to taste the beer.
+transl_deu	Der Student muss das Bier probieren.

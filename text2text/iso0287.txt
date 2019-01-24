@@ -1,0 +1,2 @@
+annot_eng	LOSE-things
+annot_deu	VERLIEREN-sachen

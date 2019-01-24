@@ -1,0 +1,4 @@
+annot_eng	CAKE X-middle WARM
+annot_deu	KUCHEN X-mitte WARM
+transl_eng	The cake is warm.
+transl_deu	Der Kuchen ist warm.

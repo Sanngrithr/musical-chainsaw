@@ -1,0 +1,4 @@
+annot_eng	MY MOTHER HOSPITAL-to BECAUSE SICKNESS THERE-you
+annot_deu	MEIN MUTTER KRANKENHAUS-nach GRUND KRANKHEIT DA-du
+transl_eng	My mother was taken to hospital because she is sick.
+transl_deu	Meine Mutter ist ins Krankenhaus gekommen, weil sie krank ist.

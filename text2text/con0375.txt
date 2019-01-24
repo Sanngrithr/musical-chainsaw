@@ -1,0 +1,4 @@
+annot_eng	MY GRANDPA X-right HAPPY BECAUSE TODAY NEWSPAPER NOT neg-BORING
+annot_deu	MEIN OPA X-rechts FREUEN GRUND HEUTE ZEITUNG NICHT neg-LANGWEILIG
+transl_eng	My grandpa is very happy because the newspaper is not boring today.
+transl_deu	Mein Opa freut sich, weil die Zeitung heute nicht langweilig ist.

@@ -1,0 +1,2 @@
+annot_eng	COLLEAGUES
+annot_deu	KOLLEGEN

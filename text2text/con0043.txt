@@ -1,0 +1,4 @@
+annot_eng	MAN X-right he-ASK-i
+annot_deu	MANN X-rechts er-FRAGEN-ich
+transl_eng	The man is asking me.
+transl_deu	Der Mann fragt mich.

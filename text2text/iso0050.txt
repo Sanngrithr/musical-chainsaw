@@ -1,0 +1,2 @@
+annot_eng	YESTERDAY
+annot_deu	GESTERN

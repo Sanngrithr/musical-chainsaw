@@ -1,0 +1,4 @@
+annot_eng	MY GRANDMA X-right LIVE+ROOM CLEAN-floor NOW CLEAN
+annot_deu	MEIN OMA X-rechts WOHNEN+ZIMMER PUTZEN-boden JETZT SAUBER
+transl_eng	My grandma cleaned the living room, now it is clean.
+transl_deu	Meine Oma hat das Wohnzimmer geputzt, jetzt ist es sauber.

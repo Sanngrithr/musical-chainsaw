@@ -1,0 +1,4 @@
+annot_eng	WHEN YOU TODAY LUNCHTIME TIME THERE-you PROJECT X-right I AT-you i-EXPLAIN-you CAN
+annot_deu	WENN DU HEUTE MITTAG ZEIT DA-du PROJEKT X-rechts ICH AUF-du ich-ERKLÄREN-du KÖNNEN
+transl_eng	I can explain the project to you if you have time at  lunchtime.
+transl_deu	Wenn du heute Mittag Zeit hast, kann ich dir das Projekt erklären.

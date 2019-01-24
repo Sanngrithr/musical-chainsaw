@@ -1,0 +1,2 @@
+annot_eng	DIRTY
+annot_deu	SCHMUTZIG

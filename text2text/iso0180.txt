@@ -1,0 +1,2 @@
+annot_eng	THURSDAY
+annot_deu	DONNERSTAG

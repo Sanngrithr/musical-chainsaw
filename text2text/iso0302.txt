@@ -1,0 +1,2 @@
+annot_eng	4|FOUR
+annot_deu	4|VIER

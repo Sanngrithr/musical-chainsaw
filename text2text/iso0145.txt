@@ -1,0 +1,2 @@
+annot_eng	HOW-MUCH
+annot_deu	WIEVIEL

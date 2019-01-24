@@ -1,0 +1,4 @@
+annot_eng	KNOW YOU SCHOOL+FRIEND X-right ADDRESSES WHAT?
+annot_deu	WISSEN DU SCHULE+FREUND X-rechts ADRESSEN WAS?
+transl_eng	Do you know the address of the schoolmate?
+transl_deu	Kennst du die Adresse des Schulfreundes?

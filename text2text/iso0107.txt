@@ -1,0 +1,2 @@
+annot_eng	SATURDAY
+annot_deu	SAMSTAG

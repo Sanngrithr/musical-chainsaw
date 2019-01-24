@@ -1,0 +1,4 @@
+annot_eng	LAST-time WEEK MY CAR GARAGE i-TAKE-he BECAUSE ENGINE+DAMAGE
+annot_deu	LETZTEN-zeit WOCHE MEIN AUTO WERKSTATT ich-BRINGEN-er GRUND MOTOR+SCHADEN
+transl_eng	I took my car to the garage last week because of an engine breakdown.
+transl_deu	Letzte Woche habe ich mein Auto wegen eines Motorschadens in die Werkstatt gebracht.

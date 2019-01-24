@@ -1,0 +1,4 @@
+annot_eng	MY FATHER BAKERY X-right SEVEN BREAD-ROLLS he-FETCH-i
+annot_deu	MEIN VATER BÄCKEREI X-rechts SIEBEN BRÖTCHEN er-HOLEN-ich
+transl_eng	My father is getting seven bread rolls from the bakery for me. 
+transl_deu	Mein Vater holt mir sieben Brötchen aus der Bäckerei.

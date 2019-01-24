@@ -1,0 +1,4 @@
+annot_eng	MY BROTHER-IN-LAW WITH-what UNDERGROUND FACTORY X-right COMMUTE
+annot_deu	MEIN SCHWAGER MIT-was U-BAHN FABRIK X-rechts PENDELN
+transl_eng	My brother-in-law commutes to the factory by underground.
+transl_deu	Mein Schwager pendelt mit der U-Bahn zur Fabrik.

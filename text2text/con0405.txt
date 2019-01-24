@@ -1,0 +1,4 @@
+annot_eng	TODAY i-TELL-you AT-you WHY I SPIDER AFFRAID THERE-i
+annot_deu	HEUTE ich-ERZÄHLEN-du AUF-du WARUM ICH SPINNE ANGST DA-ich
+transl_eng	I will tell you today why I am afraid of spiders.
+transl_deu	Heute erzähle ich dir, warum ich Angst vor Spinnen habe.

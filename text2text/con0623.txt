@@ -1,0 +1,4 @@
+annot_eng	NEXT-time MONTH MY FAMILY COMMON CITY+PARTY i-VISIT-you
+annot_deu	NÄCHSTEN-zeit MONAT MEIN FAMILIE GEMEINSAM STADT+FEST ich-BESUCHEN-du
+transl_eng	Next month I will go to a city festival together with my family.
+transl_deu	Nächsten Monat besuche ich gemeinsam mit meiner Familie ein Stadtfest.

@@ -1,0 +1,4 @@
+annot_eng	I MONTHLY PENSION+INSURANCE PAY
+annot_deu	ICH MONATLICH RENTE+VERSICHERUNG BEZAHLEN
+transl_eng	I pay the pension insurance monthly.
+transl_deu	Ich bezahle monatlich die Rentenversicherung.

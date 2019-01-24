@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY OFFICE X-right LETTER WITH-what IDENTITY-CARD NEW he-SEND-i
+annot_deu	GESTERN AMT X-rechts BRIEF MIT-was AUSWEIS NEU er-SCHICKEN-ich
+transl_eng	Yesterday the agency sent me a letter containing the new identity card.
+transl_deu	Gestern schickte mir das Amt einen Brief dem neuen Ausweis.

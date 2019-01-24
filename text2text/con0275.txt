@@ -1,0 +1,4 @@
+annot_eng	TODAY YOU JAM CHOOSE MAY
+annot_deu	HEUTE DU MARMELADE AUSWÄHLEN DÜRFEN
+transl_eng	Today you may choose the jam.
+transl_deu	Heute darfst du die Marmelade auswählen.

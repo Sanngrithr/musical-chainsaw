@@ -1,0 +1,4 @@
+annot_eng	BASKET WITH-what VEGETABLES KILOGRAMME HOW-MUCH?
+annot_deu	KORB MIT-was GEMÜSE KILO WIEVIEL?
+transl_eng	How much does the basket with the vegetables weigh in kilogramme?
+transl_deu	Wieviel Kilo wiegt der Korb mit dem Gemüse? 

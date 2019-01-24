@@ -1,0 +1,2 @@
+annot_eng	5|FIVE
+annot_deu	FÜNF

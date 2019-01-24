@@ -1,0 +1,4 @@
+annot_eng	I SHOES NEW NEED
+annot_deu	ICH SCHUHE NEU BRAUCHEN
+transl_eng	I need new shoes.
+transl_deu	Ich brauche neue Schuhe.

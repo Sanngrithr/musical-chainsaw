@@ -1,0 +1,2 @@
+annot_eng	CHILD
+annot_deu	KIND

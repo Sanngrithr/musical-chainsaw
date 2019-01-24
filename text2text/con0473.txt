@@ -1,0 +1,4 @@
+annot_eng	YOUR TEACHER X-right SOUP+PLATE OLD COLLECT
+annot_deu	DEIN LEHRER X-rechts SUPPE+TELLER ALT SAMMELN
+transl_eng	Your teacher collects old soup plates.
+transl_deu	Dein Lehrer sammelt alte Suppenteller.

@@ -1,0 +1,4 @@
+annot_eng	BAKERY X-middle EARLY+PIECE WITH-what JUICE i-OFFER-you THERE-you
+annot_deu	BÄCKEREI X-mitte FRÜH+STÜCK MIT-was SAFT ich-ANBIETEN-du DA-du
+transl_eng	The bakery is offering you breakfast and juice.
+transl_deu	Die Bäckerei bietet dir Frühstück mit Saft an.

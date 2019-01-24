@@ -1,0 +1,4 @@
+annot_eng	MY MASTER X-right FURIOUS BECAUSE TODAY LUNCHTIME TRAFFIC+ACCIDENT HAVE-BEEN
+annot_deu	MEIN MEISTER X-rechts WÜTEND GRUND HEUTE MITTAG VERKEHR+UNFALL GEWESEN
+transl_eng	My master is furious because there was a traffic accident at lunch time.
+transl_deu	Mein Meister ist wütend, weil es heute Mittag einen Verkehrsunfall gab.

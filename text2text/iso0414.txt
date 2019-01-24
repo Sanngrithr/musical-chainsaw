@@ -1,0 +1,2 @@
+annot_eng	FIX|GARAGE
+annot_deu	REPARIEREN|WERKSTATT

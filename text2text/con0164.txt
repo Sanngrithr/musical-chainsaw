@@ -1,0 +1,4 @@
+annot_eng	I SAUSAGE CHEESE BEER LIKE
+annot_deu	ICH WURST KÄSE BIER MÖGEN
+transl_eng	I like sausages, cheese, and beer.
+transl_deu	Ich mag Wurst, Käse und Bier.

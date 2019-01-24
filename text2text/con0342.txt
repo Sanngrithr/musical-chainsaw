@@ -1,0 +1,4 @@
+annot_eng	MY DOCTOR AT-i ALLOW I THERAPY HOSPITAL-in X-middle DO
+annot_deu	MEIN ARZT AUF-ich ERLAUBEN ICH THERAPIE KRANKENHAUS-im X-mitte MACHEN
+transl_eng	My doctor allows me to take a therapy in hospital.
+transl_deu	Mein Arzt erlaubt mir, eine Therapie im Krankenhaus zu machen.

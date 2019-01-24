@@ -1,0 +1,4 @@
+annot_eng	YOU TRY LIKE YOU?
+annot_deu	DU PROBIEREN MÖGEN DU?
+transl_eng	Would you like to try?
+transl_deu	Möchtest du probieren?

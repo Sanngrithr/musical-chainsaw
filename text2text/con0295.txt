@@ -1,0 +1,4 @@
+annot_eng	MY DAUGHTER HOSPITAL-in X-right STAY-right BECAUSE THERAPY DO
+annot_deu	MEIN TOCHTER KRANKENHAUS-im X-rechts BLEIBEN-rechts GRUND THERAPIE MACHEN
+transl_eng	My daughter is staying in hospital because she is taking a therapy. 
+transl_deu	Meine Tochter bleibt im Krankenhaus, weil sie eine Therapie macht.

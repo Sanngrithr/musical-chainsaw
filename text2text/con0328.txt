@@ -1,0 +1,4 @@
+annot_eng	EASTER I HAPPY BECAUSE MANY EGGS he-GET-i
+annot_deu	OSTERN ICH FREUEN GRUND VIELE EIER er-BEKOMMEN-ich
+transl_eng	At Easter I am very happy because I get a lot of eggs.
+transl_deu	Zu Ostern freue ich mich, weil ich viele Eier bekomme.

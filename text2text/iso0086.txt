@@ -1,0 +1,2 @@
+annot_eng	PEOPLE|INDIVIDUAL
+annot_deu	PERSON

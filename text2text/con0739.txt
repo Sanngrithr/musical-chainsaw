@@ -1,0 +1,4 @@
+annot_eng	I PROPOSE YOU FIRST CONTRACT X-right IMPORTANT FAX
+annot_deu	ICH VORSCHLAGEN DU ZUERST VERTRAG X-rechts WICHTIG FAXEN
+transl_eng	I suggest that you fax the important contract first.
+transl_deu	Ich schlage vor, dass du den wichtigen Vertrag zuerst faxt.

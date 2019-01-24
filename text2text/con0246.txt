@@ -1,0 +1,4 @@
+annot_eng	PIZZA X-middle WHERE?
+annot_deu	PIZZA X-mitte WO?
+transl_eng	Where is the pizza?
+transl_deu	Wo ist die Pizza?

@@ -1,0 +1,4 @@
+annot_eng	I GLAD BECAUSE FINALLY LUNCHTIME+BREAK
+annot_deu	ICH FROH GRUND ENDLICH MITTAG+PAUSE
+transl_eng	I am glad to finally have my lunch break.
+transl_deu	Ich bin froh, weil ich endlich Mittagspause habe.

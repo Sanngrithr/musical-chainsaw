@@ -1,0 +1,4 @@
+annot_eng	I WASH+POWDER BUY
+annot_deu	ICH WASCH+PULVER KAUFEN
+transl_eng	I am buying washing powder.
+transl_deu	Ich kaufe Waschmittel.

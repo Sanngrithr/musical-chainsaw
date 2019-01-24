@@ -1,0 +1,4 @@
+annot_eng	RESTAURANT X-right WAITER X-right WORK MUST
+annot_deu	RESTAURANT X-rechts KELLNER X-rechts ARBEITEN MÜSSEN
+transl_eng	The waiter has to work in the restaurant.
+transl_deu	Der Kellner muss im Restaurant arbeiten.

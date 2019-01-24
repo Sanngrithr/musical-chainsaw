@@ -1,0 +1,4 @@
+annot_eng	MY FATHER HOSPITAL-in X-right STAY-right BECAUSE ACCIDENT
+annot_deu	MEIN VATER KRANKENHAUS-im X-rechts BLEIBEN-rechts GRUND UNFALL
+transl_eng	My father is staying in hospital because he had an accident.
+transl_deu	Mein Vater bleibt im Krankenhaus, weil er einen Unfall hatte.

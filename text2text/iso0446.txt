@@ -1,0 +1,2 @@
+annot_eng	HOW-LONG
+annot_deu	WIE-LANG

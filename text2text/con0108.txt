@@ -1,0 +1,4 @@
+annot_eng	WE-all i-ASK-you
+annot_deu	WIR-alle ich-FRAGEN-du
+transl_eng	We are asking you.
+transl_deu	Wir fragen dich.

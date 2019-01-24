@@ -1,0 +1,4 @@
+annot_eng	MY PARENTS X-right CAT SMALL-object he-PRESENT-i
+annot_deu	MEIN ELTERN X-rechts KATZE KLEIN-gegenstand er-SCHENKEN-ich
+transl_eng	My parents are giving me a little kitten as a present.
+transl_deu	Meine Eltern schenken mir eine kleine Katze.

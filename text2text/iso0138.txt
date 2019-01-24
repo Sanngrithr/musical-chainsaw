@@ -1,0 +1,2 @@
+annot_eng	WASH-clothes|WASH|DRY-CLEANER
+annot_deu	WASCHEN-kleidung|WASCH|REINIGUNG

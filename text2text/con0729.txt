@@ -1,0 +1,4 @@
+annot_eng	APPRENTICE X-right RARELY BUS MISS
+annot_deu	LEHRLING X-rechts SELTEN BUS VERPASSEN
+transl_eng	The apprentice rarely misses the bus.
+transl_deu	Der Lehrling verpasst selten den Bus.

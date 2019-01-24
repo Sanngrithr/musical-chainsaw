@@ -1,0 +1,4 @@
+annot_eng	WINDOW+SILL-window X-middle FLOWERS MISSING
+annot_deu	FENSTER+BANK-fenster X-mitte BLUMEN FEHLEN
+transl_eng	There are flowers missing on the window sill.
+transl_deu	Auf der Fensterbank fehlen Blumen.

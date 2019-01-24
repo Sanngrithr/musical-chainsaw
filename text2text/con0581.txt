@@ -1,0 +1,4 @@
+annot_eng	I GLAD BECAUSE FINALLY AFTER-WORK
+annot_deu	ICH FROH GRUND ENDLICH FEIERABEND
+transl_eng	I am glad to have finally finished work for today. 
+transl_deu	Ich bin froh, weil ich endlich Feierabend habe.

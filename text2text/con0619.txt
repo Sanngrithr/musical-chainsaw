@@ -1,0 +1,4 @@
+annot_eng	EASTER I ALWAYS CHURCH i-VISIT-you
+annot_deu	OSTERN ICH IMMER KIRCHE ich-BESUCHEN-du
+transl_eng	I always go to church at Easter.
+transl_deu	An Ostern besuche ich immer die Kirche.

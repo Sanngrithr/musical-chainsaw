@@ -1,0 +1,2 @@
+annot_eng	ALL
+annot_deu	ALLE

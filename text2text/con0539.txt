@@ -1,0 +1,4 @@
+annot_eng	YOU MY VIDEOPHONE USE CAN
+annot_deu	DU MEIN BILDTELEFON BENUTZEN KÖNNEN
+transl_eng	You can use my videophone.
+transl_deu	Du kannst mein Bildtelefon benutzen.

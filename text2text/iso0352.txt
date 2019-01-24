@@ -1,0 +1,2 @@
+annot_eng	FINISHED|ALREADY
+annot_deu	FERTIG|SCHON

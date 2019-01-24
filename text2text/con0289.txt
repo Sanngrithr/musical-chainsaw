@@ -1,0 +1,4 @@
+annot_eng	MY FATHER X-right SHOP HAVE-BEEN X-right JACKET PAY
+annot_deu	MEIN VATER X-rechts GESCHÄFT GEWESEN X-rechts JACKE BEZAHLEN
+transl_eng	My father went to the shop to pay for a jacket. 
+transl_deu	Mein Vater ist im Geschäft gewesen, um eine Jacke zu bezahlen.

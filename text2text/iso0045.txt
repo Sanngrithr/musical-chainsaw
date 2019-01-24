@@ -1,0 +1,2 @@
+annot_eng	SIGN
+annot_deu	GEBÄRDEN

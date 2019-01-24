@@ -1,0 +1,4 @@
+annot_eng	CHILD X-right he-ASK-i CINEMA WAY WHERE
+annot_deu	KIND X-rechts er-FRAGEN-ich KINO WEG WO
+transl_eng	The child is asking me for the way to the cinema.
+transl_deu	Das Kind fragt mich nach dem Weg zum Kino.

@@ -1,0 +1,4 @@
+annot_eng	MY VIDEOPHONE X-middle BROKEN FIX CAN WHO?
+annot_deu	MEIN BILDTELEFON X-mitte KAPUTT REPARIEREN KÖNNEN WER?
+transl_eng	Who can fix my broken videophone?
+transl_deu	Wer kann mein kaputtes Bildtelefon reparieren?

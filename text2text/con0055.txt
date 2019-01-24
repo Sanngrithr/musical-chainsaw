@@ -1,0 +1,4 @@
+annot_eng	SELL+INDIVIDUAL X-right he-HELP-i CAN
+annot_deu	VERKAUFEN+PERSON X-rechts er-HELFEN-ich KÖNNEN
+transl_eng	The salesman can help me.
+transl_deu	Der Verkäufer kann mir helfen.

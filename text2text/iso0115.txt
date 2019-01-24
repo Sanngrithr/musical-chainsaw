@@ -1,0 +1,2 @@
+annot_eng	SEE|LOOK
+annot_deu	SEHEN|SCHAUEN

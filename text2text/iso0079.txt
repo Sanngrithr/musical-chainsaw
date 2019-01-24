@@ -1,0 +1,2 @@
+annot_eng	TEACHER
+annot_deu	LEHRER

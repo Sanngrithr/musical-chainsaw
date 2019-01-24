@@ -1,0 +1,4 @@
+annot_eng	MY BROTHER X-right CLOTHING+WARDROBE he-PRESENT-i
+annot_deu	MEIN BRUDER X-rechts KLEIDUNG+SCHRANK er-SCHENKEN-ich
+transl_eng	My brother is giving me a wardrobe as a present.
+transl_deu	Mein Bruder schenkt mir einen Kleiderschrank.

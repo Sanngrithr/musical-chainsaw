@@ -1,0 +1,2 @@
+annot_eng	EVERY-DAY|DAILY
+annot_deu	JEDEN-TAG|TÄGLICH

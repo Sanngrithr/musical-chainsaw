@@ -1,0 +1,4 @@
+annot_eng	APPRENTICE X-left WITH-what MASTER X-right DISCUSS ABOUT-what SALARY
+annot_deu	LEHRLING X-links MIT-was MEISTER X-rechts DISKUTIEREN ÜBER-was LOHN
+transl_eng	The apprentice is discussing the salary with his boss.
+transl_deu	Der Lehrling diskutiert mit dem Meister über den Lohn.

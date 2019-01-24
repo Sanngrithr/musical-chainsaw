@@ -1,0 +1,4 @@
+annot_eng	YOU TODAY CITY X-middle DRIVE HOW?
+annot_deu	DU HEUTE STADT X-mitte FAHREN WIE?
+transl_eng	How will you drive into town today?
+transl_deu	Wie fährst du heute in die Stadt?

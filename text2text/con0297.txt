@@ -1,0 +1,4 @@
+annot_eng	MY DAUGHTER IRON neg-LIKE
+annot_deu	MEIN TOCHTER BÜGELN neg-MÖGEN
+transl_eng	My daughter does not like ironing.
+transl_deu	Meine Tochter mag nicht bügeln.

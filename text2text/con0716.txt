@@ -1,0 +1,4 @@
+annot_eng	TOMORROW SUMMER+PARTY X-right YOU FEEL-LIKE DANCE COME-there?
+annot_deu	MORGEN-nTag SOMMER+FEST X-rechts DU LUST TANZEN KOMMEN-dahin?
+transl_eng	Would you like to go dancing at the summer party tomorrow?
+transl_deu	Hast du Lust, morgen zum Sommerfest tanzen zu gehen?

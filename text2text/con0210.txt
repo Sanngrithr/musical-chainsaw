@@ -1,0 +1,4 @@
+annot_eng	THIS-time SATURDAY BROTHER X-right PHONE
+annot_deu	DIESEN-zeit SAMSTAG BRUDER X-rechts TELEFONIEREN
+transl_eng	On Saturday the brother will phone.
+transl_deu	Am Samstag telefoniert der Bruder.

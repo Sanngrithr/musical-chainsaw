@@ -1,0 +1,4 @@
+annot_eng	BOSS X-right BOOK INTERESTING READ
+annot_deu	CHEF X-rechts BUCH INTERESSANT LESEN
+transl_eng	The boss is reading an interesting book.
+transl_deu	Der Chef liest ein interessantes Buch.

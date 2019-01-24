@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY I INSTITUTE X-middle I COLD-cool
+annot_deu	GESTERN ICH INSTITUT X-mitte ICH KALT
+transl_eng	Yesterday I was cold in the institute.
+transl_deu	Gestern war mir im Institut kalt.

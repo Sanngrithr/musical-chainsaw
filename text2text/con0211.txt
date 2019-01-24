@@ -1,0 +1,4 @@
+annot_eng	THIS-time TUESDAY MAN X-right PHONE MUST
+annot_deu	DIESEN-zeit DIENSTAG MANN X-rechts TELEFONIEREN MÜSSEN
+transl_eng	The man has to phone on Tuesday.
+transl_deu	Der Mann muss am Dienstag telefonieren.

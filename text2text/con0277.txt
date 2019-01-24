@@ -1,0 +1,4 @@
+annot_eng	YOU ONE DOG YOUNG+SMALL-object CHOOSE WANT YOU?
+annot_deu	DU EIN HUND JUNG+KLEIN-gegenstand AUSWÄHLEN WOLLEN DU?
+transl_eng	Would you like to choose a young little puppy?
+transl_deu	Willst du einen jungen, kleinen Hund auswählen?

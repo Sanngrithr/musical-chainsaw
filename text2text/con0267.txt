@@ -1,0 +1,4 @@
+annot_eng	YOUR ROOM DIRTY PLEASE TIDY-UP
+annot_deu	DEIN ZIMMER SCHMUTZIG BITTE AUFRÄUMEN
+transl_eng	Please tidy up your dirty room.
+transl_deu	Bitte räume dein schmutziges Zimmer auf!

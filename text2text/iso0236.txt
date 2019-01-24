@@ -1,0 +1,2 @@
+annot_eng	HOSPITAL-in
+annot_deu	KRANKENHAUS-im

@@ -1,0 +1,4 @@
+annot_eng	COMPUTER X-left EXPENSIVE
+annot_deu	COMPUTER X-links TEUER
+transl_eng	The computer is expensive.
+transl_deu	Der Computer ist teuer.

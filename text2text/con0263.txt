@@ -1,0 +1,4 @@
+annot_eng	TODAY MY SISTER YOUNG AT-you BABY LOOK-after
+annot_deu	HEUTE MEIN SCHWESTER JUNG AUF-du BABY AUFPASSEN-auf
+transl_eng	Today my younger sister will look after the baby.
+transl_deu	Heute passt meine jüngere Schwester auf das Baby auf.

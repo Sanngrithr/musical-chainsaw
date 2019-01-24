@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND BOOK WRITE
+annot_deu	MEIN FREUND BUCH SCHREIBEN
+transl_eng	My friend is writing a book.
+transl_deu	Mein Freund schreibt ein  Buch.

@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY CHEMIST'S X-middle HEAD+PAIN+PILLS NO
+annot_deu	GESTERN APOTHEKE X-mitte KOPF+SCHMERZEN+TABLETTEN KEIN
+transl_eng	They did not have headache tablets at the chemist's yesterday.
+transl_deu	In der Apotheke gab es gestern keine Kopfschmerztabletten.

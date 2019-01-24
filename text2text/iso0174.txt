@@ -1,0 +1,2 @@
+annot_eng	STAY-right
+annot_deu	BLEIBEN-rechts

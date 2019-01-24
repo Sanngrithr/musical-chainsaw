@@ -1,0 +1,2 @@
+annot_eng	WE-both
+annot_deu	WIR-beide

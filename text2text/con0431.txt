@@ -1,0 +1,4 @@
+annot_eng	THIS-time THURSDAY YOU TIME THERE-you MY JACKET SEW?
+annot_deu	DIESEN-zeit DONNERSTAG DU ZEIT DA-du MEIN JACKE NÄHEN?
+transl_eng	Will you have time to mend my jacket on Thursday?
+transl_deu	Hast du am Donnerstag Zeit, meine Jacke zu nähen?

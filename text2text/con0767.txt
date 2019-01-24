@@ -1,0 +1,4 @@
+annot_eng	POST+INDIVIDUAL X-right TODAY ALREADY 10-CLOCK AFTER-WORK
+annot_deu	POST+PERSON X-rechts HEUTE SCHON 10-UHR FEIERABEND
+transl_eng	The postman finishes work already at 10am today.
+transl_deu	Der Postbote hat heute schon um 10:00 Uhr Feierabend.

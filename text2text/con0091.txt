@@ -1,0 +1,4 @@
+annot_eng	THIS-time TUESDAY GUIDED-TOUR X-left EXPENSIVE
+annot_deu	DIESEN-zeit DIENSTAG FÜHRUNG X-links TEUER
+transl_eng	On Tuesdays the guided tour is expensive.
+transl_deu	Die Führung ist am Dienstag teuer.

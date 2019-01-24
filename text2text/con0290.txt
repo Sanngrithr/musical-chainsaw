@@ -1,0 +1,4 @@
+annot_eng	BOSS PAIN+MONEY AT-i PAY BECAUSE I WORK+ACCIDENT
+annot_deu	CHEF SCHMERZEN+GELD AUF-ich BEZAHLEN GRUND ICH ARBEITEN+UNFALL
+transl_eng	The boss is paying me compensation because I had an accident at work.
+transl_deu	Der Chef bezahlt mir Schmerzensgeld, weil ich einen Arbeitsunfall hatte.

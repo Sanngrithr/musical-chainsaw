@@ -1,0 +1,4 @@
+annot_eng	I BORING I FEEL-LIKE SHOP COME-to GLASSES-eyes NEW CHOOSE
+annot_deu	ICH LANGWEILIG ICH LUST GESCHÄFT KOMMEN-nach BRILLE NEU AUSWÄHLEN
+transl_eng	I am bored, I would like to go to the shop and choose some new glasses.
+transl_deu	Mir ist langweilig, ich habe Lust, ins Geschäft zu gehen und eine neue Brille auszuwählen.

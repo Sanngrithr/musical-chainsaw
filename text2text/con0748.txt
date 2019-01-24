@@ -1,0 +1,4 @@
+annot_eng	LEISURE-TIME X-right MY MASTER HIKE AND RIDE LIKE
+annot_deu	FREIZEIT X-rechts MEIN MEISTER WANDERN UND REITEN MÖGEN
+transl_eng	My master likes hiking and riding in his leisure time.
+transl_deu	Mein Meister mag es, in der Freizeit zu wandern und zu reiten.

@@ -1,0 +1,2 @@
+annot_eng	COST
+annot_deu	KOSTEN

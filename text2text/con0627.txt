@@ -1,0 +1,4 @@
+annot_eng	I AT-you i-EXPLAIN-you CAN WHY I YOUR LAPTOP you-TAKE-i
+annot_deu	ICH AUF-du ich-ERKLÄREN-du KÖNNEN WARUM ICH DEIN LAPTOP du-NEHMEN-ich
+transl_eng	I can explain why I took your laptop.
+transl_deu	Ich kann dir erklären, warum ich deinen Laptop genommen habe.

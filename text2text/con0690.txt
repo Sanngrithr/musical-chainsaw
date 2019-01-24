@@ -1,0 +1,4 @@
+annot_eng	MY BIG-high+FATHER X-right I i-FOR-he CIGARETTES BUY HAVE-TO
+annot_deu	MEIN GROSS-hoch+VATER X-rechts ICH ich-FÜR-er ZIGARETTEN KAUFEN SOLLEN
+transl_eng	I have to buy some cigarettes for my grandfather.
+transl_deu	Ich soll für meinen Grossvater Zigaretten kaufen.

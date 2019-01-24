@@ -1,0 +1,4 @@
+annot_eng	WE-all BISCUITS AND MILK LIKE
+annot_deu	WIR-alle KEKSE UND MILCH MÖGEN
+transl_eng	We like biscuits and milk.
+transl_deu	Wir mögen Kekse und Milch.

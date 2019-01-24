@@ -1,0 +1,2 @@
+annot_eng	MASTER
+annot_deu	MEISTER

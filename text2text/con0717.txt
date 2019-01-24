@@ -1,0 +1,4 @@
+annot_eng	TODAY EVENING TRAINING ON-TIME 6-CLOCK START
+annot_deu	HEUTE ABEND TRAINING PÜNKTLICH 6-UHR ANFANGEN
+transl_eng	Tonight training starts punctually at 6pm.
+transl_deu	Heute Abend fängt das Training pünktlich um 18:00 Uhr an.

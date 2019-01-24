@@ -1,0 +1,4 @@
+annot_eng	THIS-time THURSDAY GRANDPA MY CHILDREN LOOK-after
+annot_deu	DIESEN-zeit DONNERSTAG OPA MEIN KINDER AUFPASSEN-auf
+transl_eng	This Thursday grandpa will look after my children.
+transl_deu	Diesen Donnerstag passt Opa auf meine Kinder auf.

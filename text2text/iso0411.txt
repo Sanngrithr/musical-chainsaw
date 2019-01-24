@@ -1,0 +1,2 @@
+annot_eng	TRAVEL|GO-ON-A-JOURNEY
+annot_deu	REISEN|VERREISEN

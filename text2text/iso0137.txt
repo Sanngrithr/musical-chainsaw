@@ -1,0 +1,2 @@
+annot_eng	WHAT|WHICH
+annot_deu	WAS|WELCHE

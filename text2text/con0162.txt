@@ -1,0 +1,4 @@
+annot_eng	CHILD X-right SNOW LIKE
+annot_deu	KIND X-rechts SCHNEE MÖGEN
+transl_eng	The child likes the snow.
+transl_deu	Das Kind mag den Schnee.

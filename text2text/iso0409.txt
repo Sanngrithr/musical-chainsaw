@@ -1,0 +1,2 @@
+annot_eng	SMOKE|CIGARETTES
+annot_deu	RAUCHEN|ZIGARETTEN

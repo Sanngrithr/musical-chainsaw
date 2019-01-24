@@ -1,0 +1,4 @@
+annot_eng	I FRIEND ALREADY ARRANGEMENT COMMON DANCE GO-to
+annot_deu	ICH FREUND SCHON VERABREDUNG GEMEINSAM TANZEN GEHEN-nach
+transl_eng	I have already arranged to go dancing with a friend.
+transl_deu	Ich bin schon mit einem Freund verabredet, gemeinsam tanzen zu gehen.

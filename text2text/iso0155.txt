@@ -1,0 +1,2 @@
+annot_eng	9|NINE
+annot_deu	NEUN

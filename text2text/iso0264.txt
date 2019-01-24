@@ -1,0 +1,2 @@
+annot_eng	PAIN
+annot_deu	SCHMERZEN

@@ -1,0 +1,4 @@
+annot_eng	I APPLES RED AND CHOCOLATE LOOK FOR
+annot_deu	ICH ÄPFEL ROT UND SCHOKOLADE SUCHEN
+transl_eng	I am looking for red apples and chocolate.
+transl_deu	Ich suche rote Äpfel und Schokolade.

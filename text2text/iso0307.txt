@@ -1,0 +1,2 @@
+annot_eng	FINAL|FINISH
+annot_deu	ABSCHLUSS|ABSCHLIESSEN

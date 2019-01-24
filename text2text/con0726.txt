@@ -1,0 +1,4 @@
+annot_eng	I FIRST WITH-what INTERPRETER APPOINTMENT AGREE MUST
+annot_deu	ICH ZUERST MIT-was DOLMETSCHER TERMIN VEREINBAREN MÜSSEN
+transl_eng	I have to make an appointment with the interpreter first.
+transl_deu	Ich muss zuerst einen Termin mit dem Dolmetscher vereinbaren.

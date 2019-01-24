@@ -1,0 +1,4 @@
+annot_eng	YOUR BROTHER X-right A-LOT-OF MOTORCYCLE+DRIVE
+annot_deu	DEIN BRUDER X-rechts VIEL MOTORRAD+FAHREN
+transl_eng	Your brother does a lot of motorcycling.
+transl_deu	Dein Bruder fährt viel Motorrad.

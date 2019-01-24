@@ -1,0 +1,4 @@
+annot_eng	TODAY YOU BUY WHAT MEAT FRESH AND BANANAS
+annot_deu	HEUTE DU KAUFEN WAS FLEISCH FRISCH UND BANANEN
+transl_eng	Today you will buy fresh meat and bananas.
+transl_deu	Heute kaufst du frisches Fleisch und Bananen.

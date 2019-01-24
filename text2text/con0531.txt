@@ -1,0 +1,4 @@
+annot_eng	YOU IN-THE-MORNING BATH-body HOW-LONG NEED YOU?
+annot_deu	DU MORGENS BADEN-körper WIE-LANG BRAUCHEN DU?
+transl_eng	How long does it take you to take a bath in the morning?
+transl_deu	Wie lange brauchst du morgens beim Baden?

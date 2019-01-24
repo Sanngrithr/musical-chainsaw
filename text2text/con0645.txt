@@ -1,0 +1,4 @@
+annot_eng	MY HOLIDAY NICE HAVE-BEEN I PHOTOGRAPH++ i-SHOW-you CAN
+annot_deu	MEIN URLAUB SCHÖN GEWESEN ICH FOTO++ ich-ZEIGEN-du KÖNNEN
+transl_eng	My holiday was great, I can show you some pictures.
+transl_deu	Mein Urlaub war schön, ich kann dir Fotos zeigen.

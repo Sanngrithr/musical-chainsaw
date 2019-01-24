@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU CLOTHING+WARDROBE you-FOR-i PAY
+annot_deu	BITTE DU KLEIDUNG+SCHRANK du-FÜR-ich BEZAHLEN
+transl_eng	Please pay for the wardrobe for me!
+transl_deu	Bitte bezahle den Kleiderschrank für mich!

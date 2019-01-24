@@ -1,0 +1,4 @@
+annot_eng	I neg-UNDERSTAND NOT WHY YOUR BOSS FURIOUS
+annot_deu	ICH neg-VERSTEHEN NICHT WARUM DEIN CHEF WÜTEND
+transl_eng	I do not understand why your boss is angry.
+transl_deu	Ich verstehe nicht, warum dein Chef wütend ist.

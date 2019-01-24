@@ -1,0 +1,4 @@
+annot_eng	SCHOOL+INDIVIDUALS X-right GLAD BECAUSE FINALLY SUMMER+HOLIDAY
+annot_deu	SCHULE+PERSONEN X-rechts FROH GRUND ENDLICH SOMMER+FERIEN
+transl_eng	The schoolchildren are happy to finally have summer holidays.
+transl_deu	Die Schüler sind froh, weil endlich Sommerferien sind.

@@ -1,0 +1,2 @@
+annot_eng	TABLE|SILL-window
+annot_deu	TISCH|BANK-fenster

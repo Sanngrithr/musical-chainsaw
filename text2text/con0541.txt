@@ -1,0 +1,4 @@
+annot_eng	MY HAIRDRESSER+INDIVIDUAL X-right RARELY PERFUME USE
+annot_deu	MEIN FRISEUR+PERSON X-rechts SELTEN PARFÜM BENUTZEN
+transl_eng	My hairdresser rarely uses perfume. 
+transl_deu	Mein Friseur benutzt selten Parfüm.

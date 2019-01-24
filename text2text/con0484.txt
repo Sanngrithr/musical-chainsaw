@@ -1,0 +1,4 @@
+annot_eng	YOUR BLOUSE CLOTHING HOW-LOOK?
+annot_deu	DEIN BLUSE KLEIDUNG WIE-AUSSEHEN?
+transl_eng	What does your blouse look like?
+transl_deu	Wie sieht deine Bluse aus?

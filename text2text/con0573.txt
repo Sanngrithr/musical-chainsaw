@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU YOUR APPLICATION+DOCUMENTS you-GIVE-i
+annot_deu	BITTE DU DEIN BEWERBUNG+UNTERLAGEN du-GEBEN-ich
+transl_eng	Please pass me your application documents!
+transl_deu	Bitte gib mir deine Bewerbungsunterlagen!

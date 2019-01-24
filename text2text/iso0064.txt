@@ -1,0 +1,2 @@
+annot_eng	COFFEE
+annot_deu	KAFFEE

@@ -1,0 +1,4 @@
+annot_eng	NEXT-time MONTH I DO-NOT-FEEL-LIKE WITH-what CLUB COMMON HIKE
+annot_deu	NÄCHSTEN-zeit MONAT ICH KEINE-LUST MIT-was VEREIN GEMEINSAM WANDERN
+transl_eng	I do not want to go hiking together with the club next month.
+transl_deu	Ich habe keine Lust, nächsten Monat gemeinsam mit dem Verein zu wandern.

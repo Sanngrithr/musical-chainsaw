@@ -1,0 +1,4 @@
+annot_eng	YOU JAM OR HONEY CHOOSE YOU?
+annot_deu	DU MARMELADE ODER HONIG AUSWÄHLEN DU?
+transl_eng	Do you choose jam or honey?
+transl_deu	Wählst du Marmelade oder Honig aus?

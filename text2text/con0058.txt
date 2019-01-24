@@ -1,0 +1,4 @@
+annot_eng	THIS-time WEDNESDAY RESTAURANT X-middle WAITER X-right he-COME-middle
+annot_deu	DIESEN-zeit MITTWOCH RESTAURANT X-mitte KELLNER X-rechts er-KOMMEN-mitte
+transl_eng	The waiter will come to the restaurant on Wednesday.
+transl_deu	Der Kellner kommt am Mittwoch ins Restaurant.

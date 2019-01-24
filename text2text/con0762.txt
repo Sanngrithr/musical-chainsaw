@@ -1,0 +1,4 @@
+annot_eng	EUROPE X-middle THERE-IS MANY FOOTBALL+CLUB FAMOUS
+annot_deu	EUROPA X-mitte ES-GIBT VIELE FUSSBALL+VEREIN BEKANNT
+transl_eng	There are a number of famous football clubs in Europe.
+transl_deu	In Europa gibt es viele bekannte Fussballvereine.

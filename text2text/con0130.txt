@@ -1,0 +1,4 @@
+annot_eng	THIS-time TUESDAY TEACHER X-right SIGN+LANGUAGE+BOOK BUY
+annot_deu	DIESEN-zeit DIENSTAG LEHRER X-rechts GEBÄRDEN+SPRACHE+BUCH KAUFEN
+transl_eng	The teacher will buy a book on sign language on Tuesday.
+transl_deu	Der Lehrer kauft am Dienstag ein Gebärdensprachbuch.

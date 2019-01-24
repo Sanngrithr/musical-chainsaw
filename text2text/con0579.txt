@@ -1,0 +1,4 @@
+annot_eng	WHEN FOOTBALL+TRAINING FINISHED I REGULARLY SHOWER
+annot_deu	WENN FUSSBALL+TRAINING FERTIG ICH REGELMÄSSIG DUSCHEN
+transl_eng	I always take a shower after football training.
+transl_deu	Nach dem Fussballtraining dusche ich regelmässig.

@@ -1,0 +1,2 @@
+annot_eng	8|EIGHT
+annot_deu	8|ACHT

@@ -1,0 +1,4 @@
+annot_eng	WAITER X-right he-SHOW-i TOILET WHERE
+annot_deu	KELLNER X-rechts er-ZEIGEN-ich TOILETTE WO
+transl_eng	The waiter is showing me the way to the toilet. 
+transl_deu	Der Kellner zeigt mir, wo die Toilette ist.

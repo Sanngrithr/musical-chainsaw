@@ -1,0 +1,2 @@
+annot_eng	BALCONY
+annot_deu	BALKON

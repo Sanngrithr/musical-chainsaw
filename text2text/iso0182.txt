@@ -1,0 +1,2 @@
+annot_eng	EGGS
+annot_deu	EIER

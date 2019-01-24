@@ -1,0 +1,2 @@
+annot_eng	GLAD|HAPPY
+annot_deu	FROH|FREUEN

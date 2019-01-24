@@ -1,0 +1,4 @@
+annot_eng	EXCELLENT+MARKET X-middle I DRIVE
+annot_deu	SUPER+MARKT X-mitte ICH FAHREN
+transl_eng	I am driving to the supermarket.
+transl_deu	Ich fahre zum Supermarkt.

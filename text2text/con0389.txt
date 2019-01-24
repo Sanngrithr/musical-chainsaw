@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU BUTCHER'S X-right SAUSAGE BUY BECAUSE TODAY BARBECUE
+annot_deu	BITTE DU METZGEREI X-rechts WURST KAUFEN GRUND HEUTE GRILLEN
+transl_eng	Please buy some sausages at the butcher's because we will barbecue today.
+transl_deu	Bitte kaufe Wurst in der Metzgerei, weil wir heute grillen!

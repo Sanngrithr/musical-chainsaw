@@ -1,0 +1,4 @@
+annot_eng	I UNFORTUNATELY SUMMER+PARTY COME-there CANNOT
+annot_deu	ICH LEIDER SOMMER+FEST KOMMEN-dahin NICHT-KÖNNEN
+transl_eng	I am afraid I cannot come to the summer party.
+transl_deu	Ich kann leider nicht zum Sommerfest kommen.

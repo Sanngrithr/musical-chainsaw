@@ -1,0 +1,4 @@
+annot_eng	I PARTICIPANT+LIST i-FOR-he CONFERENCE ALREADY FAX
+annot_deu	ICH TEILNEHMER+LISTE ich-FÜR-er KONFERENZ SCHON FAXEN
+transl_eng	I already sent the attendance list for the conference. 
+transl_deu	Ich habe schon die Teilnehmerliste für die Konferenz gefaxt.

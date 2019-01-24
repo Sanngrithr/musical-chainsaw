@@ -1,0 +1,4 @@
+annot_eng	I MANY POLITICS+INDIVIDUALS FAMOUS ALREADY MEET
+annot_deu	ICH VIELE POLITIK+PERSONEN BEKANNT SCHON TREFFEN
+transl_eng	I have already met a lot of famous politicians.
+transl_deu	Ich habe schon viele bekannte Politiker getroffen.

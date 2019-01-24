@@ -1,0 +1,4 @@
+annot_eng	NEWSPAPER X-middle BORING I READ NOT-WANT
+annot_deu	ZEITUNG X-mitte LANGWEILIG ICH LESEN NICHT-WOLLEN
+transl_eng	The newspaper is boring that is why I do not want to read it.
+transl_deu	Die Zeitung ist langweilig, daher will ich sie nicht lesen.

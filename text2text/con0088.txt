@@ -1,0 +1,4 @@
+annot_eng	YOU WASH+POWDER FIND YOU?
+annot_deu	DU WASCH+PULVER FINDEN DU?
+transl_eng	Did you find the washing powder?
+transl_deu	Hast du das Waschmittel gefunden?

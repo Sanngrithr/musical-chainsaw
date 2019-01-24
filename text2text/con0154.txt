@@ -1,0 +1,4 @@
+annot_eng	BOY X-right READ
+annot_deu	JUNGE X-rechts LESEN
+transl_eng	The boy is reading.
+transl_deu	Der Junge liest.

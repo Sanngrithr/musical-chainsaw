@@ -1,0 +1,4 @@
+annot_eng	SATURDAY EVENING CINEMA X-right START WHEN?
+annot_deu	SAMSTAG ABEND KINO X-rechts ANFANGEN WANN?
+transl_eng	When does the film start on Saturday night?
+transl_deu	Wann fängt am Samstag Abend das Kino an?

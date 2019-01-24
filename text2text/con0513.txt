@@ -1,0 +1,4 @@
+annot_eng	TODAY BORING I FEEL-LIKE COLOGNE COME-there
+annot_deu	HEUTE LANGWEILIG ICH LUST KÖLN KOMMEN-dahin
+transl_eng	I am bored today. I would like to go to Cologne.
+transl_deu	Heute ist es langweilig, ich habe Lust, nach Köln zu fahren.

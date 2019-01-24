@@ -1,0 +1,4 @@
+annot_eng	TOMORROW YOU FRIEND MEET YOU?
+annot_deu	MORGEN-nTag DU FREUND TREFFEN DU?
+transl_eng	Will you be meeting a friend tomorrow?
+transl_deu	Triffst du morgen einen Freund?

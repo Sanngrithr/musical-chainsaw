@@ -1,0 +1,2 @@
+annot_eng	i-SHOW-you
+annot_deu	ich-ZEIGEN-du

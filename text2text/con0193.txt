@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND X-right WRITE CAN
+annot_deu	MEIN FREUND X-rechts SCHREIBEN KÖNNEN
+transl_eng	My friend can write.
+transl_deu	Mein Freund kann schreiben.

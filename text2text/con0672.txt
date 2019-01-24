@@ -1,0 +1,4 @@
+annot_eng	I VIDEOPHONE X-right AT-you i-EXPLAIN-you UNFORTUNATELY CANNOT
+annot_deu	ICH BILDTELEFON X-rechts AUF-du ich-ERKLÄREN-du LEIDER NICHT-KÖNNEN
+transl_eng	I am afraid I cannot explain you how the videophone works.
+transl_deu	Ich kann dir leider nicht erklären, wie das Bildtelefon funktioniert.

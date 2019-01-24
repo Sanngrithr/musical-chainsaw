@@ -1,0 +1,4 @@
+annot_eng	THIS-time AUTUMN I ONE+FAMILY+HOUSE BUY WANT
+annot_deu	DIESEN-zeit HERBST ICH EIN+FAMILIE+HAUS KAUFEN WOLLEN
+transl_eng	In autumn I would like to buy a one-family dwelling.
+transl_deu	Im Herbst will ich ein Einfamilienhaus kaufen.

@@ -1,0 +1,4 @@
+annot_eng	TODAY I PARCEL X-middle TO POST i-TAKE-he CAN
+annot_deu	HEUTE ICH PAKET X-mitte NACH POST ich-BRINGEN-er KÖNNEN
+transl_eng	I can take the parcel to the post office today.
+transl_deu	Heute kann ich das Paket zur Post bringen.

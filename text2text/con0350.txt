@@ -1,0 +1,4 @@
+annot_eng	MY SON X-right UMBRELLA he-SHOW-i
+annot_deu	MEIN SOHN X-rechts SCHIRM er-ZEIGEN-ich
+transl_eng	My son is showing me an umbrella.
+transl_deu	Mein Sohn zeigt mir einen Schirm.

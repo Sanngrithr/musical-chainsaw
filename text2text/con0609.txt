@@ -1,0 +1,4 @@
+annot_eng	MAYBE YOU YOUR APPLICATION+DOCUMENTS FAX CAN?
+annot_deu	VIELLEICHT DU DEIN BEWERBUNG+UNTERLAGEN FAXEN KÖNNEN?
+transl_eng	Maybe you can fax your application documents?
+transl_deu	Vielleicht kannst du deine Bewerbungsunterlagen faxen?

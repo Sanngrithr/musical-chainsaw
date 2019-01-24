@@ -1,0 +1,4 @@
+annot_eng	I ALLOW AT-you YOUR SON LANGUAGE+THERAPY DO
+annot_deu	ICH ERLAUBEN AUF-du DEIN SOHN SPRACHE+THERAPIE MACHEN
+transl_eng	I allow your son to take a speech therapy.
+transl_deu	Ich erlaube deinem Sohn, eine Sprachtherapie zu machen .

@@ -1,0 +1,4 @@
+annot_eng	NEXT-time MONTH I AMERICA FLY-left X-left TENNIS+TOURNAMENT LOOK
+annot_deu	NÄCHSTEN-zeit MONAT ICH AMERIKA FLIEGEN-links X-links TENNIS+TURNIER SCHAUEN
+transl_eng	I will be flying to America next month in order to see a tennis tournament.
+transl_deu	Nächsten Monat fliege ich nach Amerika, um mir ein Tennisturnier anzuschauen.

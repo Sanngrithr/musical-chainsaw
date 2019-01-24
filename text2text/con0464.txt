@@ -1,0 +1,4 @@
+annot_eng	MY SON SMALL-person X-right AFFRAID WHAT DARK SLEEP
+annot_deu	MEIN SOHN KLEIN-person X-rechts ANGST WAS DUNKEL SCHLAFEN
+transl_eng	My little son is afraid of sleeping in the dark.
+transl_deu	Mein kleiner Sohn hat Angst, im Dunkeln zu schlafen.

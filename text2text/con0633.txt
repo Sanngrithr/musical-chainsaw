@@ -1,0 +1,4 @@
+annot_eng	THE-DAY-BEFORE-YESTERDAY MY FOOTBALL+BALL-round i-GIVE-you PLEASE TODAY BACK
+annot_deu	VORGESTERN MEIN FUSSBALL+BALL-kugel ich-GEBEN-du BITTE HEUTE ZURÜCK
+transl_eng	I gave you my football the day before yesterday, please hand it back today!
+transl_deu	Vorgestern habe ich dir meinen Fussball gegeben, gib ihn mir bitte heute zurück!

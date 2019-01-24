@@ -1,0 +1,4 @@
+annot_eng	LEISURE-TIME I WITH-what FAMILY HOLLAND DRIVE X-middle SEA SWIM
+annot_deu	FREIZEIT ICH MIT-was FAMILIE HOLLAND FAHREN X-mitte MEER SCHWIMMEN
+transl_eng	In my leisure time I take my family to Holland to go swimming in the sea.
+transl_deu	In der Freizeit fahre ich mit meiner Familie nach Holland im Meer schwimmen.

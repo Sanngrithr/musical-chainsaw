@@ -1,0 +1,4 @@
+annot_eng	THIS-time THURSDAY I COLOGNE COME-there PEOPLE TAKE-A-PICTURE
+annot_deu	DIESEN-zeit DONNERSTAG ICH KÖLN KOMMEN-dahin MENSCHEN FOTOGRAFIEREN
+transl_eng	On Thursday I will go to Cologne to take some pictures of people. 
+transl_deu	Am Donnerstag fahre ich nach Köln, um Menschen zu fotografieren.

@@ -1,0 +1,4 @@
+annot_eng	WE-all APPLES RED SEE
+annot_deu	WIR-alle ÄPFEL ROT SEHEN
+transl_eng	We are seeing red apples.
+transl_deu	Wir sehen rote Äpfel.

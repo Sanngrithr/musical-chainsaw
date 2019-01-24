@@ -1,0 +1,4 @@
+annot_eng	CITY+CENTRE X-left GUIDED-TOUR INTERESTING
+annot_deu	STADT+ZENTRUM X-links FÜHRUNG INTERESSANT
+transl_eng	The guided tour through the city centre is interesting.
+transl_deu	Die Führung durch das Stadtzentrum ist interessant.

@@ -1,0 +1,2 @@
+annot_eng	he-ANSWER-i
+annot_deu	er-ANTWORTEN-ich

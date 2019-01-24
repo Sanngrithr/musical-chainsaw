@@ -1,0 +1,4 @@
+annot_eng	I PROPOSE YOU PREFERRED TELEVISION WITH-what REMOTE-CONTROL BUY
+annot_deu	ICH VORSCHLAGEN DU LIEBER FERNSEHER MIT-was FERNBEDIENUNG KAUFEN
+transl_eng	I suggest you better buy a television with a remote control.
+transl_deu	Ich schlage vor, du kaufst lieber einen Fernseher mit Fernbedienung.

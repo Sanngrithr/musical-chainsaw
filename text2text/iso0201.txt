@@ -1,0 +1,2 @@
+annot_eng	EARLY|IN-THE-MORNING
+annot_deu	FRÜH|MORGENS

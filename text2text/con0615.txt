@@ -1,0 +1,4 @@
+annot_eng	WHEN I TRAINING FINISHED THEN I FIRST AMERICA FLY-left
+annot_deu	WENN ICH AUSBILDUNG FERTIG DANN ICH ZUERST AMERIKA FLIEGEN-links
+transl_eng	As soon as I will have finished the vocational training I will fly to America.
+transl_deu	Wenn ich die Ausbildung beendet habe, fliege ich zuerst nach Amerika.

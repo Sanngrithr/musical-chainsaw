@@ -1,0 +1,2 @@
+annot_eng	WATER
+annot_deu	WASSER

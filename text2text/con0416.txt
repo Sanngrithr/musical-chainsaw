@@ -1,0 +1,4 @@
+annot_eng	MY BALCONY X-right SUN+UMBRELLA NO
+annot_deu	MEIN BALKON X-rechts SONNE+SCHIRM KEIN
+transl_eng	There is no umbrella on my balcony.
+transl_deu	Auf meinem Balkon steht kein Regenschirm.

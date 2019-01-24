@@ -1,0 +1,2 @@
+annot_eng	MOTHER
+annot_deu	MUTTER

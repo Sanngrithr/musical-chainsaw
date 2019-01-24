@@ -1,0 +1,4 @@
+annot_eng	LUNCHTIME+BREAK I TRAVEL+OFFICE COME-there BECAUSE HOLIDAY PLAN
+annot_deu	MITTAG+PAUSE ICH REISEN+BÜRO KOMMEN-dahin GRUND URLAUB PLANEN
+transl_eng	I will go to the travel agency during lunch break in order to plan the holiday.
+transl_deu	In der Mittagspause gehe ich ins Reisebüro, um den Urlaub zu planen.

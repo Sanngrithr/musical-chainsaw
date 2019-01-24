@@ -1,0 +1,2 @@
+annot_eng	FAMOUS
+annot_deu	BEKANNT

@@ -1,0 +1,4 @@
+annot_eng	EARLIER I IN COLOGNE FIVE+FAMILY+HOUSE LIVE
+annot_deu	FRÜHER ICH IM KÖLN FÜNF+FAMILIE+HAUS WOHNEN
+transl_eng	I used to live in a five-family dwelling in Cologne back then.
+transl_deu	Früher wohnte ich in Köln in einem Fünffamilienhaus.

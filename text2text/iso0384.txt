@@ -1,0 +1,2 @@
+annot_eng	SALARY
+annot_deu	LOHN

@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY I WASH+POWDER NEED
+annot_deu	GESTERN ICH WASCH+PULVER BRAUCHEN
+transl_eng	I needed washing powder yesterday.
+transl_deu	Gestern brauchte ich Waschmittel.

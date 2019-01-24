@@ -1,0 +1,4 @@
+annot_eng	YOUR MOTHER HUNGER THERE-you
+annot_deu	DEIN MUTTER HUNGER DA-du
+transl_eng	Your mother is hungry.
+transl_deu	Deine Mutter hat Hunger.

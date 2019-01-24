@@ -1,0 +1,4 @@
+annot_eng	POLICE+INDIVIDUAL X-right MOTORCYCLE+DRIVE
+annot_deu	POLIZEI+PERSON X-rechts MOTORRAD+FAHREN
+transl_eng	The policeman is riding his motorcycle.
+transl_deu	Der Polizist fährt Motorrad.

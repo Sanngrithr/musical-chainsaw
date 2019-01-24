@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU FIRST FOOTBALL+BALL-round you-GIVE-i
+annot_deu	BITTE DU ZUERST FUSSBALL+BALL-kugel du-GEBEN-ich
+transl_eng	Please pass me the football first!
+transl_deu	Bitte gib mir zuerst den Fussball!

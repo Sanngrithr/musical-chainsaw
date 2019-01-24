@@ -1,0 +1,2 @@
+annot_eng	MONTH
+annot_deu	MONAT

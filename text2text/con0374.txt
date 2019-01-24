@@ -1,0 +1,4 @@
+annot_eng	ALL PEOPLE HAPPY BECAUSE WEATHER NICE LITTLE CLOUDS
+annot_deu	ALLE MENSCHEN FREUEN GRUND WETTER SCHÖN WENIG WOLKEN
+transl_eng	All people are happy about the nice weather as it is almost cloudless.
+transl_deu	Alle Menschen erfreuen sich am schönen Wetter, denn es ist nahezu wolkenlos.

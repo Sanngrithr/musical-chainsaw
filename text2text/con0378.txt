@@ -1,0 +1,4 @@
+annot_eng	MY GRANDMA AACHEN BORN COLOGNE X-right DIED
+annot_deu	MEIN OMA AACHEN GEBOREN KÖLN X-rechts GESTORBEN
+transl_eng	My grandma was born in Aachen and died in Cologne.
+transl_deu	Meine Oma ist in Aachen geboren und in Köln gestorben.

@@ -1,0 +1,2 @@
+annot_eng	PROBLEM-i|SICKNESS|SICK
+annot_deu	PROBLEM-ich|KRANKHEIT|KRANK

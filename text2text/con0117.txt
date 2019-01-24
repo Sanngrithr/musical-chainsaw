@@ -1,0 +1,4 @@
+annot_eng	YOU SALAD FRESH BUY
+annot_deu	DU SALAT FRISCH KAUFEN
+transl_eng	You are buying fresh lettuce.
+transl_deu	Du kaufst frischen Salat.

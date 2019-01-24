@@ -1,0 +1,2 @@
+annot_eng	ALLOW
+annot_deu	ERLAUBEN

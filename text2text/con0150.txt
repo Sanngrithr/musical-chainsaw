@@ -1,0 +1,4 @@
+annot_eng	YOUR FRIEND X-right SIGN+LANGUAGE LEARN
+annot_deu	DEIN FREUND X-rechts GEBÄRDEN+SPRACHE LERNEN
+transl_eng	Your friend is learning sign language.
+transl_deu	Dein Freund lernt die Gebärdensprache.

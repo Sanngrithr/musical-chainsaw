@@ -1,0 +1,2 @@
+annot_eng	NEIGHBOUR
+annot_deu	NACHBAR

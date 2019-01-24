@@ -1,0 +1,4 @@
+annot_eng	YOU PREFERRED SHOWER OR BATH-body LIKE YOU?
+annot_deu	DU LIEBER DUSCHEN ODER BADEN-körper MÖGEN DU?
+transl_eng	What do you prefer, to take a shower or to have a bath?
+transl_deu	Magst du lieber duschen oder baden?

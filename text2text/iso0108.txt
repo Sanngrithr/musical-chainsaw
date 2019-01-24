@@ -1,0 +1,2 @@
+annot_eng	BAD|MAY
+annot_deu	SCHLECHT|DÜRFEN

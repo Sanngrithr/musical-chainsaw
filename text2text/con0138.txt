@@ -1,0 +1,4 @@
+annot_eng	RAIN SNOW COME-here WHEN?
+annot_deu	REGEN SCHNEE KOMMEN-hier WANN?
+transl_eng	When will it start snowing?
+transl_deu	Wann fängt es an zu schneien?

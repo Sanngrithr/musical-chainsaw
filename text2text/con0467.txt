@@ -1,0 +1,4 @@
+annot_eng	EASTER HOT HAVE-BEEN BECAUSE A-LOT-OF SUN
+annot_deu	OSTERN HEISS GEWESEN GRUND VIEL SONNE
+transl_eng	It was hot at Easter because the sun was shining long.
+transl_deu	Ostern war es heiss, weil die Sonne lange schien.

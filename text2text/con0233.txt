@@ -1,0 +1,4 @@
+annot_eng	SELL+INDIVIDUAL X-middle WHERE?
+annot_deu	VERKAUFEN+PERSON X-mitte WO?
+transl_eng	Where is the salesman?
+transl_deu	Wo ist der Verkäufer?

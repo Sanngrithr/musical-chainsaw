@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND X-right MAYBE FOOTBALL+BALL-round he-LEND-i
+annot_deu	MEIN FREUND X-rechts VIELLEICHT FUSSBALL+BALL-kugel er-LEIHEN-ich
+transl_eng	My friend might lend me a football.
+transl_deu	Mein Freund leiht mir vielleicht einen Fussball.

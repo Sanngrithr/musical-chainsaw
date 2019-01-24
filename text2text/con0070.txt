@@ -1,0 +1,4 @@
+annot_eng	WOMAN+TILL+INDIVIDUAL X-right BISCUITS EAT
+annot_deu	FRAU+KASSE+PERSON X-rechts KEKSE ESSEN
+transl_eng	The till girl is eating biscuits.
+transl_deu	Die Kassiererin isst Kekse.

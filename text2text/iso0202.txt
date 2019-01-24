@@ -1,0 +1,2 @@
+annot_eng	FOOD
+annot_deu	FUTTER

@@ -1,0 +1,4 @@
+annot_eng	FARMER X-right FURIOUS BECAUSE LAST-time NIGHT TEN HORSE STEAL
+annot_deu	BAUER X-rechts WÜTEND GRUND LETZTEN-zeit NACHT ZEHN PFERD STEHLEN
+transl_eng	The farmer is furious because ten of his horses were stolen last night.
+transl_deu	Der Bauer ist wütend, weil ihm in der letzten Nacht zehn Pferde gestohlen wurden.

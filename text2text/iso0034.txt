@@ -1,0 +1,2 @@
+annot_eng	he-COME-middle
+annot_deu	er-KOMMEN-mitte

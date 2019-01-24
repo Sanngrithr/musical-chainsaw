@@ -1,0 +1,4 @@
+annot_eng	DOCTOR+SPACE X-middle DOG NOT neg-ALLOW
+annot_deu	ARZT+RAUM X-mitte HUND NICHT neg-ERLAUBEN
+transl_eng	Dogs are not allowed in the doctor's surgery .
+transl_deu	In der Arztpraxis sind keine Hunde erlaubt.

@@ -1,0 +1,4 @@
+annot_eng	BOSS X-right COME-here HOW-MUCH CLOCK?
+annot_deu	CHEF X-rechts KOMMEN-hier WIEVIEL UHR?
+transl_eng	What time does the boss arrive?
+transl_deu	Um wieviel Uhr kommt der Chef?

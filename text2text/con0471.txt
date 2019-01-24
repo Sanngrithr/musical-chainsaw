@@ -1,0 +1,4 @@
+annot_eng	MY SISTER X-right BOWL OLD COLLECT
+annot_deu	MEIN SCHWESTER X-rechts SCHÜSSEL ALT SAMMELN
+transl_eng	My sister collects old bowls.
+transl_deu	Meine Schwester sammelt alte Schüsseln.

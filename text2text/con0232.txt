@@ -1,0 +1,4 @@
+annot_eng	I WASH+POWDER FORGET
+annot_deu	ICH WASCH+PULVER VERGESSEN
+transl_eng	I forgot the washing powder.
+transl_deu	Ich habe das Waschmittel vergessen.

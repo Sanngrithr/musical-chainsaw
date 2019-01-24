@@ -1,0 +1,2 @@
+annot_eng	AGAIN|ONCE-AGAIN
+annot_deu	WIEDER|NOCH-EINMAL

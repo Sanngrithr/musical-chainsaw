@@ -1,0 +1,4 @@
+annot_eng	TODAY REMOTE-CONTROL NEW X-middle I AT-you i-EXPLAIN-you HOW
+annot_deu	HEUTE FERNBEDIENUNG NEU X-mitte ICH AUF-du ich-ERKLÄREN-du WIE
+transl_eng	Today I will explain you how to handle the new remote control.
+transl_deu	Ich erkläre dir heute, wie die neue Fernbedienung funktioniert.

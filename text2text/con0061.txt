@@ -1,0 +1,4 @@
+annot_eng	THIS-time FRIDAY CENTRE X-middle STUDENT DEAF X-right he-COME-middle
+annot_deu	DIESEN-zeit FREITAG ZENTRUM X-mitte STUDENT GEHÖRLOS X-rechts er-KOMMEN-mitte
+transl_eng	The deaf student will come to the centre on Friday.
+transl_deu	Der gehörlose Student kommt am Freitag ins Zentrum.

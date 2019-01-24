@@ -1,0 +1,2 @@
+annot_eng	DELAY|LATE
+annot_deu	VERSPÄTUNG|SPÄT

@@ -1,0 +1,4 @@
+annot_eng	GIRL X-right he-ASK-i
+annot_deu	MÄDCHEN X-rechts er-FRAGEN-ich
+transl_eng	The girl is asking me.
+transl_deu	Das Mädchen fragt mich.

@@ -1,0 +1,4 @@
+annot_eng	YOUR TELEVISION BROKEN I FIX CANNOT
+annot_deu	DEIN FERNSEHER KAPUTT ICH REPARIEREN NICHT-KÖNNEN
+transl_eng	I cannot fix your broken television.
+transl_deu	Ich kann deinen kaputten Fernseher nicht reparieren.

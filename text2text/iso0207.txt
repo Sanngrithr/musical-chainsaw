@@ -1,0 +1,2 @@
+annot_eng	COMFORTABLE
+annot_deu	GEMÜTLICH

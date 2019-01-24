@@ -1,0 +1,4 @@
+annot_eng	WHEN AFTER-WORK I REGULARLY SWIM COME-to
+annot_deu	WENN FEIERABEND ICH REGELMÄSSIG SCHWIMMEN KOMMEN-nach
+transl_eng	I go swimming regularly after work.
+transl_deu	Wenn ich Feierabend habe, gehe ich regelmässig schwimmen.

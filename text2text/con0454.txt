@@ -1,0 +1,4 @@
+annot_eng	EARLIER MY SON SMALL-person SLEEP NOT-WANT
+annot_deu	FRÜHER MEIN SOHN KLEIN-person SCHLAFEN NICHT-WOLLEN
+transl_eng	My little son did not want to sleep back then.
+transl_deu	Früher wollte mein kleiner Sohn nicht schlafen.

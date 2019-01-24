@@ -1,0 +1,4 @@
+annot_eng	MY SON PROFESSION+TRAINING SOON FINISH
+annot_deu	MEIN SOHN BERUF+AUSBILDUNG BALD ABSCHLIESSEN
+transl_eng	My son will soon complete his vocational training.
+transl_deu	Mein Sohn schliesst bald die Berufsausbildung ab.

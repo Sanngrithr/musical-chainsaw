@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND X-right TRY MUST
+annot_deu	MEIN FREUND X-rechts PROBIEREN MÜSSEN
+transl_eng	My friend has to try.
+transl_deu	Mein Freund muss probieren.

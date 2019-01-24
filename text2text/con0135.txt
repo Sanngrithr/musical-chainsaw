@@ -1,0 +1,4 @@
+annot_eng	I COOK WHAT MEAT AND SAUSAGE
+annot_deu	ICH KOCHEN WAS FLEISCH UND WURST
+transl_eng	I am cooking meat and sausages.
+transl_deu	Ich koche Fleisch und Wurst.

@@ -1,0 +1,4 @@
+annot_eng	TODAY GRANDMA X-right THERE-IS WHAT VEGETABLES+SOUP DELICIOUS
+annot_deu	HEUTE OMA X-rechts ES-GIBT WAS GEMÜSE+SUPPE LECKER
+transl_eng	We will get a delicious vegetable soup at grandma's house today. 
+transl_deu	Bei der Oma gibt es heute eine leckere Gemüsesuppe.

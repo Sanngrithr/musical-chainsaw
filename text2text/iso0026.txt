@@ -1,0 +1,2 @@
+annot_eng	THIS-right|X-right
+annot_deu	X-rechts

@@ -1,0 +1,4 @@
+annot_eng	FARMER X-right DOG+BASKET he-SHOW-i
+annot_deu	BAUER X-rechts HUND+KORB er-ZEIGEN-ich
+transl_eng	The farmer is showing me a dog basket.
+transl_deu	Der Bauer zeigt mir einen Hundekorb.

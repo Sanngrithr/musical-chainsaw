@@ -1,0 +1,4 @@
+annot_eng	THIS-time EASTER MY HUSBAND X-right BOWL he-PRESENT-i
+annot_deu	DIESEN-zeit OSTERN MEIN EHEMANN X-rechts SCHÜSSEL er-SCHENKEN-ich
+transl_eng	For Easter my husband will give me a bowl as a present.
+transl_deu	Zu Ostern schenkt mir mein Ehemann eine Schüssel.

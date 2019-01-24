@@ -1,0 +1,4 @@
+annot_eng	WHEN TENNIS+TRAINING FINISH THEN I HOME MUST
+annot_deu	WENN TENNIS+TRAINING SCHLUSS DANN ICH NACH-HAUSE MÜSSEN
+transl_eng	I have to go home after the tennis training.
+transl_deu	Nach dem Tennistraining muss ich nach Hause.

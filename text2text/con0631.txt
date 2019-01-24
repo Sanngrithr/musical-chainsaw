@@ -1,0 +1,4 @@
+annot_eng	YESTERDAY MY WECKER-licht i-GIVE-you PLEASE TODAY BACK
+annot_deu	GESTERN MEIN WECKER-licht ich-GEBEN-du BITTE HEUTE ZURÜCK
+transl_eng	I gave you my alarm clock with flashlight yesterday, please hand it back today.
+transl_deu	Gestern habe ich dir meinen Blitzlicht-Wecker gegeben, gib ihn mir heute bitte zurück!

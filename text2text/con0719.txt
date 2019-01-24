@@ -1,0 +1,4 @@
+annot_eng	HERE PLACE UNDERGROUND SMOKE PROHIBITED
+annot_deu	HIER PLATZ U-BAHN RAUCHEN VERBOTEN
+transl_eng	Smoking is prohibited here in the underground!
+transl_deu	Hier in der U-Bahn ist das Rauchen verboten!

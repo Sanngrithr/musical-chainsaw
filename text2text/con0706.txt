@@ -1,0 +1,4 @@
+annot_eng	MY GRANDCHILD+CHILDREN X-middle SEA X-right SWIM LIKE
+annot_deu	MEIN ENKEL+KINDER X-mitte MEER X-rechts SCHWIMMEN MÖGEN
+transl_eng	My grandchildren like to go for a swim in the sea.
+transl_deu	Meine Enkelkinder mögen es, im Meer schwimmen.

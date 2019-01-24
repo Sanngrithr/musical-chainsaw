@@ -1,0 +1,4 @@
+annot_eng	MAN X-right PIZZA WARM ORDER
+annot_deu	MANN X-rechts PIZZA WARM BESTELLEN
+transl_eng	The man is ordering a warm pizza.
+transl_deu	Der Mann bestellt eine warme Pizza.

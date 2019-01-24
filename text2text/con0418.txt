@@ -1,0 +1,4 @@
+annot_eng	WE-both NOW FRESH AIR NEED
+annot_deu	WIR-beide JETZT FRISCH LUFT BRAUCHEN
+transl_eng	We need some fresh air now.
+transl_deu	Wir brauchen jetzt frische Luft.

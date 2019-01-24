@@ -1,0 +1,2 @@
+annot_eng	HAIRDRESSER
+annot_deu	FRISEUR

@@ -1,0 +1,4 @@
+annot_eng	KNOW YOU HOLLAND CAMPING+PLACE X-middle ADDRESSES WHAT?
+annot_deu	WISSEN DU HOLLAND CAMPING+PLATZ X-mitte ADRESSEN WAS?
+transl_eng	Do you know the address of the campsite in Holland?
+transl_deu	Kennst du die Adresse vom Campingplatz in Holland?

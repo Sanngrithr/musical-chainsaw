@@ -1,0 +1,2 @@
+annot_eng	PROHIBITED
+annot_deu	VERBOTEN

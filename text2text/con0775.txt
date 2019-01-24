@@ -1,0 +1,4 @@
+annot_eng	I STATION ON-TIME COME-there WANT BUT A-LOT-OF TRAFFIC THERE-you
+annot_deu	ICH BAHNHOF PÜNKTLICH KOMMEN-dahin WOLLEN ABER VIEL VERKEHR DA-du
+transl_eng	I intended to come to the station on time but there was a lot of traffic.
+transl_deu	Ich wollte pünktlich zum Bahnhof kommen, aber es war viel Verkehr.

@@ -1,0 +1,4 @@
+annot_eng	MY FAMILY GARDEN X-right COMFORTABLE BARBECUE
+annot_deu	MEIN FAMILIE GARTEN X-rechts GEMÜTLICH GRILLEN
+transl_eng	My family is barbecuing comfortably in the garden.
+transl_deu	Meine Familie grillt gemütlich im Garten.

@@ -1,0 +1,4 @@
+annot_eng	YOU UNDERSTAND BOY X-right PERFUME STEAL WHY?
+annot_deu	DU VERSTEHEN JUNGE X-rechts PARFÜM STEHLEN WARUM?
+transl_eng	Do you understand why the boy stole the perfume?
+transl_deu	Verstehst du, warum der Junge das Parfüm gestohlen hat?

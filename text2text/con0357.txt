@@ -1,0 +1,4 @@
+annot_eng	SHOP X-right JAM HONEY ICE-CREAM THERE-IS
+annot_deu	GESCHÄFT X-rechts MARMELADE HONIG EIS ES-GIBT
+transl_eng	They sell jam, honey, and ice cream in this shop.
+transl_deu	In diesem Geschäft gibt es Marmelade, Honig und Eis.

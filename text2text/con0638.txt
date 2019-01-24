@@ -1,0 +1,4 @@
+annot_eng	WHEN I AMERICA FLY-left POST+CARD-post I i-SEND-you
+annot_deu	WENN ICH AMERIKA FLIEGEN-links POST+KARTE-post ICH ich-SCHICKEN-du
+transl_eng	I will send you a postcard when I fly to America.
+transl_deu	Wenn ich nach Amerika fliege, schicke ich dir eine Postkarte.

@@ -1,0 +1,2 @@
+annot_eng	he-TELL-i
+annot_deu	er-ERZÄHLEN-ich

@@ -1,0 +1,4 @@
+annot_eng	MY BROTHER HEARING X-right SIGN+LANGUAGE LEARN
+annot_deu	MEIN BRUDER HÖREND X-rechts GEBÄRDEN+SPRACHE LERNEN
+transl_eng	My hearing brother is learning sign language.
+transl_deu	Mein hörender Bruder lernt die Gebärdensprache.

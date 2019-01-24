@@ -1,0 +1,2 @@
+annot_eng	MILK
+annot_deu	MILCH

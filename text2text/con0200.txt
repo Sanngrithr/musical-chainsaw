@@ -1,0 +1,4 @@
+annot_eng	APPLES RED I LOOK FOR
+annot_deu	ÄPFEL ROT ICH SUCHEN
+transl_eng	I am looking for red apples.
+transl_deu	Ich suche rote Äpfel.

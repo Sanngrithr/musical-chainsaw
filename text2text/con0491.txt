@@ -1,0 +1,4 @@
+annot_eng	YOUR PARENTS NOW COLOGNE OR HAMBURG LIVE?
+annot_deu	DEIN ELTERN JETZT KÖLN ODER HAMBURG WOHNEN?
+transl_eng	Do your parents live in Cologne or Hamburg now?
+transl_deu	Wohnen deine Eltern jetzt in Köln oder in Hamburg?

@@ -1,0 +1,4 @@
+annot_eng	WHEN I EUROPE GO-ON-A-JOURNEY STAFF+IDENTITY-CARD X-middle I NOT-NEED?
+annot_deu	WENN ICH EUROPA VERREISEN PERSON+AUSWEIS X-mitte ICH NICHT-BRAUCHEN?
+transl_eng	Do I not need a identity card when travelling through Europe?
+transl_deu	Brauche ich keinen Personalausweis, wenn ich in Europa verreise?

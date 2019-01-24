@@ -1,0 +1,4 @@
+annot_eng	MY COLLEAGUES MONTHLY AMERICA FLY-left++ X-left NEW PROJECT WORK
+annot_deu	MEIN KOLLEGEN MONATLICH AMERIKA FLIEGEN-links++ X-links NEU PROJEKT ARBEITEN
+transl_eng	My colleague flies to America every month in order to work on a new project.
+transl_deu	Mein Kollege fliegt jeden Monat nach Amerika, um an einem neuen Projekt zu arbeiten.

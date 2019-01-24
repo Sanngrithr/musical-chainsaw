@@ -1,0 +1,4 @@
+annot_eng	I FURIOUS BECAUSE TELEVISION X-right MANY FILM WITHOUT-sth SUBTITLE
+annot_deu	ICH WÜTEND GRUND FERNSEHER X-rechts VIELE FILM OHNE-was UNTERTITEL
+transl_eng	I am furious because there are many films without subtitles on television.
+transl_deu	Ich bin wütend, weil es im Fernsehen viele Filme ohne Untertitel gibt.

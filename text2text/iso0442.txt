@@ -1,0 +1,2 @@
+annot_eng	ALARM-CLOCK-flash
+annot_deu	WECKER-licht

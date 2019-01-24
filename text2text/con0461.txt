@@ -1,0 +1,4 @@
+annot_eng	YOU NOW SLEEP MUST
+annot_deu	DU JETZT SCHLAFEN MÜSSEN
+transl_eng	You have to sleep now.
+transl_deu	Du musst jetzt schlafen.

@@ -1,0 +1,4 @@
+annot_eng	IN HOUSE YOU BALL-round PLAY NOT-HAVE-TO
+annot_deu	IM HAUS DU BALL-kugel SPIELEN NICHT-SOLLEN
+transl_eng	You are not allowed to play ball inside the house.
+transl_deu	Im Haus sollst du nicht Ball spielen!

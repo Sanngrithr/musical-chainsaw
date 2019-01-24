@@ -1,0 +1,2 @@
+annot_eng	LITTLE
+annot_deu	WENIG

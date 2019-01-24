@@ -1,0 +1,2 @@
+annot_eng	i-OFFER-you|OFFER|TASK
+annot_deu	ich-ANBIETEN-du|ANGEBOT|AUFGABE

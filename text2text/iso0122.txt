@@ -1,0 +1,2 @@
+annot_eng	EXCELLENT
+annot_deu	SUPER

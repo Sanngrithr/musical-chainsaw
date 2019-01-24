@@ -1,0 +1,4 @@
+annot_eng	WE-all CHEESE+COUNTER LOOK FOR
+annot_deu	WIR-alle KÄSE+THEKE SUCHEN
+transl_eng	We are looking for the cheese counter.
+transl_deu	Wir suchen die Käsetheke.

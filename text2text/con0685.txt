@@ -1,0 +1,4 @@
+annot_eng	TODAY I WITH-what UNDERGROUND FIRM X-right COMMUTE BECAUSE MY CAR AGAIN BROKEN
+annot_deu	HEUTE ICH MIT-was U-BAHN FIRMA X-rechts PENDELN GRUND MEIN AUTO WIEDER KAPUTT
+transl_eng	Today I am commuting to the firm by underground because by car broke down again.
+transl_deu	Heute pendle ich mit der U-Bahn zur Firma, weil mein Auto wieder kaputt ist.

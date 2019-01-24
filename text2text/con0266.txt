@@ -1,0 +1,4 @@
+annot_eng	I YOUR SON SMALL-person AT-you LOOK-after I FEEL-LIKE LITTLE
+annot_deu	ICH DEIN SOHN KLEIN-person AUF-du AUFPASSEN-auf ICH LUST WENIG
+transl_eng	I am not keen on looking after your little son.
+transl_deu	Ich habe wenig Lust, auf deinen kleinen Sohn aufzupassen.

@@ -1,0 +1,4 @@
+annot_eng	MY GRANDCHILD REGULARLY DANCE+COURSE i-VISIT-you
+annot_deu	MEIN ENKEL REGELMÄSSIG TANZ+KURS ich-BESUCHEN-du
+transl_eng	My grandchild goes to dancing class regularly.
+transl_deu	Mein Enkel besucht regelmässig einen Tanzkurs.

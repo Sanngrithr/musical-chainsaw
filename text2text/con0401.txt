@@ -1,0 +1,4 @@
+annot_eng	NOW i-TELL-you WHY I HOSPITAL-to HAVE-BEEN
+annot_deu	JETZT ich-ERZÄHLEN-du WARUM ICH KRANKENHAUS-nach GEWESEN
+transl_eng	I will tell you now why I have been in hospital.
+transl_deu	Ich erzähle dir jetzt, warum ich im Krankenhaus gewesen bin.

@@ -1,0 +1,4 @@
+annot_eng	SCHOOL X-right SPORTS+HALL BIG-wide THERE-he
+annot_deu	SCHULE X-rechts SPORT+HALLE GROSS-breit DA-er
+transl_eng	The school has got a big sports hall.
+transl_deu	Die Schule hat eine grosse Sporthalle.

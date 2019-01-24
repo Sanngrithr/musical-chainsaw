@@ -1,0 +1,4 @@
+annot_eng	DOCTOR X-right RECOMMEND WHAT ALL FIVE-YEAR++ THERAPY DO
+annot_deu	ARZT X-rechts EMPFEHLEN WAS ALLE 5-JAHRE++ THERAPIE MACHEN
+transl_eng	The doctor recommends to take the therapy every five years.
+transl_deu	Der Arzt empfiehlt, alle fünf Jahre die Therapie zu machen.

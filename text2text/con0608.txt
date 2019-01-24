@@ -1,0 +1,4 @@
+annot_eng	LAST-time WEEK I YOUR FAX GET-sth
+annot_deu	LETZTEN-zeit WOCHE ICH DEIN FAX BEKOMMEN-was
+transl_eng	I got your fax last week.
+transl_deu	Letzte Woche habe ich dein Fax bekommen.

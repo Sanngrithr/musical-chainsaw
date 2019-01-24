@@ -1,0 +1,4 @@
+annot_eng	SECRETARY X-right REGULARLY LAPTOP USE
+annot_deu	SEKRETÄRIN X-rechts REGELMÄSSIG LAPTOP BENUTZEN
+transl_eng	The secretary uses the laptop regularly.
+transl_deu	Die Sekretärin benutzt regelmässig den Laptop.

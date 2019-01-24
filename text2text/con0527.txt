@@ -1,0 +1,4 @@
+annot_eng	EVERY-DAY I 6-CLOCK ON-TIME GET-UP MUST
+annot_deu	JEDEN-TAG ICH 6-UHR PÜNKTLICH AUFSTEHEN MÜSSEN
+transl_eng	I have to get up exactly at  6am every day.
+transl_deu	Ich muss jeden Tag pünktlich um 6:00 Uhr aufstehen.

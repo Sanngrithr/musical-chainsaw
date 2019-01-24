@@ -1,0 +1,4 @@
+annot_eng	I NOW HOME BECAUSE TOMORROW I 6-CLOCK GET-UP MUST
+annot_deu	ICH JETZT NACH-HAUSE GRUND MORGEN-nTag ICH 6-UHR AUFSTEHEN MÜSSEN
+transl_eng	I have to go home now because I have to get up at 6am tomorrow.
+transl_deu	Ich muss jetzt nach Hause, weil ich morgen um 6:00 Uhr aufstehen muss.

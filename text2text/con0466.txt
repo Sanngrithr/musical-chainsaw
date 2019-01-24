@@ -1,0 +1,4 @@
+annot_eng	ALL SUMMER HOT BECAUSE A-LOT-OF SUN
+annot_deu	ALLE SOMMER HEISS GRUND VIEL SONNE
+transl_eng	All summers are hot because the sun is shining long.
+transl_deu	Alle Sommer sind heiss, weil die Sonne lange scheint.

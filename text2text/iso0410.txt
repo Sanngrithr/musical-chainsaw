@@ -1,0 +1,2 @@
+annot_eng	REGULARLY
+annot_deu	REGELMÄSSIG

@@ -1,0 +1,4 @@
+annot_eng	I IN AACHEN COME-there BANK-money WHICH?
+annot_deu	ICH IM AACHEN KOMMEN-dahin BANK-geld WELCHE?
+transl_eng	Which bank shall I go to in Aachen?
+transl_deu	Zu welcher Bank in Aachen soll ich gehen?

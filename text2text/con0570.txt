@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU WECKER-licht you-GIVE-i
+annot_deu	BITTE DU WECKER-licht du-GEBEN-ich
+transl_eng	Please pass me the alarm clock with flashlight!
+transl_deu	Bitte gib mir den Blitzlicht-Wecker!

@@ -1,0 +1,4 @@
+annot_eng	CHRISTMAS+MARKET X-right MONDAY EVENING START
+annot_deu	WEIHNACHTEN+MARKT X-rechts MONTAG ABEND ANFANGEN
+transl_eng	The Christmas market will start on Monday night.
+transl_deu	Am Montag Abend fängt der Weihnachtsmarkt an.

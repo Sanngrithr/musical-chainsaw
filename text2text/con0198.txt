@@ -1,0 +1,4 @@
+annot_eng	PLAY+TOY-space X-middle NICE
+annot_deu	SPIELEN+ZEUG-raum X-mitte SCHÖN
+transl_eng	The toys are nice.
+transl_deu	Das Spielzeug ist schön.

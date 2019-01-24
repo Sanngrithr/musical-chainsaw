@@ -1,0 +1,4 @@
+annot_eng	SPORTS+CLUB X-right I MY WIFE MEET
+annot_deu	SPORT+VEREIN X-rechts ICH MEIN EHEFRAU KENNENLERNEN
+transl_eng	I met my wife in a sports club.
+transl_deu	Meine Ehefrau habe ich im Sportverein kennengelernt.

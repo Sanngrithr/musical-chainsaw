@@ -1,0 +1,4 @@
+annot_eng	FARMER X-right AT-i he-EXPLAIN-i WHY ANIMALS YOUNG+SMALL-object DIED
+annot_deu	BAUER X-rechts AUF-ich er-ERKLÄREN-ich WARUM TIERE JUNG+KLEIN-gegenstand GESTORBEN
+transl_eng	The farmer is explaining to me why the young little animals have died.
+transl_deu	Der Bauer erklärt mir, warum die jungen, kleinen Tiere gestorben sind.

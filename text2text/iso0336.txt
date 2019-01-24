@@ -1,0 +1,2 @@
+annot_eng	SHOWER|SHOWER
+annot_deu	DUSCHEN|DUSCHE

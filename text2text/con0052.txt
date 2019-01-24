@@ -1,0 +1,4 @@
+annot_eng	GIRL X-right he-HELP-i CAN
+annot_deu	MÄDCHEN X-rechts er-HELFEN-ich KÖNNEN
+transl_eng	The girl can help me.
+transl_deu	Das Mädchen kann mir helfen.

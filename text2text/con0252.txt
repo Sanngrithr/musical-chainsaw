@@ -1,0 +1,4 @@
+annot_eng	SHOES X-left CHEAP
+annot_deu	SCHUHE X-links BILLIG
+transl_eng	The shoes are cheap.
+transl_deu	Die Schuhe sind billig.

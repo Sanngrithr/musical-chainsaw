@@ -1,0 +1,2 @@
+annot_eng	BIRTHDAY
+annot_deu	GEBURTSTAG

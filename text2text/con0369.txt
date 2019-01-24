@@ -1,0 +1,4 @@
+annot_eng	THIS-time THURSDAY I GARDEN BIRD X-middle TAKE-A-PICTURE
+annot_deu	DIESEN-zeit DONNERSTAG ICH GARTEN VOGEL X-mitte FOTOGRAFIEREN
+transl_eng	On Thursday I took a picture of the bird in the garden.
+transl_deu	Am Donnerstag fotografierte ich den Vogel im Garten.

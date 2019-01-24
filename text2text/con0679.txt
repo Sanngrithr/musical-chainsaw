@@ -1,0 +1,4 @@
+annot_eng	TODAY WE-all JOG NOT-MUST BECAUSE OUTSIDE RAIN STRONG-much
+annot_deu	HEUTE WIR-alle JOGGEN NICHT-MÜSSEN GRUND DRAUSSEN REGEN STARK-viel
+transl_eng	We do not have to go jogging today as it is raining heavily.
+transl_deu	Heute müssen wir nicht joggen, weil es draussen stark regnet.

@@ -1,0 +1,2 @@
+annot_eng	LETTER|CARD-post
+annot_deu	BRIEF|KARTE-post

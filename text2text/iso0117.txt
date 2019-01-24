@@ -1,0 +1,2 @@
+annot_eng	PLAY|THEATRE
+annot_deu	SPIELEN|THEATER

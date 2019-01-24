@@ -1,0 +1,2 @@
+annot_eng	GIRL
+annot_deu	MÄDCHEN

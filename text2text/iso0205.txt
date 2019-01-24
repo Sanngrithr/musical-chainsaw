@@ -1,0 +1,2 @@
+annot_eng	MONEY
+annot_deu	GELD

@@ -1,0 +1,4 @@
+annot_eng	CITIZENS+MASTER X-right AGAIN CITY+PARTY PLAN
+annot_deu	BÜRGER+MEISTER X-rechts WIEDER STADT+FEST PLANEN
+transl_eng	The mayor is planning a city festival again.
+transl_deu	Der Bürgermeister plant wieder ein Stadtfest.

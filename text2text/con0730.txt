@@ -1,0 +1,4 @@
+annot_eng	TODAY INTERPRETER DELAY COME-here BECAUSE TRAIN MISS
+annot_deu	HEUTE DOLMETSCHER VERSPÄTUNG KOMMEN-hier GRUND ZUG VERPASSEN
+transl_eng	The interpreter was late today because he missed the train.
+transl_deu	Der Dolmetscher ist heute verspätet gekommen, weil er den Zug verpasst hat.

@@ -1,0 +1,4 @@
+annot_eng	BOY X-right he-ANSWER-i
+annot_deu	JUNGE X-rechts er-ANTWORTEN-ich
+transl_eng	The boy is answering me.
+transl_deu	Der Junge antwortet mir.

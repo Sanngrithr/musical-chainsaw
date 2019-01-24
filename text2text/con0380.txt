@@ -1,0 +1,4 @@
+annot_eng	BUTCHER'S+INDIVIDUAL X-right HAMBURG BORN NOW AACHEN LIVE
+annot_deu	METZGEREI+PERSON X-rechts HAMBURG GEBOREN JETZT AACHEN WOHNEN
+transl_eng	The butcher was born in Hamburg and is now living in Aachen.
+transl_deu	Der Metzger ist in Hamburg geboren und wohnt jetzt in Aachen.

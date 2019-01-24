@@ -1,0 +1,4 @@
+annot_eng	JUDGE X-right ENGINE+BOAT BIG-wide THERE-he
+annot_deu	RICHTER X-rechts MOTOR+BOOT GROSS-breit DA-er
+transl_eng	The judge has got a big motorboat.
+transl_deu	Der Richter hat ein grosses Motorboot.

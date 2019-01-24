@@ -1,0 +1,4 @@
+annot_eng	YOUR BROTHER HUNGER THERE-you
+annot_deu	DEIN BRUDER HUNGER DA-du
+transl_eng	Your brother is hungry.
+transl_deu	Dein Bruder hat Hunger.

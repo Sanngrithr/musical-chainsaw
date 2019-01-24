@@ -1,0 +1,4 @@
+annot_eng	YOUR NEPHEW PROFESSION+SCHOOL FINALLY FINISH WHEN?
+annot_deu	DEIN NEFFE BERUF+SCHULE ENDLICH ABSCHLIESSEN WANN?
+transl_eng	When will your nephew finally complete vocational school?
+transl_deu	Wann schliesst dein Neffe endlich die Berufsschule ab?

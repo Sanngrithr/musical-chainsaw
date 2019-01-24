@@ -1,0 +1,4 @@
+annot_eng	YOU COMPUTER FIND YOU?
+annot_deu	DU COMPUTER FINDEN DU?
+transl_eng	Did you find the computer?
+transl_deu	Hast du den Computer gefunden?

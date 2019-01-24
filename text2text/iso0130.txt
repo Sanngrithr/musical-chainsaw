@@ -1,0 +1,2 @@
+annot_eng	AND
+annot_deu	UND

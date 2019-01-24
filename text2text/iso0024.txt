@@ -1,0 +1,2 @@
+annot_eng	THIS-left|X-left
+annot_deu	X-links

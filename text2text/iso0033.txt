@@ -1,0 +1,2 @@
+annot_eng	he-HELP-i
+annot_deu	er-HELFEN-ich

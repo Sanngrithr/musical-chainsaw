@@ -1,0 +1,4 @@
+annot_eng	I MYSELF-i FLAT TIDY-UP BECAUSE CLEAN-floor+WOMAN SICK
+annot_deu	ICH SELBST-ich WOHNUNG AUFRÄUMEN GRUND PUTZEN-boden+FRAU KRANK
+transl_eng	I am tidying up the flat myself because the cleaning lady is sick.
+transl_deu	Ich räume die Wohnung selbst auf, weil die Putzfrau krank ist.

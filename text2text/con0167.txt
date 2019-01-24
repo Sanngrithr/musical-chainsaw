@@ -1,0 +1,4 @@
+annot_eng	COKE AND CHOCOLATE LIKE WHO?
+annot_deu	COLA UND SCHOKOLADE MÖGEN WER?
+transl_eng	Who likes coke and chocolate?
+transl_deu	Wer mag Cola und Schokolade?

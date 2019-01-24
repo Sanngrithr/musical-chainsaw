@@ -1,0 +1,4 @@
+annot_eng	YOU-all you-HELP-i?
+annot_deu	IHR-alle du-HELFEN-ich?
+transl_eng	Can you help me?
+transl_deu	Helft ihr mir?

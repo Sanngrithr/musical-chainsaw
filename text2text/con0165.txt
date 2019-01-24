@@ -1,0 +1,4 @@
+annot_eng	I WINE AND BEER neg-LIKE
+annot_deu	ICH WEIN UND BIER neg-MÖGEN
+transl_eng	I like neither wine nor beer.
+transl_deu	Ich mag keinen Wein und kein Bier.

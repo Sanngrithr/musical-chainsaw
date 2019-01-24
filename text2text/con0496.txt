@@ -1,0 +1,4 @@
+annot_eng	YOU EGGS WITH-what SALT PEPPER WANT YOU?
+annot_deu	DU EIER MIT-was SALZ PFEFFER WOLLEN DU?
+transl_eng	Would you like some eggs with salt and pepper?
+transl_deu	Willst du Eier mit Salz und Pfeffer?

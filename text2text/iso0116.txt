@@ -1,0 +1,2 @@
+annot_eng	SPARKLING-WINE
+annot_deu	SEKT

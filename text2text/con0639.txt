@@ -1,0 +1,4 @@
+annot_eng	I RENT+CONTRACT FIRST READ THEN I i-SEND-you AT-you
+annot_deu	ICH MIETE+VERTRAG ZUERST LESEN DANN ICH ich-SCHICKEN-du AUF-du
+transl_eng	I will read the rental agreement first and send it to you afterwards.
+transl_deu	Zuerst lese ich den Mietvertrag und dann schicke ich ihn dir.

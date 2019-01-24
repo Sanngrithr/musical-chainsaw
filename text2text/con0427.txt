@@ -1,0 +1,4 @@
+annot_eng	YOU MY SHIRT SEW WHEN?
+annot_deu	DU MEIN HEMD NÄHEN WANN?
+transl_eng	When will you mend my shirt?
+transl_deu	Wann nähst du mein Hemd?

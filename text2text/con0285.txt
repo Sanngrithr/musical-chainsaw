@@ -1,0 +1,4 @@
+annot_eng	PARENTS you-FOR-i GLASSES-eyes NEW PAY
+annot_deu	ELTERN du-FÜR-ich BRILLE NEU BEZAHLEN
+transl_eng	My parents are paying for my new glasses.
+transl_deu	Meine Eltern bezahlen eine neue Brille für mich.

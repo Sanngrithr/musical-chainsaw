@@ -1,0 +1,2 @@
+annot_eng	DAUGHTER
+annot_deu	TOCHTER

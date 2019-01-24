@@ -1,0 +1,4 @@
+annot_eng	MY DAUGHTER X-right TOILET CLEAN-floor NOW CLEAN
+annot_deu	MEIN TOCHTER X-rechts TOILETTE PUTZEN-boden JETZT SAUBER
+transl_eng	My daughter cleaned the toilet, now it is clean.
+transl_deu	Meine Tochter hat die Toilette geputzt, jetzt ist sie sauber.

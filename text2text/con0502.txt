@@ -1,0 +1,4 @@
+annot_eng	I HOUSE SMALL-object WITH-what BALCONY WISH
+annot_deu	ICH HAUS KLEIN-gegenstand MIT-was BALKON WÜNSCHEN
+transl_eng	I wish for a little house with a balcony.
+transl_deu	Ich wünsche mir ein kleines Haus mit Balkon.

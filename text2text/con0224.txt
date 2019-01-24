@@ -1,0 +1,4 @@
+annot_eng	GIRL X-right SPARKLING-WINE DRINK
+annot_deu	MÄDCHEN X-rechts SEKT TRINKEN
+transl_eng	The girl is drinking sparkling wine.
+transl_deu	Das Mädchen trinkt Sekt.

@@ -1,0 +1,4 @@
+annot_eng	I AFFRAID BECAUSE I EARLY+BIRTH he-GET-i CAN
+annot_deu	ICH ANGST GRUND ICH FRÜH+GEBURT er-BEKOMMEN-ich KÖNNEN
+transl_eng	I am afraid of giving birth prematurely.
+transl_deu	Ich habe Angst, ich könnte eine Frühgeburt haben.

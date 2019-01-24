@@ -1,0 +1,4 @@
+annot_eng	THIS-time WEDNESDAY TEACHER X-right CHURCH+GUIDED-TOUR
+annot_deu	DIESEN-zeit MITTWOCH LEHRER X-rechts KIRCHE+FÜHRUNG
+transl_eng	The teacher will guide a tour through the church on Wednesday.
+transl_deu	Der Lehrer macht am Mittwoch eine Führung in der Kirche.

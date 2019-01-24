@@ -1,0 +1,4 @@
+annot_eng	MY WIFE X-right ALWAYS PERFUME USE WHEN X-right THEATRE i-VISIT-you
+annot_deu	MEIN EHEFRAU X-rechts IMMER PARFÜM BENUTZEN WENN X-rechts THEATER ich-BESUCHEN-du
+transl_eng	My wife always uses perfume when she goes to the theatre.
+transl_deu	Meine Ehefrau benutzt immer Parfüm, wenn sie ins Theater geht.

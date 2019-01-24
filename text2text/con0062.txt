@@ -1,0 +1,4 @@
+annot_eng	THIS-time TUESDAY GUIDED-TOUR X-middle YOUR FRIEND X-right he-COME-middle WHEN?
+annot_deu	DIESEN-zeit DIENSTAG FÜHRUNG X-mitte DEIN FREUND X-rechts er-KOMMEN-mitte WANN?
+transl_eng	When does your friend come to the guided tour on Tuesday?
+transl_deu	Wann kommt dein Freund am Dienstag zur Führung?

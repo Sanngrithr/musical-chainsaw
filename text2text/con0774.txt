@@ -1,0 +1,4 @@
+annot_eng	MY FAMILY CAMPING DRIVE WANT BUT I MYSELF-i DO-NOT-FEEL-LIKE
+annot_deu	MEIN FAMILIE CAMPING FAHREN WOLLEN ABER ICH SELBST-ich KEINE-LUST
+transl_eng	My family would like to go to the campsite but I do not feel like it.
+transl_deu	Meine Familie will zum Camping fahren, aber ich selbst habe keine Lust.

@@ -1,0 +1,4 @@
+﻿annot_eng	CINEMA START WHEN?
+annot_deu	KINO ANFANGEN WANN?
+transl_eng	I bake a cake.
+transl_deu	Ich backe einen Kuchen.

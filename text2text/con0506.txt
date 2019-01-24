@@ -1,0 +1,4 @@
+annot_eng	MY DAUGHTER X-right WISH WHAT FIVE BIRD YOUNG+SMALL-object
+annot_deu	MEIN TOCHTER X-rechts WÜNSCHEN WAS FÜNF VOGEL JUNG+KLEIN-gegenstand
+transl_eng	My daughter wishes for five young little birds.
+transl_deu	Meine Tochter wünscht sich fünf junge, kleine Vögel.

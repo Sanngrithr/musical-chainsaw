@@ -1,0 +1,4 @@
+annot_eng	I MONEY FORGET PLEASE YOU BREAD-ROLLS PAY
+annot_deu	ICH GELD VERGESSEN BITTE DU BRÖTCHEN BEZAHLEN
+transl_eng	I forgot my money, please pay for the bread rolls!
+transl_deu	Ich habe das Geld vergessen, bitte bezahle die Brötchen!

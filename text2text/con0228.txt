@@ -1,0 +1,4 @@
+annot_eng	I COKE FORGET
+annot_deu	ICH COLA VERGESSEN
+transl_eng	I forgot the coke.
+transl_deu	Ich habe die Cola vergessen.

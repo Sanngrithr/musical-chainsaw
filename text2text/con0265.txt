@@ -1,0 +1,4 @@
+annot_eng	YOU FEEL-LIKE THERE-you CAT YOUNG+SMALL-object LOOK-after YOU?
+annot_deu	DU LUST DA-du KATZE JUNG+KLEIN-gegenstand AUFPASSEN-auf DU?
+transl_eng	Would you like to look after a young little kitten?
+transl_deu	Hast du Lust auf eine junge, kleine Katze aufzupassen?

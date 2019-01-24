@@ -1,0 +1,4 @@
+annot_eng	WAITER X-right TEA COLD-cool SELL
+annot_deu	KELLNER X-rechts TEE KALT VERKAUFEN
+transl_eng	The waiter is selling cold tea.
+transl_deu	Der Kellner verkauft kalten Tee.

@@ -1,0 +1,4 @@
+annot_eng	SAUSAGE THERE-you?
+annot_deu	WURST DA-du?
+transl_eng	Do you have sausages?
+transl_deu	Hast du Wurst?

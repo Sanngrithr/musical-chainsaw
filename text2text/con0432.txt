@@ -1,0 +1,4 @@
+annot_eng	GRANDMA X-right he-EXPLAIN-i AT-i RAIN+JACKET SEW HOW
+annot_deu	OMA X-rechts er-ERKLÄREN-ich AUF-ich REGEN+JACKE NÄHEN WIE
+transl_eng	My grandma is explaining to me how to sew a rain coat.
+transl_deu	Die Oma erklärt mir, wie man eine Regenjacke näht.

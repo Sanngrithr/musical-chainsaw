@@ -1,0 +1,4 @@
+annot_eng	LEISURE-TIME YOU OFTEN-frequently DANCE COME-to?
+annot_deu	FREIZEIT DU OFT-häufig TANZEN KOMMEN-nach?
+transl_eng	Do you often go dancing in your leisure time?
+transl_deu	Gehst du in der Freizeit oft tanzen?

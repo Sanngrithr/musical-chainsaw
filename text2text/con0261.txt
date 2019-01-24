@@ -1,0 +1,4 @@
+annot_eng	FARMER X-right ALL ANIMALS LOOK-after MUST
+annot_deu	BAUER X-rechts ALLE TIERE AUFPASSEN-auf MÜSSEN
+transl_eng	The farmer has to look after all the animals.
+transl_deu	Der Bauer muss auf alle Tiere aufpassen.

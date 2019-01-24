@@ -1,0 +1,4 @@
+annot_eng	THIS-time FRIDAY CHILD X-right PLAY+TOY-space ORDER
+annot_deu	DIESEN-zeit FREITAG KIND X-rechts SPIELEN+ZEUG-raum BESTELLEN
+transl_eng	The child will order toys on Friday.
+transl_deu	Das Kind bestellt am Freitag Spielzeug.

@@ -1,0 +1,2 @@
+annot_eng	MEAT
+annot_deu	FLEISCH

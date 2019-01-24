@@ -1,0 +1,2 @@
+annot_eng	READ
+annot_deu	LESEN

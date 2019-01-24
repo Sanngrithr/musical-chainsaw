@@ -1,0 +1,4 @@
+annot_eng	AACHEN X-right THERE-IS WHAT OFTEN-every YEAR RIDE+TOURNAMENT FAMOUS
+annot_deu	AACHEN X-rechts ES-GIBT WAS OFT-jeden JAHR REITEN+TURNIER BEKANNT
+transl_eng	In Aachen there is a famous horse show every year.
+transl_deu	In Aachen gibt es jedes Jahr ein bekanntes Reitturnier.

@@ -1,0 +1,4 @@
+annot_eng	BOY X-right he-HELP-i CAN
+annot_deu	JUNGE X-rechts er-HELFEN-ich KÖNNEN
+transl_eng	The boy can help me.
+transl_deu	Der Junge kann mir helfen.

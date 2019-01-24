@@ -1,0 +1,4 @@
+annot_eng	CHEMIST'S+INDIVIDUAL X-right NAME WHAT?
+annot_deu	APOTHEKE+PERSON X-rechts NAME WAS?
+transl_eng	What is the chemist called?
+transl_deu	Wie heisst der Apotheker?

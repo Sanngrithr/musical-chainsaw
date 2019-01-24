@@ -1,0 +1,2 @@
+annot_eng	MEET
+annot_deu	KENNENLERNEN

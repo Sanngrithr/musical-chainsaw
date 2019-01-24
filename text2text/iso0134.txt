@@ -1,0 +1,2 @@
+annot_eng	WHEN
+annot_deu	WANN

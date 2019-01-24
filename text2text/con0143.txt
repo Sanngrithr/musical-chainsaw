@@ -1,0 +1,4 @@
+annot_eng	THIS-time MONDAY CHILD DEAF X-right BUS COME-here
+annot_deu	DIESEN-zeit MONTAG KIND GEHÖRLOS X-rechts BUS KOMMEN-hier
+transl_eng	The deaf child will come here by bus on Monday.
+transl_deu	Das gehörlose Kind kommt am Montag mit dem Bus hierher.

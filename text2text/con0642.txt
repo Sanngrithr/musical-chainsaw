@@ -1,0 +1,4 @@
+annot_eng	MY ENTRANCE+CARD-post i-SHOW-you HAVE-TO?
+annot_deu	MEIN EINTRITT+KARTE-post ich-ZEIGEN-du SOLLEN?
+transl_eng	Do you want me to show you my ticket?
+transl_deu	Soll ich dir meine Eintrittskarte zeigen?

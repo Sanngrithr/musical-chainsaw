@@ -1,0 +1,4 @@
+annot_eng	CAR X-right INTERESTING I LIKE ORDER
+annot_deu	AUTO X-rechts INTERESSANT ICH MÖGEN BESTELLEN
+transl_eng	I would like to order the interesting car.
+transl_deu	Ich möchte das interessante Auto bestellen.

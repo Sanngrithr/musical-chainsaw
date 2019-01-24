@@ -1,0 +1,4 @@
+annot_eng	THIS-time AUTUMN FARMER X-right HAMBURG COME-there BECAUSE ANIMALS BUY
+annot_deu	DIESEN-zeit HERBST BAUER X-rechts HAMBURG KOMMEN-dahin GRUND TIERE KAUFEN
+transl_eng	In autumn the farmer goes to Hamburg in order to buy animals.
+transl_deu	Im Herbst fährt der Bauer nach Hamburg, um Tiere zu kaufen.

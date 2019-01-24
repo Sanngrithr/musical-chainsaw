@@ -1,0 +1,2 @@
+annot_eng	SAUSAGE
+annot_deu	WURST

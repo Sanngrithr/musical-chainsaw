@@ -1,0 +1,4 @@
+annot_eng	MY GRANDCHILD+CHILDREN X-right DO-NOT-FEEL-LIKE ENGLAND GO-ON-A-JOURNEY
+annot_deu	MEIN ENKEL+KINDER X-rechts KEINE-LUST ENGLAND VERREISEN
+transl_eng	My grandchildren do not want to go to England.
+transl_deu	Meine Enkelkinder haben keine Lust, nach England zu reisen.

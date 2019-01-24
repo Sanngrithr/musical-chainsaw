@@ -1,0 +1,4 @@
+annot_eng	STUDENT X-right INSTITUTE X-middle he-COME-middle CAR+DRIVE
+annot_deu	STUDENT X-rechts INSTITUT X-mitte er-KOMMEN-mitte AUTO+FAHREN
+transl_eng	The student goes to the institute by car.
+transl_deu	Der Student kommt mit dem Auto zum Institut.

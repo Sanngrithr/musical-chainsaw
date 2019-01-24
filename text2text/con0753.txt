@@ -1,0 +1,4 @@
+annot_eng	YOUR LUNCHTIME+BREAK HOW-LONG?
+annot_deu	DEIN MITTAG+PAUSE WIE-LANG?
+transl_eng	How long is your lunch break?
+transl_deu	Wie lang ist deine Mittagspause?

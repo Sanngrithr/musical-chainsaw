@@ -1,0 +1,4 @@
+annot_eng	MAN X-right A-LOT-OF MOTORCYCLE+DRIVE
+annot_deu	MANN X-rechts VIEL MOTORRAD+FAHREN
+transl_eng	The man does a lot of motorcycling.
+transl_deu	Der Mann fährt viel Motorrad.

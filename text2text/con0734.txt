@@ -1,0 +1,4 @@
+annot_eng	I NEWS WITH-what SUBTITLE UNDERSTAND
+annot_deu	ICH NACHRICHTEN MIT-was UNTERTITEL VERSTEHEN
+transl_eng	I understand the news with subtitles.
+transl_deu	Ich verstehe die Nachrichten mit Untertitel.

@@ -1,0 +1,4 @@
+annot_eng	I SAD BECAUSE TODAY EARLY MY CAT DIED
+annot_deu	ICH TRAURIG GRUND HEUTE FRÜH MEIN KATZE GESTORBEN
+transl_eng	I am sad because my cat has died this morning.
+transl_deu	Ich bin traurig, weil heute früh meine Katze gestorben ist.

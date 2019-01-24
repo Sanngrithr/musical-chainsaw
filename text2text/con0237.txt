@@ -1,0 +1,4 @@
+annot_eng	WE-all WAIT UNTIL MEAT COME-here
+annot_deu	WIR-alle WARTEN BIS FLEISCH KOMMEN-hier
+transl_eng	We are waiting for the meat to arrive.
+transl_deu	Wir warten, bis das Fleisch kommt.

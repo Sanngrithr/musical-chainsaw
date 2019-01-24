@@ -1,0 +1,4 @@
+annot_eng	MY GRANDPA AACHEN X-right CURE DO UNTIL NEW+YEAR
+annot_deu	MEIN OPA AACHEN X-rechts KUR MACHEN BIS NEU+JAHR
+transl_eng	My grandpa is taking a cure in Aachen until New Year's Day.
+transl_deu	Mein Opa wird bis Neujahr eine Kur in Aachen machen.

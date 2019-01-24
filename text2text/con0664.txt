@@ -1,0 +1,4 @@
+annot_eng	MY BOSS OFTEN-frequently LATE HOME BECAUSE ALWAYS A-LOT-OF WORK THERE-you
+annot_deu	MEIN CHEF OFT-häufig SPÄT NACH-HAUSE GRUND IMMER VIEL ARBEIT DA-du
+transl_eng	My boss often gets home late because he always has a lot of work to do.
+transl_deu	Mein Chef kommt oft spät nach Hause, weil er immer viel Arbeit hat.

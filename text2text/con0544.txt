@@ -1,0 +1,4 @@
+annot_eng	YOUR APPLICATION i-FOR-he PROJECT X-right IMPORTANT
+annot_deu	DEIN BEWERBUNG ich-FÜR-er PROJEKT X-rechts WICHTIG
+transl_eng	Your application for the project is important.
+transl_deu	Deine Bewerbung für das Projekt ist wichtig.

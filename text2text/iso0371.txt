@@ -1,0 +1,2 @@
+annot_eng	ALWAYS
+annot_deu	IMMER

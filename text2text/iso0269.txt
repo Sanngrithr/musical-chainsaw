@@ -1,0 +1,2 @@
+annot_eng	SON
+annot_deu	SOHN

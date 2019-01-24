@@ -1,0 +1,2 @@
+annot_eng	CAKE|COURSE|BOAT
+annot_deu	KUCHEN|KURS|BOOT

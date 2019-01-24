@@ -1,0 +1,4 @@
+annot_eng	MY SISTER SMALL-person X-right GRANDMA GO-to UNTIL EASTER STAY-right
+annot_deu	MEIN SCHWESTER KLEIN-person X-rechts OMA GEHEN-nach BIS OSTERN BLEIBEN-rechts
+transl_eng	My little sister is visiting grandma and is staying there until Easter.
+transl_deu	Meine kleine Schwester besucht Oma und bleibt dort bis Ostern.

@@ -1,0 +1,4 @@
+annot_eng	BROTHER X-right PHONE LIKE
+annot_deu	BRUDER X-rechts TELEFONIEREN MÖGEN
+transl_eng	My brother likes to phone.
+transl_deu	Der Bruder telefoniert gerne.

@@ -1,0 +1,4 @@
+annot_eng	THIS-time WEDNESDAY CHURCH START HOW-MUCH CLOCK?
+annot_deu	DIESEN-zeit MITTWOCH KIRCHE ANFANGEN WIEVIEL UHR?
+transl_eng	What time will church start on Wednesday?
+transl_deu	Um wieviel Uhr fängt am Mittwoch die Kirche an?

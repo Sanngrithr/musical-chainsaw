@@ -1,0 +1,4 @@
+annot_eng	I ADDRESSES X-middle HOTEL i-GIVE-you HAVE-TO?
+annot_deu	ICH ADRESSEN X-mitte HOTEL ich-GEBEN-du SOLLEN?
+transl_eng	Do you want me to give you the address of the hotel?
+transl_deu	Soll ich dir die Hoteladressen geben?

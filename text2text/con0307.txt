@@ -1,0 +1,4 @@
+annot_eng	I AFFRAID THERE-i BECAUSE BALCONY X-middle SPIDER MANY THERE-you
+annot_deu	ICH ANGST DA-ich GRUND BALKON X-mitte SPINNE VIELE DA-du
+transl_eng	I am afraid of the many spiders that you have got on your balcony.
+transl_deu	Ich habe Angst vor den vielen Spinnen, die du auf dem Balkon hast.

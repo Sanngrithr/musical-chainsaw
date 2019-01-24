@@ -1,0 +1,4 @@
+annot_eng	THIS-time WEDNESDAY BOSS HEARING X-right PLAY+TOY-space BUY
+annot_deu	DIESEN-zeit MITTWOCH CHEF HÖREND X-rechts SPIELEN+ZEUG-raum KAUFEN
+transl_eng	The hearing boss will buy toys on Wednesday.
+transl_deu	Der hörende Chef kauft am Mittwoch Spielzeug. 

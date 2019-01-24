@@ -1,0 +1,4 @@
+annot_eng	YOU PICTURE-big X-middle TAKE-A-PICTURE NOT-ALLOWED
+annot_deu	DU BILD-gross X-mitte FOTOGRAFIEREN NICHT-DÜRFEN
+transl_eng	You are not allowed to photograph the picture!
+transl_deu	Du darfst das Bild nicht fotografieren!

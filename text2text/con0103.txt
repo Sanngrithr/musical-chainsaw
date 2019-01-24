@@ -1,0 +1,4 @@
+annot_eng	I i-ANSWER-you
+annot_deu	ICH ich-ANTWORTEN-du
+transl_eng	I am answering you.
+transl_deu	Ich antworte dir.

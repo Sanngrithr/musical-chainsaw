@@ -1,0 +1,4 @@
+annot_eng	THIS-time FRIDAY MAN X-right PRESENT BUY
+annot_deu	DIESEN-zeit FREITAG MANN X-rechts GESCHENK KAUFEN
+transl_eng	The man will buy a present on Friday.
+transl_deu	Der Mann kauft am Freitag ein Geschenk.

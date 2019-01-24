@@ -1,0 +1,4 @@
+annot_eng	TODAY EXCELLENT+MARKET X-right SALAD WE-all BUY
+annot_deu	HEUTE SUPER+MARKT X-rechts SALAT WIR-alle KAUFEN
+transl_eng	Today we will buy lettuce in the supermarket.
+transl_deu	Heute kaufen wir im Supermarkt Salat ein.

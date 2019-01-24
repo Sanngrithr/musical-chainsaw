@@ -1,0 +1,4 @@
+annot_eng	I WITH-what BABY DOCTOR X-right HAVE-BEEN BECAUSE STOMACH+PAIN
+annot_deu	ICH MIT-was BABY ARZT X-rechts GEWESEN GRUND BAUCH+SCHMERZEN
+transl_eng	I took the baby to the doctor because it had a stomachache.
+transl_deu	Ich war mit dem Baby beim Arzt, weil es Bauschmerzen hatte.

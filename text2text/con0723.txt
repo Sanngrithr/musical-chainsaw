@@ -1,0 +1,4 @@
+annot_eng	EUROPE X-right WORK+PLACE SOON SMOKE PROHIBITED
+annot_deu	EUROPA X-rechts ARBEITEN+PLATZ BALD RAUCHEN VERBOTEN
+transl_eng	In Europe smoking at work will soon be prohibited.
+transl_deu	In Europa wird das Rauchen am Arbeitsplatz bald verboten sein.

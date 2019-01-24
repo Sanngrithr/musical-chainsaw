@@ -1,0 +1,4 @@
+annot_eng	YOUR TASK WHAT CAR+INSURANCE NOW PAY
+annot_deu	DEIN AUFGABE WAS AUTO+VERSICHERUNG JETZT BEZAHLEN
+transl_eng	It is your job to pay for the car insurance now.
+transl_deu	Es ist deine Aufgabe, jetzt die Autoversicherung zu bezahlen.

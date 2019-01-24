@@ -1,0 +1,4 @@
+annot_eng	MY FRIEND X-right SUN+GLASSES-eyes he-PRESENT-i
+annot_deu	MEIN FREUND X-rechts SONNE+BRILLE er-SCHENKEN-ich
+transl_eng	My friend is giving me sun glasses as a present.
+transl_deu	Mein Freund schenkt mir eine Sonnenbrille.

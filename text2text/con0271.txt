@@ -1,0 +1,4 @@
+annot_eng	I LIVE+ROOM TIDY-UP X-middle THREE SPIDER THERE-you
+annot_deu	ICH WOHNEN+ZIMMER AUFRÄUMEN X-mitte DREI SPINNE DA-du
+transl_eng	When I tidied up the living room, I found three spiders.
+transl_deu	Als ich das Wohnzimmer aufräumte, waren dort drei Spinnen.

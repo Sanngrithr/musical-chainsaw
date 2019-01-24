@@ -1,0 +1,2 @@
+annot_eng	MY|PREFERRED
+annot_deu	MEIN|LIEBER

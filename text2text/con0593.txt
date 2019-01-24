@@ -1,0 +1,4 @@
+annot_eng	SECRETARY X-right he-TELL-i AT-i IN-THE-MORNING 8-CLOCK ALWAYS A-LOT-OF TRAFFIC
+annot_deu	SEKRETÄRIN X-rechts er-ERZÄHLEN-ich AUF-ich MORGENS 8-UHR IMMER VIEL VERKEHR
+transl_eng	The secretary is telling me that there is always a lot of traffic at 8am.
+transl_deu	Die Sekretärin erzählt mir, dass morgens um 8:00 Uhr immer viel Verkehr ist.

@@ -1,0 +1,4 @@
+annot_eng	I AACHEN X-right THREE+ROOM+FLAT THERE-i
+annot_deu	ICH AACHEN X-rechts DREI+ZIMMER+WOHNUNG DA-ich
+transl_eng	I have got a three-room flat in Aachen.
+transl_deu	Ich habe in Aachen eine Dreizimmerwohnung.

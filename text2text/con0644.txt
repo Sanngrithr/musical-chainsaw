@@ -1,0 +1,4 @@
+annot_eng	MY ENGINE+BOAT NEW I i-SHOW-you MAY?
+annot_deu	MEIN MOTOR+BOOT NEU ICH ich-ZEIGEN-du DÜRFEN?
+transl_eng	May I show you my new motorboat?
+transl_deu	Darf ich dir mein neues Motorboot zeigen?

@@ -1,0 +1,4 @@
+annot_eng	I HAPPY BECAUSE TODAY I HEAD+PAIN NOT-HAVE
+annot_deu	ICH FREUEN GRUND HEUTE ICH KOPF+SCHMERZEN NICHT-HABEN
+transl_eng	I am happy because I do not have a headache today.
+transl_deu	Ich freue mich, weil ich heute keine Kopfschmerzen habe.

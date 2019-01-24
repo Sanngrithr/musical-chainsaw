@@ -1,0 +1,4 @@
+annot_eng	YOU RAIN+UMBRELLA LOSE-things NOT-ALLOWED
+annot_deu	DU REGEN+SCHIRM VERLIEREN-sachen NICHT-DÜRFEN
+transl_eng	You should not lose the umbrella!
+transl_deu	Du darfst den Regenschirm nicht verlieren!

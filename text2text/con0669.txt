@@ -1,0 +1,4 @@
+annot_eng	BATH-body+ROOM X-middle STILL CLEAN YOU CLEAN-floor NOT-NEED
+annot_deu	BADEN-körper+ZIMMER X-mitte NOCH SAUBER DU PUTZEN-boden NICHT-BRAUCHEN
+transl_eng	The bathroom is still clean, you do not have to clean it.
+transl_deu	Das Badezimmer ist noch sauber, du brauchst es nicht zu putzen.

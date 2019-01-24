@@ -1,0 +1,4 @@
+annot_eng	LAST-time EASTER MY FRIEND X-right PERFUME he-SEND-i
+annot_deu	LETZTEN-zeit OSTERN MEIN FREUND X-rechts PARFÜM er-SCHICKEN-ich
+transl_eng	My friend sent me perfume last Easter.
+transl_deu	Letztes Ostern hat mir mein Freund Parfüm geschickt.

@@ -1,0 +1,4 @@
+annot_eng	BUTTER X-right DO HOW?
+annot_deu	BUTTER X-rechts MACHEN WIE?
+transl_eng	How is butter produced?
+transl_deu	Wie wird Butter hergestellt?

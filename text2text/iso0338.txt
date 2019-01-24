@@ -1,0 +1,2 @@
+annot_eng	END|FINALLY
+annot_deu	ENDE|ENDLICH

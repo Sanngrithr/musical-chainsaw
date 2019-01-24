@@ -1,0 +1,4 @@
+annot_eng	BOY X-right TRY MUST
+annot_deu	JUNGE X-rechts PROBIEREN MÜSSEN
+transl_eng	The boy has to try.
+transl_deu	Der Junge muss probieren.

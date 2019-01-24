@@ -1,0 +1,4 @@
+annot_eng	YOU IN-THE-MORNING ALWAYS JOG HOW-LONG BACK-THEN ALREADY START WHEN?
+annot_deu	DU MORGENS IMMER JOGGEN WIE-LANG DAMALS SCHON ANFANGEN WANN?
+transl_eng	When did you start back then to go jogging in the morning?
+transl_deu	Wann hast du damals angefangen, immer morgens zu joggen?

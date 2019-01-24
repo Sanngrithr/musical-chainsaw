@@ -1,0 +1,4 @@
+annot_eng	PLEASE YOU WINDOW+SILL-window TIDY-UP
+annot_deu	BITTE DU FENSTER+BANK-fenster AUFRÄUMEN
+transl_eng	Please tidy up the window sill.
+transl_deu	Bitte räume die Fensterbank auf!

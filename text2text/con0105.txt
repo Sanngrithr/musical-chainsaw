@@ -1,0 +1,4 @@
+annot_eng	WE-all i-ANSWER-you MUST
+annot_deu	WIR-alle ich-ANTWORTEN-du MÜSSEN
+transl_eng	We have to answer you.
+transl_deu	Wir müssen dir antworten.

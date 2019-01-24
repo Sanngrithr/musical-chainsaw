@@ -1,0 +1,4 @@
+annot_eng	MY BOSS X-right LAPTOP he-LEND-i UNTIL DAY-AFTER-TOMORROW CAN
+annot_deu	MEIN CHEF X-rechts LAPTOP er-LEIHEN-ich BIS ÜBERMORGEN KÖNNEN
+transl_eng	My boss can lend me the laptop until the day after tomorrow.
+transl_deu	Mein Chef kann mir den Laptop bis übermorgen leihen.

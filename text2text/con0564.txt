@@ -1,0 +1,4 @@
+annot_eng	LUNCHTIME+BREAK I WITH-what COLLEAGUES DISCUSS ABOUT-what POLITICS
+annot_deu	MITTAG+PAUSE ICH MIT-was KOLLEGEN DISKUTIEREN ÜBER-was POLITIK
+transl_eng	I discuss politics with my colleagues during lunch break.
+transl_deu	In der Mittagspause diskutiere ich mit Kollegen über Politik.

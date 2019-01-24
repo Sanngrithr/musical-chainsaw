@@ -1,0 +1,4 @@
+annot_eng	TODAY ALL PEOPLE MONEY SAVE MUST
+annot_deu	HEUTE ALLE MENSCHEN GELD SPAREN MÜSSEN
+transl_eng	Today everybody has to save money.
+transl_deu	Heute müssen alle Menschen Geld sparen.

@@ -1,0 +1,4 @@
+annot_eng	ALL THREE-YEAR++ I AACHEN X-right CURE DO
+annot_deu	ALLE 3-JAHRE++ ICH AACHEN X-rechts KUR MACHEN
+transl_eng	Every three years I take a cure in Aachen.
+transl_deu	Alle drei Jahre mache ich eine Kur in Aachen.

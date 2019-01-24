@@ -1,0 +1,4 @@
+annot_eng	CLOTHING+WARDROBE NICE THERE-i
+annot_deu	KLEIDUNG+SCHRANK SCHÖN DA-ich
+transl_eng	I have got a nice wardrobe.
+transl_deu	Ich habe einen schönen Kleiderschrank.

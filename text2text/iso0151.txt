@@ -1,0 +1,2 @@
+annot_eng	1|ONE
+annot_deu	EINS

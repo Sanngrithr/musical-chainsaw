@@ -1,0 +1,4 @@
+annot_eng	WAITER X-right BUS DRIVE
+annot_deu	KELLNER X-rechts BUS FAHREN
+transl_eng	The waiter takes the bus.
+transl_deu	Der Kellner fährt Bus.

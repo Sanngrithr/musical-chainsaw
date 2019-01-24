@@ -1,0 +1,4 @@
+annot_eng	TODAY WINE RED AND BEER I DRINK LIKE
+annot_deu	HEUTE WEIN ROT UND BIER ICH TRINKEN MÖGEN
+transl_eng	Today I would like to drink red wine and beer.
+transl_deu	Heute möchte ich Rotwein und Bier trinken.

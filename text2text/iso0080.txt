@@ -1,0 +1,2 @@
+annot_eng	LEARN
+annot_deu	LERNEN

@@ -1,0 +1,4 @@
+annot_eng	SCHOOL+DIRECTOR+INDIVIDUAL X-right DECIDE SUMMER+PARTY X-middle START WHEN
+annot_deu	SCHULE+DIREKTOR+PERSON X-rechts ENTSCHEIDEN SOMMER+FEST X-mitte ANFANGEN WANN
+transl_eng	The school principal settles the date for the summer party.
+transl_deu	Der Schuldirektor entscheidet, wann das Sommerfest anfängt.

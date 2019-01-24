@@ -1,0 +1,4 @@
+annot_eng	ALL THREE-YEAR++ I CLOTHING+WARDROBE TIDY-UP
+annot_deu	ALLE 3-JAHRE++ ICH KLEIDUNG+SCHRANK AUFRÄUMEN
+transl_eng	Every three years I tidy up the wardrobe. 
+transl_deu	Alle drei Jahre räume ich den Kleiderschrank auf.

@@ -1,0 +1,2 @@
+annot_eng	PEPPER
+annot_deu	PFEFFER

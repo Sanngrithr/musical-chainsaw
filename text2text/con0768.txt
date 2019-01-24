@@ -1,0 +1,4 @@
+annot_eng	MY BUS OFTEN-frequently DELAY WHEN PROFESSION+TRAFFIC THERE-you
+annot_deu	MEIN BUS OFT-häufig VERSPÄTUNG WENN BERUF+VERKEHR DA-du
+transl_eng	My bus is often delayed during rush-hour traffic. 
+transl_deu	Im Berufsverkehr hat mein Bus oft Verspätung.

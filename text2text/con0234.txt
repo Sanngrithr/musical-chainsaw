@@ -1,0 +1,4 @@
+annot_eng	HUSBAND X-right PRESENT SELL
+annot_deu	EHEMANN X-rechts GESCHENK VERKAUFEN
+transl_eng	The husband is selling the present.
+transl_deu	Der Ehemann verkauft das Geschenk.

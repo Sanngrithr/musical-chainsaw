@@ -1,0 +1,4 @@
+annot_eng	PLEASE MY VIDEOPHONE BACK I MYSELF-i NEED
+annot_deu	BITTE MEIN BILDTELEFON ZURÜCK ICH SELBST-ich BRAUCHEN
+transl_eng	Please return my videophone, I need it myself!
+transl_deu	Bitte gib mir mein Bildtelefon zurück, ich brauche es selbst!

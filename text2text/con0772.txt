@@ -1,0 +1,4 @@
+annot_eng	LAST-time HOLIDAY I MY WECKER-licht HOTEL X-right FORGET
+annot_deu	LETZTEN-zeit URLAUB ICH MEIN WECKER-licht HOTEL X-rechts VERGESSEN
+transl_eng	I forgot my alarm clock with flashlight in the hotel during my last holiday.
+transl_deu	Im letzten Urlaub habe ich meinen Blitzlicht-Wecker im Hotel vergessen.
